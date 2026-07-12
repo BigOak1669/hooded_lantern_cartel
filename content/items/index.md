@@ -1,0 +1,55 @@
+---
+title: "Items"
+tags: [campaign, items]
+---
+
+# Items
+
+- **[24 silver pieces](item-24-silver-pieces)** — Coin recovered from Harlan's body.
+- **[Adamantine bar](item-adamantine-bar)** — Valuable metal bar recovered near the portal room.
+- **[Alarm spell scroll](item-alarm-spell-scroll)** — Alarm spell scroll
+- **[Amber vials](item-amber-vials)** — Four ornate amber vials
+- **[Archie ticket](item-archie-ticket)** — A death-return ticket tied to Archie, used to restore a dead companion through a still only partly understood ritual or contract.
+- **[Bag of holding](item-bag-of-holding)** — Magic bag identified as having five slots.
+- **[Belt of the Thornswild / Gold-and-Unicorn-Horn Buckle](item-hero-belt-gold-and-unicorn-horn-buckle)** — Likely target item from Vakish Baharus' belt-buckle lead, recovered from the elven warrior statue in the third Vakish mound.
+- **[black opals](item-black-opals)** — The party recovered a crystal owl, a gold jackal statue, and several gems, including rubies and black opals.
+- **[black pouch / bag of holding](item-black-pouch-bag-of-holding)** — Magical container of black interior space; Mazzah identifies it as a bag of holding that seems to hold about five items.
+- **[Blackbark Gin](item-blackbark-gin)** — The Blackbark gin: A type of spirit consumed during the feast.
+- **[chalice](item-chalice)** — Magic vessel previously able to fill itself once per day and produce unusual contents; now apparently spent.
+- **[Chalice / goblet](item-chalice-goblet)** — Valuable cup sought by Celestia, claimed by Werner, and reportedly in Maza's temporary possession for study.
+- **[Chaotic tablet / ash-map tablet](item-chaotic-tablet-ash-map-tablet)** — One-use or spent tablet found on a pedestal in the tablet chamber. It gave off a chaotic aura; when Oogie read it, it turned to ash and left a paper map that briefly showed the Barrow Mounds and a castle before fading blank. Wade ruled it i
+- **[Charm Person Spell Scroll](item-charm-person-spell-scroll)** — Spell scroll recovered from a flooded sarcophagus in Session 10 and identified in Session 11 as _Charm Person_, a witch spell.
+- **[Chunk of silver](item-chunk-of-silver)** — Piece of silver recovered in the dungeon and later discussed as potentially useful crafting material.
+- **[Cloak of Elvenkind](item-cloak-of-elvenkind)** — Magical cloak revealed from a preserved green shroud after Sab performed a funerary prayer in the Thornswild burial chamber. Mazah identified it as a Cloak of Elvenkind.
+- **[Cloak of the Traveler](item-cloak-of-the-traveler)** — Earlier protective cloak from Vakish Baharus that guarded against fire and cold. The party returned it in Session 12 when choosing to keep the Belt of the Thornswild.
+- **[Cobra-Headed Staff](item-cobra-headed-staff)** — A fine dark-wood staff topped by a carved cobra head, recovered from a lectern between two lizardfolk statues in the broken-sigil mound.
+- **[Crystal Owl / Owl of Magnus](item-crystal-owl)** — Magical crystal owl recovered from one of Vakish's barrow leads and identified earlier as the Owl of Magnus.
+- **[Fine dagger from the northern barrow](item-fine-dagger-from-the-northern-barrow)** — A pristine-looking dagger found by Tiramel and given to the party in thanks after the rescue.
+- **[fine sledgehammer](item-fine-sledgehammer)** — Werner's well-made hammer with engravings and leather wrap.
+- **[Four ornate amber vials](item-four-ornate-amber-vials)** — Four ornate amber vials
+- **[Giant gold disc / coin](item-giant-gold-disc-coin)** — Large golden object recovered from the shrine and later sold or negotiated over in town.
+- **[Gold Jackal Statue](item-gold-jackal-statue)** — Gold jackal statue/idol recovered from one of Vakish Baharus's barrow leads.
+- **[Gold ring](item-gold-ring)** — A gold ring
+- **[healing salves from the chalice](item-healing-salves-from-the-chalice)** — Ointments Mazzah says he produced before the chalice ran dry; possibly healing.
+- **[Iron Key](item-iron-key)** — Iron Key: obtained from the old watchter.
+- **[Letter addressed to Tacey](item-letter-addressed-to-tacey)** — Letter recovered from the ghoul scene and tied to the Harlan/Tacey thread.
+- **[Letter to Tacey](item-letter-to-tacey)** — Sealed letter recovered from Harlan's body and delivered to Tacey.
+- **[Lucky sledgehammer](item-lucky-sledgehammer)** — Werner's preferred payment demand; allegedly left behind in the mound where he found the chalice.
+- **[Map to sealed burial mound](item-map-to-sealed-burial-mound)** — Crude hand-drawn map recovered from the campsite, marked sealed.
+- **[note to Werner](item-note-to-werner)** — Short written message ordering the chalice brought to the mound north of the obelisk.
+- **[Ornate urn / amphora](item-ornate-urn-amphora)** — Large, finely made vessel from the Thornswild tomb, inlaid with gold, mother of pearl, and shell-like green detailing. It contained ash or dust and was sold to Vakish Baharus for 60 gp.
+- **[Pale Glowing Longsword](item-pale-glowing-longsword)** — Pale glowing longsword held by the elven warrior statue in the sculptural battle chamber of the third Vakish mound.
+- **[Potion of Invisibility](item-potion-of-invisibility)** — Previously unidentified vial recovered from the ghoul and identified by Maza in this session.
+- **[Returning Dagger](item-returning-dagger)** — Magical dagger originally held by Sab that returns when thrown and called/thought back.
+- **[rubies](item-rubies)** — The party recovered a crystal owl, a gold jackal statue, and several gems, including rubies and black opals.
+- **[Scrap barrow map](item-scrap-barrow-map)** — Partial hand-drawn map recovered before this session, showing a sealed mound and leading the party to the broader barrow complex.
+- **[Silver Chalice](item-silver-chalice)** — Recovered relic sought by Celestia; currently with Maza for study; fills once per day with liquid and is confirmed to produce mead.
+- **[Silver dagger commission](item-silver-dagger-commission)** — Planned conversion of carried silver into a silver dagger by a smith in Ore and Furnace.
+- **[Silver Goblet](item-silver-goblet)** — Target item in the party's new town-side job; apparently in Osric's orbit and valuable enough to trigger a commission.
+- **[Spent chalice](item-spent-chalice)** — The previously recovered chalice, now believed to be out of uses.
+- **[Starshine Eel](item-starshine-eel)** — The starshine eel: A rare and valuable ingredient used in the feast.
+- **[Two Silver Diamond Rings](item-two-silver-diamond-rings)** — Two small silver rings set with diamonds, recovered from elven funerary remains in the third Vakish mound.
+- **[Unidentified Spell Scroll Tube](item-unidentified-spell-scroll-tube)** — Duplicate / historical pointer. Use Charm Person spell scroll as the canonical item note.
+- **[Very good greataxe](item-very-good-greataxe)** — Quality greataxe recovered in the dungeon and carried out for possible appraisal or sale.
+- **[Werner's lucky sledgehammer](item-werner-s-lucky-sledgehammer)** — Tool or weapon Werner wants returned in exchange for dealing on the chalice; apparently found by the Iron Chain inside the northern barrow.
+- **[Werner’s sledgehammer](item-werner-s-sledgehammer)** — Heavy hammer taken previously and used this session to force open sealed barrows.
