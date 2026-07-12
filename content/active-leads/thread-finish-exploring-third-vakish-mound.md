@@ -19,7 +19,12 @@ tags: [campaign, active-leads]
 
 - Partly resolved, partly open. The party completed the belt-lead follow-up and left the mound, but chose not to explore the deep water to the north.
 - The old "leave with the belt or continue first" decision is resolved: they left, returned to Helix, and settled the belt with Vakish.
-- Wade confirmed the generated "flooded ceremonial barrow" is this same site, not the separate [[location-water-filled-barrow-tomb|water-filled barrow tomb]].
+- The flooded ceremonial barrow is this same site, not the separate [[location-water-filled-barrow-tomb|water-filled barrow tomb]].
+
+## Campaign History
+
+- 2026-05-03 [[2026_0503 Session 11]] - The GM ended by noting that the party had the belt/buckle Vakish wanted but had not finished exploring.
+- 2026-05-17 [[2026_0517 Session 12]] - The party opened the remaining nearby chambers, recovered the [[item-cloak-of-elvenkind|Cloak of Elvenkind]], the ornate urn, and the chaotic tablet-map clue, then exited. They left the deep northern water unexplored.
 
 ## Open Questions
 

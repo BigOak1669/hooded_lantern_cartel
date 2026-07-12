@@ -16,7 +16,9 @@ tags: [campaign, active-leads]
 
 ## Current State
 
-- The party's next move, possibly revisiting the prominent barrow or exploring the mound north of the obelisk.
+## Campaign History
+
+- 2026-03-08 [[2026_0308 Session 07]] — The party's next move, possibly revisiting the prominent barrow or exploring the mound north of the obelisk.
 
 ## Open Questions
 
@@ -24,8 +26,4 @@ tags: [campaign, active-leads]
 
 ## Next Likely Touchpoints
 
-- The party's next move, possibly revisiting the prominent barrow or exploring the mound north of the obelisk.
-
 ## Notes / Uncertainty
-
-- The party's next move, possibly revisiting the prominent barrow or exploring the mound north of the obelisk.

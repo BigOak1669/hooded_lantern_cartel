@@ -1,6 +1,6 @@
 ---
 title: "Fair Church"
-description: "Helix church faction indirectly implicated by the unresolved half-orc worker / Mort hook. Wade ruled the connection is unconfirmed but very likely; Session 12 does not show the church directly."
+description: "Helix church faction pulled into the Mort investigation by Gant's warning, the half-mask beneath Mort's bed, and the missing corpse. Mort's exact allegiance remains unconfirmed."
 tags: [campaign, factions]
 ---
 
@@ -8,7 +8,7 @@ tags: [campaign, factions]
 
 ## Summary
 
-- Helix church faction indirectly implicated by the unresolved half-orc worker / Mort hook. Wade ruled the connection is unconfirmed but very likely; Session 12 does not show the church directly.
+- Helix church faction pulled into the Mort investigation by Gant's warning, the half-mask beneath Mort's bed, and the missing corpse. Mort's exact allegiance remains unconfirmed.
 
 ## Current Status
 
@@ -21,7 +21,7 @@ tags: [campaign, factions]
 ## Known Facts
 
 - A prior hook involved a half-orc church worker / Mort and possible Steel Bone Brotherhood mask/connection.
-- In Session 12, the party linked a large figure entering a marked mound to that prior hook. Wade ruled the identity/connection unconfirmed but very likely.
+- In Session 12, the party linked a large figure entering a marked mound to that prior hook; Session 14 strengthened but did not prove the identification.
 
 ## What The Players Know
 

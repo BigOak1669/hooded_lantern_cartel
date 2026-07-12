@@ -12,19 +12,11 @@ tags: [campaign, places]
 
 ## Description
 
-- A previously opened mound containing a disturbed skeleton and a gold ring but no major remaining treasure.
-
 ## Current Relevance
-
-- A previously opened mound containing a disturbed skeleton and a gold ring but no major remaining treasure.
 
 ## What The Players Know
 
-- A previously opened mound containing a disturbed skeleton and a gold ring but no major remaining treasure.
-
 ## Important NPCs / Factions
-
-- None noted.
 
 ## Session History
 
@@ -32,4 +24,6 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- None noted.
+## Garden Connections
+
+- [Parent: The Barrow Mounds](../places/location-barrow-mounds)

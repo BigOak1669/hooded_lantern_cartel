@@ -1,6 +1,6 @@
 ---
 title: "Thornswild elven tribes"
-description: "Elven people or peoples connected to the Thornswild region, the Belt of the Thornswild, and the flooded tomb's wall scenes. Vakish says they lived in a great forest north/east of the mounds; Wade clarified the fog caused the cutoff from the"
+description: "Elven people connected to the Thornswild region, the Belt of the Thornswild, and the flooded tomb's wall scenes. Vakish says they lived in a great forest north or east of the mounds before the fog cut off contact."
 tags: [campaign, factions]
 ---
 
@@ -8,7 +8,7 @@ tags: [campaign, factions]
 
 ## Summary
 
-- Elven people or peoples connected to the Thornswild region, the Belt of the Thornswild, and the flooded tomb's wall scenes. Vakish says they lived in a great forest north/east of the mounds; Wade clarified the fog caused the cutoff from them.
+- Elven people connected to the Thornswild region, the Belt of the Thornswild, and the flooded tomb's wall scenes. Vakish says they lived in a great forest north or east of the mounds before the fog cut off contact.
 
 ## Current Status
 
@@ -21,7 +21,7 @@ tags: [campaign, factions]
 ## Known Facts
 
 - The tomb imagery suggests a Thornswild champion defending people from lizardfolk raiders.
-- Vakish says the elven tribes of Thornswild vanished from contact a century or more ago; Wade clarified the fog caused the cutoff.
+- Vakish says the elven tribes of Thornswild have been out of contact for a century or more because of the fog.
 - The party now holds the Belt of the Thornswild.
 
 ## What The Players Know

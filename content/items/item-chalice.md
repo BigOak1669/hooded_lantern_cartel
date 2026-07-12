@@ -1,35 +1,11 @@
 ---
 title: "chalice"
-description: "Magic vessel previously able to fill itself once per day and produce unusual contents; now apparently spent."
 tags: [campaign, items]
+unlisted: true
 ---
 
-# Item: chalice
+<meta http-equiv="refresh" content="0; url=../items/item-silver-goblet">
 
-## Summary
+# Moved: chalice
 
-- Magic vessel previously able to fill itself once per day and produce unusual contents; now apparently spent.
-
-## Current Status
-
-- Magic vessel previously able to fill itself once per day and produce unusual contents; now apparently spent.
-
-## Known Facts
-
-- Magic vessel previously able to fill itself once per day and produce unusual contents; now apparently spent.
-
-## What The Players Know
-
-- Magic vessel previously able to fill itself once per day and produce unusual contents; now apparently spent.
-
-## Owner / Holder
-
-- None noted.
-
-## Session History
-
-- 2026-02-08 [[2026_0208 Session 05]] — Magic vessel previously able to fill itself once per day and produce unusual contents; now apparently spent.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [Silver Goblet](../items/item-silver-goblet).

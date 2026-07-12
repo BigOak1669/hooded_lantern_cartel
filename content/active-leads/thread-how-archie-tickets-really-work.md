@@ -18,6 +18,11 @@ tags: [campaign, active-leads]
 
 - Open, active, and more concrete than before. In Session 07, the party successfully tore an [[item-archie-ticket|Archie ticket]] to restore [[pc-oogie|Oogie]] at the [[location-fair-church|Fair Church]], and Oogie retained half a ticket afterward.
 
+## Campaign History
+
+- 2025-11-16 [[2025_1116 Session 02]] — The party gained earlier evidence that Archie tickets may reverse or bypass death, but without enough clarity to define the full rules.
+- 2026-03-08 [[2026_0308 Session 07]] — The party used an Archie ticket to restore Oogie at the Fair Church compost grounds; Oogie experienced a bright interstitial scene with a devil-like figure, returned successfully, and still retained half of the ticket afterward. [[pc-dern|Dern]] also entered play through the same death-and-return logic with his own ticket.
+
 ## Open Questions
 
 - What exactly determines who can use an Archie ticket and under what conditions?

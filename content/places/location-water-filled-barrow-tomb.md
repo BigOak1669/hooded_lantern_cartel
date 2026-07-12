@@ -30,8 +30,6 @@ tags: [campaign, places]
 
 ## Important NPCs / Factions
 
-- None noted.
-
 ## Session History
 
 - 2026-04-19 [[2026_0419 Session 10]] — The party forced open the tomb, fought water zombies, searched the west-side sarcophagi, recovered the spell scroll tube, and left the east-side sludgy room unsearched.
@@ -41,3 +39,7 @@ tags: [campaign, places]
 
 - This is an ordinary Barrow Mounds site unless later play establishes a more specific name or connection.
 - The exact map position within the mound field is not yet encoded beyond the Session 10 route.
+
+## Garden Connections
+
+- [Parent: The Barrow Mounds](../places/location-barrow-mounds)

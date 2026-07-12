@@ -16,7 +16,9 @@ tags: [campaign, active-leads]
 
 ## Current State
 
-- The shrine clearly follows ritual logic, but the party does not understand the figure's identity or the rules governing offerings and rewards.
+## Campaign History
+
+- 2025-11-16 [[2025_1116 Session 02]] — The shrine clearly follows ritual logic, but the party does not understand the figure's identity or the rules governing offerings and rewards.
 
 ## Open Questions
 
@@ -24,8 +26,4 @@ tags: [campaign, active-leads]
 
 ## Next Likely Touchpoints
 
-- The shrine clearly follows ritual logic, but the party does not understand the figure's identity or the rules governing offerings and rewards.
-
 ## Notes / Uncertainty
-
-- The shrine clearly follows ritual logic, but the party does not understand the figure's identity or the rules governing offerings and rewards.

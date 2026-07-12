@@ -1,44 +1,34 @@
 ---
-title: "Serpent-skull marked mound"
-description: "Smaller mound entered at night by a large lone figure. Its door had fresh paint showing a black serpent curling around a skull, with candle/incense light or warmth behind it. The party chose not to enter."
+title: "Serpent-and-Skull Marked Mound"
+description: "A smaller, actively occupied mound whose door bears a freshly painted black serpent curled around a skull. Bent grass, a worn approach, incense or candle warmth, and regular food deliveries all distinguish it from an abandoned tomb."
 tags: [campaign, places]
 ---
 
-# Location: Serpent-skull marked mound
+# Serpent-and-Skull Marked Mound
 
-## Summary
+A smaller, actively occupied mound whose door bears a freshly painted black serpent curled around a skull. Bent grass, a worn approach, incense or candle warmth, and regular food deliveries all distinguish it from an abandoned tomb.
 
-- Smaller mound entered at night by a large lone figure. Its door had fresh paint showing a black serpent curling around a skull, with candle/incense light or warmth behind it. The party chose not to enter.
+## What the Party Has Seen
 
-## Description
+- A large, broad-shouldered figure entered the mound alone at night.
+- Mouse delivers food and sour ale twice each day.
+- The concealed knock is two taps, a pause, then one tap on a side stone.
+- Gradrick's owl saw a large gray-green hand and shoulder receive a delivery through the partly opened door.
+- Dennis described the interior smell as resembling a bad butcher's shop.
 
-- The mound showed signs of recent traffic: bent grass, a path, and fresh paint on the door. The symbol was a black serpent curled around a skull. The party sensed or saw warmth/light/incense from within but did not open the door.
+## Current Plan
 
-## Current Relevance
+The party paid for an extra delivery and asked Bolo to fortify the recipient's ale. They intend to observe the delivery, recover the owl, and then investigate or confront the occupant.
 
-- Immediate surveillance target. The party's stated plan is to return in daylight and use the owl to watch who comes and goes.
+## Uncertainty
 
-## What The Players Know
+Mort is the strongest candidate for the occupant, but no one has confirmed his face. The symbol may connect the mound to the Steel Bone Brotherhood, although Mazzah believed its serpent-and-death tradition might be deeper than the Brotherhood activity already known to the party.
 
-- A large, broad-shouldered, hunched figure entered the mound at night.
-- The figure being the church half-orc / Mort is unconfirmed but very likely.
-- The serpent-skull symbol being tied to the Steel Bone Brotherhood is unconfirmed but very likely.
+## Garden Connections
 
-## Hierarchy / Attached Sites
-
-- Barrow Mounds near/past the obelisk; exact relationship to the mound north of the obelisk needs DM review.
-
-## Important NPCs / Factions
-
-- Possible unnamed half-orc church worker
-- [[faction-fair-church|Fair Church]]
-- [[faction-steel-bone-brotherhood|Steel Bone Brotherhood]] very likely but still unconfirmed
-
-## Session History
-
-- 2026-05-17 [[2026_0517 Session 12]] - The party followed a lone light, watched a large figure enter this mound, found the fresh serpent-skull mark, and withdrew instead of entering.
-
-## Notes / Uncertainty
-
-- Treat this as a very likely Steel Bone Brotherhood site, but preserve that it is not confirmed.
-- Treat the large figure as very likely the church half-orc / Mort, but preserve that the party has not confirmed identity.
+- [Parent: The Barrow Mounds](../places/location-barrow-mounds)
+- [Mort](../people/npc-mort)
+- [Mouse](../people/npc-mouse)
+- [Gant](../people/npc-gant)
+- [Steel Bone Brotherhood](../factions/faction-steel-bone-brotherhood)
+- [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound)

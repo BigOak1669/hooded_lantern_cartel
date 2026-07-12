@@ -12,15 +12,9 @@ tags: [campaign, people]
 
 ## Current Status
 
-- Older merchant wagon driver hauling metal goods to Helix who shared road rumors with the party.
-
 ## Known Facts
 
-- Older merchant wagon driver hauling metal goods to Helix who shared road rumors with the party.
-
 ## What The Players Know
-
-- Older merchant wagon driver hauling metal goods to Helix who shared road rumors with the party.
 
 ## Relationships
 
@@ -31,5 +25,3 @@ tags: [campaign, people]
 - 2026-01-11 [[2026_0111 Session 03]] — Older merchant wagon driver hauling metal goods to Helix who shared road rumors with the party.
 
 ## Notes / Uncertainty
-
-- None noted.

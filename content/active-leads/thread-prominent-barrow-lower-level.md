@@ -1,31 +1,11 @@
 ---
 title: "Prominent barrow lower level"
-description: "The deeper chamber below the prominent mound clearly contains more unexplored danger and evidence of activity."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Prominent barrow lower level
+<meta http-equiv="refresh" content="0; url=../active-leads/thread-revisiting-prominent-barrow">
 
-## Summary
+# Moved: Prominent barrow lower level
 
-- The deeper chamber below the prominent mound clearly contains more unexplored danger and evidence of activity.
-
-## Why It Matters
-
-- This is an active unresolved hook: The deeper chamber below the prominent mound clearly contains more unexplored danger and evidence of activity.
-
-## Current State
-
-- The deeper chamber below the prominent mound clearly contains more unexplored danger and evidence of activity.
-
-## Open Questions
-
-- When and how will this hook be revisited: The deeper chamber below the prominent mound clearly contains more unexplored danger and evidence of activity?
-
-## Next Likely Touchpoints
-
-- The deeper chamber below the prominent mound clearly contains more unexplored danger and evidence of activity.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [Revisiting prominent barrow](../active-leads/thread-revisiting-prominent-barrow).

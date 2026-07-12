@@ -1,56 +1,54 @@
 ---
 title: "Hooded Lantern Cartel"
-description: "The shared campaign archive for Wade’s Shadowdark table."
+description: "The living campaign and complete player archive."
 tags: [campaign, home]
 ---
 
 <section class="campaign-hero">
 <div class="eyebrow">A Shadowdark Campaign Archive</div>
 <h2>Hooded Lantern Cartel</h2>
-<p>Session history, companions, discoveries, dangerous places, peculiar treasures, and the leads still burning.</p>
+<p>The Hooded Lantern Cartel has used Helix as its base while exploring the Barrow Mounds, recovering strange grave goods and following signs of organized activity among the tombs. Their most persistent concern is the Steel Bone Brotherhood:…</p>
 </section>
+
+## Campaign Now
+
+[Read the full Previously On and current campaign state →](campaign-now/)
 
 ## The Party
 
 <div class="party-grid">
-<a class="party-card internal" href="./party/pc-sab"><span class="sigil">S</span><strong>Sab</strong><small>Priestly halfling/Old God devotee who inspected doors, performed a funerary prayer over the Thornswild burial, recovered the magically preserved shroud/cloak, healed Gron after the spike pit, and later returned Vakish's borrowed cloak so th</small></a>
-<a class="party-card internal" href="./party/pc-oogie"><span class="sigil">O</span><strong>Oogie</strong><small>Fungal seer who used Trance on Gron, giving Gron a luck token and sharing a vision of a nearby chamber with a tablet and ornate urn. Oogie later investigated and read the chaotic tablet, causing it to turn to ash and briefly reveal a map of</small></a>
-<a class="party-card internal" href="./party/pc-orlin"><span class="sigil">O</span><strong>Orlin</strong><small>Shapechanging party member who used bear-claw/bear-hand force to break open swollen tomb doors, helped read Sylvan/Elvish-adjacent writing, and participated in the cautious approach to the serpent-skull marked mound.</small></a>
-<a class="party-card internal" href="./party/pc-grond"><span class="sigil">G</span><strong>Grond</strong><small>Front-line party member who wore the gold unicorn-horn belt, benefiting from increased strength. He shared Oogie's Trance vision, helped copy the fading map, fell into a spike pit trap in the tablet chamber, and later chose to keep the Belt</small></a>
-<a class="party-card internal" href="./party/pc-gradrick"><span class="sigil">G</span><strong>Gradrick</strong><small>Spellcaster/witch-type PC who accepted the Charm Person scroll assignment during the opening inventory cleanup, helped read faded writing in the burial chamber, and helped manage light as the party moved through the flooded tomb.</small></a>
-<a class="party-card internal" href="./party/pc-dern"><span class="sigil">D</span><strong>Dern</strong><small>Dern is a dwarf Sea Wolf / Viking-style raider who entered play during the same death-return sequence that brought Oogie back.</small></a>
+<a class="party-card internal" href="./party/pc-sab"><img src="./assets/pc-sab.png" alt="" loading="lazy"><span class="party-card-copy"><strong>Sab</strong><small>Sab is the party's halfling priest: an Old Gods devotee, healer, anti-undead specialist, and frequent voice of caution. Her divine magic, crossbow, and halfling invisibility let her move between support, scouting, and precise violence.</small></span></a>
+<a class="party-card internal" href="./party/pc-oogie"><img src="./assets/pc-oogie.png" alt="" loading="lazy"><span class="party-card-copy"><strong>Oogie</strong><small>Oogie is a fungal seer whose trances, omens, and unusual perspective make him the party's occult support and intuitive investigator. His mycelial nature became materially important when the Fair Church restored him in its cemetery compost…</small></span></a>
+<a class="party-card internal" href="./party/pc-orlin"><img src="./assets/pc-orlin.png" alt="" loading="lazy"><span class="party-card-copy"><strong>Orlin</strong><small>Orlin is a shapechanging adventurer whose bear-form strength, healing, bow work, and alertness make him a flexible explorer. The table has described him as a beastmaster-in-training; a more exact class label has not been established in the…</small></span></a>
+<a class="party-card internal" href="./party/pc-grond"><img src="./assets/pc-grond.jpg" alt="" loading="lazy"><span class="party-card-copy"><strong>Grond</strong><small>Grond is a kobold pit fighter and the party's most direct front-line bruiser. He favors practical force, shields companions in a retreat, and has also shown a surprisingly warm rapport with the people of Helix.</small></span></a>
+<a class="party-card internal" href="./party/pc-gradrick"><img src="./assets/pc-gradrick.png" alt="" loading="lazy"><span class="party-card-copy"><strong>Gradrick</strong><small>Gradrick is the party's witch, a back-line spellcaster whose Eye Bite and practical magical knowledge have supported the group since its earliest recorded delves.</small></span></a>
+<a class="party-card internal" href="./party/pc-dern"><span class="sigil">D</span><span class="party-card-copy"><strong>Dern</strong><small>Dern is a dwarf Sea Wolf: a Viking-styled martial adventurer introduced during the same strange death-return sequence that restored Oogie.</small></span></a>
 </div>
 
-<div class="campaign-columns">
-<section class="campaign-panel">
-<h2>Latest Session</h2>
-<p><strong>Session 13 · 2026-05-31</strong></p>
-<p>The party resupplied at the Brazen Strumpet in Helix, hired the young Mox as a torchbearer, and returned to the Barrow Mounds. They entered a previously opened mound marked with a broken sigil, explored chambers containing a single sarcopha</p>
-<p><a class="internal" href="./sessions/2026_0531%20Session%2013">Read the session →</a></p>
-</section>
-<section class="campaign-panel">
-<h2>At a Glance</h2>
-<p><strong>12</strong> recorded sessions · <strong>29</strong> people · <strong>49</strong> places</p>
-<p><a class="internal" href="./timeline">Follow the campaign timeline →</a></p>
-</section>
-</div>
+## Latest Session
 
-## Active Leads
+**Session 14 · 2026-06-28**
 
-- **[Identify the Cobra-Headed Staff](active-leads/thread-identify-cobra-headed-staff)** — The party recovered an unidentified cobra-headed staff that influenced, but did not fully command, a group of snakes.
-- **[Finish Exploring the Broken-Sigil Mound](active-leads/thread-finish-exploring-broken-sigil-mound)** — The party left the broken-sigil mound after safely retreating from a snake hazard.
-- **[Investigate the half-orc church worker](active-leads/thread-investigate-the-half-orc-church-worker)** — The party saw a large lone figure enter a mound at night and linked it to an earlier request to determine whether a half-orc church worker is joining the Steel Bone Brotherhood.
-- **[Find and reach Castle Zentolin](active-leads/thread-find-and-reach-castle-zentolin)** — Oogie's tablet-map vision and Vakish's named map both point to Castle Zentolin beyond/east of the Barrow Mounds, on a crystal-clear lake behind fog.
-- **[Fog around the Barrow Mounds](active-leads/thread-fog-around-the-barrow-mounds)** — The fog blocks or hides access east/north; traders who tried to continue through it after it arrived never returned. Wade clarified that the fog caused the cutoff from Castle Zentolin and Thornswild.
-- **[Thornswild lost history](active-leads/thread-thornswild-lost-history)** — The tomb, belt, and Vakish's lore establish Thornswild as an elven forest/tribal region lost behind the fog for a century or more.
+The party spent the session in Helix following the serpent-and-skull marked mound lead. Through the planted owl, Gradrick watched a courier called Mouse deliver a sack to a large half-orc-like figure inside the mound. Mazzah identified…
+
+[Quick recap and detailed record →](sessions/2026_0628%20Session%2014)
+
+## Threads in Motion
+
+- **[Arch / Archie](people/npc-arch-archie)** — Arch is the red devil-like figure associated with the party's strange tickets, deaths, and returns. Whether “Archie” names the figure, the tickets, or a broader system remains unresolved in the players' understanding.
+- **[Archie ticket](items/item-archie-ticket)** — A death-return ticket tied to Archie, used to restore a dead companion through a still only partly understood ritual or contract.
+- **[Beyond the Fog](active-leads/thread-beyond-the-fog)** — The party's world is beginning to widen beyond Helix and the western Barrow Mounds. Oogie's fading tablet map showed more mounds and a castle beyond them. Vakish identified the castle as Castle Zentolin and described the fog as the reason…
+- **[Castle Zentolin](places/location-castle-zentolin)** — Legendary castle seen in Oogie's fading tablet-map vision and later named by Vakish. It sits on a crystal-clear lake beyond/east of the Barrow Mounds and has been cut off from contact by the fog.
+- **[How Archie tickets really work](active-leads/thread-how-archie-tickets-really-work)** — The party now has stronger live evidence that Archie tickets can reverse or bypass death, but the full mechanic, limits, and governing logic remain unresolved.
+- **[Steel Bone Brotherhood](factions/faction-steel-bone-brotherhood)** — The Steel Bone Brotherhood is an ominous tomb-delving faction active around Helix and the Barrow Mounds. Its lowest visible operatives wear red robes and steel or bone-like masks, recruit expendable hirelings, and watch other delvers from…
+- **[Steel Bone cultist](people/npc-steel-bone-cultist)** — Lowest visible field operatives of the Steel Bone Brotherhood, appearing as red-robed, steel-bone-masked cultists who shadowed the party around the Barrow Mounds and the Helix retreat route.
+- **[The Barrow Mounds](places/location-barrow-mounds)** — The Barrow Mounds are a fog-bound field of ancient burial sites outside Helix. They are not one dungeon but a landscape of sealed tombs, looted chambers, active hideouts, and deeper structures whose dangers and histories often overlap.
 
 ## Recent Sessions
 
-- **[Session 13 · 2026-05-31](sessions/2026_0531%20Session%2013)** — The party resupplied at the Brazen Strumpet in Helix, hired the young Mox as a torchbearer, and returned to the Barrow Mounds. They entered a previously opened mound marked with a broken sigil, explored chambers containing a single sarcopha
-- **[Session 12 · 2026-05-17](sessions/2026_0517%20Session%2012)** — The party completed Vakish Baharus's third barrow lead by finishing exploration of the third Vakish mound / flooded ceremonial tomb, uncovering Thornswild lore, recovering a magical cloak, claiming the Belt of the Thornswild for Gron, and t
-- **[Session 11 · 2026-05-03](sessions/2026_0503%20Session%2011)** — The party continued Vakish Baharus' belt-buckle lead by entering the third of his three marked mounds in the Barrow Mounds. They identified the scroll from the earlier metal tube as a Charm Person spell scroll, explored a flooded ceremonial
-- **[Session 10 · 2026-04-19](sessions/2026_0419%20Session%2010)** — The party, having recovered Orlin's healing spell and stabilized Oogie between expeditions, started in Helix and checked two storefronts near the Fair Church: the Silver Strand Merchant Company and a strange familiar door that opened onto a
-- **[Session 9 · 2026-04-05](sessions/2026_0405%20Session%2009)** — The party began the day in Helix after the previous session’s carousing, checked in with the Rose Quartz, and headed back into the Barrow Mounds to pursue Vakish’s belt-buckle lead. They found a hidden inner crypt, fought hostile purple fun
+- **[Session 14 · 2026-06-28](sessions/2026_0628%20Session%2014)** — The party spent the session in Helix following the serpent-and-skull marked mound lead. Through the planted owl, Gradrick watched a courier called Mouse deliver a sack to a large half-orc-like figure inside the mound. Mazzah identified…
+- **[Session 13 · 2026-05-31](sessions/2026_0531%20Session%2013)** — The party hired the young Mox as a torchbearer and explored a previously opened barrow marked by a broken sigil. Removing a cobra-headed staff from its ritual chamber brought out a mass of small snakes. Oogie found that the staff…
+- **[Session 12 · 2026-05-17](sessions/2026_0517%20Session%2012)** — The party finished the main exploration of the third Vakish mound, recovering Thornswild lore, a Cloak of Elvenkind, an ornate urn, and a fleeting map pointing beyond the Barrow Mounds toward Castle Zentolin. On the return to Helix they…
 
 ## The Valley of Ruin
 
@@ -60,4 +58,4 @@ tags: [campaign, home]
 
 ## Explore
 
-[Party](party/) · [Sessions](sessions/) · [People](people/) · [Places](places/) · [Factions](factions/) · [Items](items/) · [Active Leads](active-leads/) · [Timeline](timeline/) · [Maps](maps/)
+[Campaign Now](campaign-now/) · [Party](party/) · [Sessions](sessions/) · [World](world/) · [Leads](active-leads/) · [Timeline](timeline/) · [Maps](maps/) · [Archive](archive/)

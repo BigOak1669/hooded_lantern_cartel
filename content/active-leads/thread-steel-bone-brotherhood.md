@@ -1,31 +1,37 @@
 ---
-title: "Steel Bone Brotherhood"
-description: "They also intend to investigate Mort and the Fair Church, and to learn more about the Steel Bone Brotherhood."
+title: "The Steel Bone Brotherhood"
+description: "The Steel Bone Brotherhood has remained one of the campaign's most persistent pressures. Its members recruited openly in Helix, watched the party from the fog in red robes and bone-like masks, and appeared near barrows containing explosive…"
 tags: [campaign, active-leads]
 ---
 
-# Thread: Steel Bone Brotherhood
+# The Steel Bone Brotherhood
 
-## Summary
+## The Throughline
 
-- They also intend to investigate Mort and the Fair Church, and to learn more about the Steel Bone Brotherhood.
+The Steel Bone Brotherhood has remained one of the campaign's most persistent pressures. Its members recruited openly in Helix, watched the party from the fog in red robes and bone-like masks, and appeared near barrows containing explosive marked skeletons and signs of organized ritual use.
 
-## Why It Matters
+## What Is Established
 
-- This remains an unresolved hook: They also intend to investigate Mort and the Fair Church, and to learn more about the Steel Bone Brotherhood.
+- The Brotherhood recruits adventurers and hirelings in Helix.
+- Red-robed, masked figures associated with it observed the party in the Barrow Mounds.
+- Marked skeletons and other undead activity occurred near those sightings.
+- Gant found a Brotherhood-style half-mask beneath Mort's bed.
 
-## Current State
+## Current Connection
 
-- They also intend to investigate Mort and the Fair Church, and to learn more about the Steel Bone Brotherhood.
+The serpent-and-skull marked mound may connect Mort to the Brotherhood, but that link is not yet confirmed. Mazzah considered its iconography older or deeper than ordinary Brotherhood activity. The [[thread-mort-and-marked-mound|Mort and marked mound investigation]] is the immediate branch of this longer-running throughline.
 
 ## Open Questions
 
-- How should this hook be interpreted in later sessions: They also intend to investigate Mort and the Fair Church, and to learn more about the Steel Bone Brotherhood?
+- What does the Brotherhood want in the Barrow Mounds?
+- How does it create, control, or exploit the undead encountered there?
+- Is Mort a member, an ally, a victim, or something else?
+- Does the serpent-and-skull cult stand behind the Brotherhood or merely overlap with it?
 
-## Next Likely Touchpoints
+## Garden Connections
 
-- They also intend to investigate Mort and the Fair Church, and to learn more about the Steel Bone Brotherhood.
-
-## Notes / Uncertainty
-
-- They also intend to investigate Mort and the Fair Church, and to learn more about the Steel Bone Brotherhood.
+- [Steel Bone Brotherhood](../factions/faction-steel-bone-brotherhood)
+- [The Barrow Mounds](../places/location-barrow-mounds)
+- [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
+- [Steel Bone cultist](../people/npc-steel-bone-cultist)
+- [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound)

@@ -1,39 +1,21 @@
 ---
-title: "Crystal Owl / Owl of Magnus"
-description: "Magical crystal owl recovered from one of Vakish's barrow leads and identified earlier as the Owl of Magnus."
+title: "Owl of Magnus"
+description: "The Owl of Magnus is a magical crystal owl recovered from one of Vakish's barrow leads and identified by Mazzah. Its bound user can see through its eyes at a distance, making it one of the party's strongest scouting tools."
 tags: [campaign, items]
 ---
 
-# Item: Crystal Owl / Owl of Magnus
+# Owl of Magnus
 
-## Summary
+The Owl of Magnus is a magical crystal owl recovered from one of Vakish's barrow leads and identified by Mazzah. Its bound user can see through its eyes at a distance, making it one of the party's strongest scouting tools.
 
-- Magical crystal owl recovered from one of Vakish's barrow leads and identified earlier as the Owl of Magnus.
-- The party retrieved it from [[npc-mazzah|Mazah]] in Session 12 and plans to use it to watch the [[location-serpent-skull-marked-mound|serpent-skull marked mound]].
+## Current Use
 
-## Current Status
+Gradrick placed the owl opposite the serpent-and-skull marked mound. Through it, he identified Mouse's delivery routine, the concealed knock, and the large gray-green recipient inside. The party intends to keep watching the next delivery before recovering the owl.
 
-- Back with the party after Session 12.
+“Texas” has been used jokingly as a possible name; the Owl of Magnus remains the established item name.
 
-## Known Facts
+## Garden Connections
 
-- The owl allows its binder/user to see through its eyes at distance.
-- It had been left with Mazah before Session 12.
-- The party joked about naming it Texas while discussing surveillance.
-
-## What The Players Know
-
-- It is useful for remote scouting and surveillance.
-
-## Owner / Holder
-
-- Party-held.
-
-## Session History
-
-- 2026-04-05 [[2026_0405 Session 09]] - Recovered from a barrow and identified as the Owl of Magnus.
-- 2026-05-17 [[2026_0517 Session 12]] - Retrieved from Mazah and earmarked for watching the serpent-skull marked mound.
-
-## Notes / Uncertainty
-
-- [uncertain] Exact binding limits, range limits, and whether "Texas" will stick as an in-world name remain table-dependent.
+- [Gradrick](../party/pc-gradrick)
+- [Mazzah](../people/npc-mazzah)
+- [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)

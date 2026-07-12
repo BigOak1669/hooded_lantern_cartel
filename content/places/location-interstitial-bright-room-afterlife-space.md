@@ -51,3 +51,7 @@ tags: [campaign, places]
 - It is still unclear whether this space is infernal, bureaucratic, divine, Archie-specific, or part of some broader liminal system.
 - The devil's answer about the Tablet of Chaos may be truthful, misleading, or context-dependent.
 - The location may not be stable or repeatable in exactly the same form for every resurrection event.
+
+## Garden Connections
+
+- [Parent: World Overview](../places/location-world-overview)

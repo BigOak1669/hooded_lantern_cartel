@@ -12,8 +12,6 @@ tags: [campaign, factions]
 
 ## Current Status
 
-- Rival adventuring party also pursuing the chalice/sledgehammer lead.
-
 ## Goals / Pressure
 
 - **Iron Chain**
@@ -21,12 +19,8 @@ tags: [campaign, factions]
 ## Known Facts
 
 - Adventuring company in Helix also pursuing Werner's chalice lead.
-- Rival adventuring party also pursuing the chalice/sledgehammer lead.
 
 ## What The Players Know
-
-- Adventuring company in Helix also pursuing Werner's chalice lead.
-- Rival adventuring party also pursuing the chalice/sledgehammer lead.
 
 ## Related Entities / Locations
 
@@ -44,5 +38,3 @@ tags: [campaign, factions]
 - 2026-01-25 [[2026_0125 Session 04]] — Rival adventuring party also pursuing the chalice/sledgehammer lead.
 
 ## Notes / Uncertainty
-
-- None noted.

@@ -1,5 +1,6 @@
 ---
-title: Valley of Ruin
+title: "Valley of Ruin"
+description: "The party's shared regional view."
 tags: [campaign, maps]
 ---
 

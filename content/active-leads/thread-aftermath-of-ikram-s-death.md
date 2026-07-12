@@ -1,31 +1,11 @@
 ---
 title: "Aftermath of Ikram's death"
-description: "Ikram was killed during the confrontation with Nabu before Tiramelle saw it."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Aftermath of Ikram's death
+<meta http-equiv="refresh" content="0; url=../active-leads/thread-northern-barrow-aftermath">
 
-## Summary
+# Moved: Aftermath of Ikram's death
 
-- Ikram was killed during the confrontation with Nabu before Tiramelle saw it.
-
-## Why It Matters
-
-- This is an active unresolved hook: Ikram was killed during the confrontation with Nabu before Tiramelle saw it.
-
-## Current State
-
-- Ikram was killed during the confrontation with Nabu before Tiramelle saw it.
-
-## Open Questions
-
-- When and how will this hook be revisited: Ikram was killed during the confrontation with Nabu before Tiramelle saw it?
-
-## Next Likely Touchpoints
-
-- Ikram was killed during the confrontation with Nabu before Tiramelle saw it.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [The Northern Barrow and Werner's Hammer](../active-leads/thread-northern-barrow-aftermath).

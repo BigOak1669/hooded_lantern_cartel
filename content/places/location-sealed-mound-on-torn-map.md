@@ -49,3 +49,7 @@ tags: [campaign, places]
 
 - Legacy note id `location-sealed-burial-mound` is treated as older wording for this same torn-map landmark, not as a second canonical place.
 - It remains uncertain whether this sealed mound is Werner's exact chalice / sledgehammer barrow or an adjacent marked mound that helped the party reach the right cluster.
+
+## Garden Connections
+
+- [Parent: The Barrow Mounds](../places/location-barrow-mounds)

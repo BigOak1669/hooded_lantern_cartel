@@ -21,12 +21,9 @@ tags: [campaign, items]
 
 ## What The Players Know
 
-- Four identical small wax-sealed ornate glass vials containing amber liquid, recovered from a nested casket.
 - Four ornate amber vials
 
 ## Owner / Holder
-
-- None noted.
 
 ## Session History
 
@@ -34,5 +31,3 @@ tags: [campaign, items]
 - 2026-03-08 [[2026_0308 Session 07]] — Four ornate amber vials
 
 ## Notes / Uncertainty
-
-- None noted.

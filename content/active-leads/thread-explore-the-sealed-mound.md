@@ -1,31 +1,11 @@
 ---
 title: "Explore the sealed mound"
-description: "The sealed mound on the map remains unopened and may hold untouched treasure or danger."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Explore the sealed mound
+<meta http-equiv="refresh" content="0; url=../active-leads/thread-sealed-mound-lead">
 
-## Summary
+# Moved: Explore the sealed mound
 
-- The sealed mound on the map remains unopened and may hold untouched treasure or danger.
-
-## Why It Matters
-
-- This is an active unresolved hook: The sealed mound on the map remains unopened and may hold untouched treasure or danger.
-
-## Current State
-
-- The sealed mound on the map remains unopened and may hold untouched treasure or danger.
-
-## Open Questions
-
-- When and how will this hook be revisited: The sealed mound on the map remains unopened and may hold untouched treasure or danger?
-
-## Next Likely Touchpoints
-
-- The sealed mound on the map remains unopened and may hold untouched treasure or danger.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [The Sealed Mound on the Torn Map](../active-leads/thread-sealed-mound-lead).

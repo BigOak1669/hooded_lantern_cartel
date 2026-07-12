@@ -1,6 +1,6 @@
 ---
 title: "Thornswild"
-description: "A once-nearby elven forest or tribal region north and east of Helix/Barrow Mounds. Wade clarified that the fog caused the cutoff from Thornswild."
+description: "A once-nearby elven forest or tribal region north and east of Helix and the Barrow Mounds, now cut off by the fog."
 tags: [campaign, places]
 ---
 
@@ -8,7 +8,7 @@ tags: [campaign, places]
 
 ## Summary
 
-- A once-nearby elven forest or tribal region north and east of Helix/Barrow Mounds. Wade clarified that the fog caused the cutoff from Thornswild.
+- A once-nearby elven forest or tribal region north and east of Helix and the Barrow Mounds, now cut off by the fog.
 
 ## Description
 
@@ -22,7 +22,7 @@ tags: [campaign, places]
 
 - The word Thornswild was recovered from faded writing in the flooded ceremonial barrow.
 - Vakish says elven tribes once lived in the Thornswild and have not been seen for a hundred years or more.
-- Wade clarified that the fog caused the cutoff from Thornswild.
+- The fog caused the loss of contact with Thornswild.
 
 ## Hierarchy / Attached Sites
 

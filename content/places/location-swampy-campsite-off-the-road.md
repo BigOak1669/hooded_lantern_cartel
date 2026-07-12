@@ -12,15 +12,9 @@ tags: [campaign, places]
 
 ## Description
 
-- Small campsite where Harlan was killed and the corpse-eating creature was found feeding.
-
 ## Current Relevance
 
-- Small campsite where Harlan was killed and the corpse-eating creature was found feeding.
-
 ## What The Players Know
-
-- Small campsite where Harlan was killed and the corpse-eating creature was found feeding.
 
 ## Important NPCs / Factions
 
@@ -32,4 +26,6 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- None noted.
+## Garden Connections
+
+- [Parent: Road from Ore and Furnace to Helix](../places/location-road-ore-and-furnace-to-helix)

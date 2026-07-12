@@ -1,31 +1,11 @@
 ---
 title: "Investigate the sealed mound"
-description: "The mound marked on the recovered map likely connects to Werner's lost sledgehammer and the chalice's origin."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Investigate the sealed mound
+<meta http-equiv="refresh" content="0; url=../active-leads/thread-sealed-mound-lead">
 
-## Summary
+# Moved: Investigate the sealed mound
 
-- The mound marked on the recovered map likely connects to Werner's lost sledgehammer and the chalice's origin.
-
-## Why It Matters
-
-- This is an active unresolved hook: The mound marked on the recovered map likely connects to Werner's lost sledgehammer and the chalice's origin.
-
-## Current State
-
-- The mound marked on the recovered map likely connects to Werner's lost sledgehammer and the chalice's origin.
-
-## Open Questions
-
-- When and how will this hook be revisited: The mound marked on the recovered map likely connects to Werner's lost sledgehammer and the chalice's origin?
-
-## Next Likely Touchpoints
-
-- The mound marked on the recovered map likely connects to Werner's lost sledgehammer and the chalice's origin.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [The Sealed Mound on the Torn Map](../active-leads/thread-sealed-mound-lead).

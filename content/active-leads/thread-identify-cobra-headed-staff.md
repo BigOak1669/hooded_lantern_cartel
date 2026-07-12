@@ -1,19 +1,11 @@
 ---
 title: "Identify the Cobra-Headed Staff"
-description: "The party recovered an unidentified cobra-headed staff that influenced, but did not fully command, a group of snakes."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Identify the Cobra-Headed Staff
+<meta http-equiv="refresh" content="0; url=../active-leads/thread-finish-exploring-broken-sigil-mound">
 
-## Summary
+# Moved: Identify the Cobra-Headed Staff
 
-The party recovered an unidentified [[item-cobra-headed-staff|cobra-headed staff]] that influenced, but did not fully command, a group of snakes.
-
-## Current State
-
-Open. [[pc-oogie|Oogie]] holds the staff, and the party discussed taking it to [[npc-mazzah|Mazah]] for identification.
-
-## Why It Matters
-
-Its actual powers, limitations, and risks remain unknown.
+This entry has been consolidated into [Finish Exploring the Broken-Sigil Mound](../active-leads/thread-finish-exploring-broken-sigil-mound).

@@ -37,5 +37,3 @@ tags: [campaign, people]
 - 2026-02-08 [[2026_0208 Session 05]] — Participated in camp ambush; killed Ikram; killed by Werner.
 
 ## Notes / Uncertainty
-
-- None noted.

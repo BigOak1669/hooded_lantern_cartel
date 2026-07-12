@@ -1,35 +1,11 @@
 ---
 title: "Letter addressed to Tacey"
-description: "Letter recovered from the ghoul scene and tied to the Harlan/Tacey thread."
 tags: [campaign, items]
+unlisted: true
 ---
 
-# Item: Letter addressed to Tacey
+<meta http-equiv="refresh" content="0; url=../items/item-letter-to-tacey">
 
-## Summary
+# Moved: Letter addressed to Tacey
 
-- Letter recovered from the ghoul scene and tied to the Harlan/Tacey thread.
-
-## Current Status
-
-- Letter recovered from the ghoul scene and tied to the Harlan/Tacey thread.
-
-## Known Facts
-
-- Letter recovered from the ghoul scene and tied to the Harlan/Tacey thread.
-
-## What The Players Know
-
-- Letter recovered from the ghoul scene and tied to the Harlan/Tacey thread.
-
-## Owner / Holder
-
-- None noted.
-
-## Session History
-
-- 2026-01-25 [[2026_0125 Session 04]] — Letter recovered from the ghoul scene and tied to the Harlan/Tacey thread.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [Letter to Tacey](../items/item-letter-to-tacey).

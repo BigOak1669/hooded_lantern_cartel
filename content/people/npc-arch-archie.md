@@ -1,35 +1,25 @@
 ---
 title: "Arch / Archie"
-description: "Infernal/liminal figure tied to prior Archie ticket events. This session Oogie heard the devil's laugh in the back of his mind when approaching the chaotic tablet chamber."
+description: "Arch is the red devil-like figure associated with the party's strange tickets, deaths, and returns. Whether “Archie” names the figure, the tickets, or a broader system remains unresolved in the players' understanding."
 tags: [campaign, people]
 ---
 
-# NPC: Arch / Archie
+# Arch / Archie
 
-## Summary
+Arch is the red devil-like figure associated with the party's strange tickets, deaths, and returns. Whether “Archie” names the figure, the tickets, or a broader system remains unresolved in the players' understanding.
 
-- Infernal/liminal figure tied to prior Archie ticket events. This session Oogie heard the devil's laugh in the back of his mind when approaching the chaotic tablet chamber.
+## Known Appearances
 
-## Current Status
+- The early dungeon expedition established that Archie tickets can return the dead under unusual conditions.
+- Oogie's restoration and Dern's arrival included a bright interstitial encounter in which the devil gave instructions and sent them back to Helix.
+- Oogie heard Arch's laugh when approaching the chaotic tablet chamber in Session 12.
 
-- Infernal/liminal figure tied to prior Archie ticket events. This session Oogie heard the devil's laugh in the back of his mind when approaching the chaotic tablet chamber.
+Arch's relationship to the tablet, and the rules or costs governing the tickets, remain unknown.
 
-## Known Facts
+## Garden Connections
 
-- None noted.
-
-## What The Players Know
-
-- Infernal/liminal figure tied to prior Archie ticket events. This session Oogie heard the devil's laugh in the back of his mind when approaching the chaotic tablet chamber.
-
-## Relationships
-
-- Oogie: prior afterlife/ticket connection
-
-## Session History
-
-- 2026-05-17 [[2026_0517 Session 12]] — Infernal/liminal figure tied to prior Archie ticket events. This session Oogie heard the devil's laugh in the back of his mind when approaching the chaotic tablet chamber.
-
-## Notes / Uncertainty
-
-- Infernal/liminal figure tied to prior Archie ticket events. This session Oogie heard the devil's laugh in the back of his mind when approaching the chaotic tablet chamber.
+- [Oogie](../party/pc-oogie)
+- [Dern](../party/pc-dern)
+- [Archie ticket](../items/item-archie-ticket)
+- [How Archie tickets really work](../active-leads/thread-how-archie-tickets-really-work)
+- [What was the chaotic tablet?](../active-leads/thread-what-was-the-chaotic-tablet)

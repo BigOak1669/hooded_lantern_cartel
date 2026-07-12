@@ -12,15 +12,9 @@ tags: [campaign, places]
 
 ## Description
 
-- Staging point for the dungeon run and source of the ticketed entry.
-
 ## Current Relevance
 
-- Staging point for the dungeon run and source of the ticketed entry.
-
 ## What The Players Know
-
-- Staging point for the dungeon run and source of the ticketed entry.
 
 ## Important NPCs / Factions
 
@@ -32,4 +26,6 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- Staging point for the dungeon run and source of the ticketed entry.
+## Garden Connections
+
+- [Parent: Ore and Furnace](../places/location-ore-and-furnace)

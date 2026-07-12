@@ -1,31 +1,11 @@
 ---
 title: "Helix as next destination"
-description: "The party identified Helix on the local map as nearby."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Helix as next destination
+<meta http-equiv="refresh" content="0; url=../places/location-helix">
 
-## Summary
+# Moved: Helix as next destination
 
-- The party identified Helix on the local map as nearby.
-
-## Why It Matters
-
-- This is an active unresolved hook: The party identified Helix on the local map as nearby.
-
-## Current State
-
-- The party identified Helix on the local map as nearby.
-
-## Open Questions
-
-- When and how will this hook be revisited: The party identified Helix on the local map as nearby?
-
-## Next Likely Touchpoints
-
-- The party identified Helix on the local map as nearby.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [Helix](../places/location-helix).

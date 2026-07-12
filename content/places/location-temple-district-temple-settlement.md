@@ -12,15 +12,9 @@ tags: [campaign, places]
 
 ## Description
 
-- Moonlit settlement reached through the portal, controlled or framed by temple authority.
-
 ## Current Relevance
 
-- Moonlit settlement reached through the portal, controlled or framed by temple authority.
-
 ## What The Players Know
-
-- Moonlit settlement reached through the portal, controlled or framed by temple authority.
 
 ## Important NPCs / Factions
 
@@ -33,4 +27,6 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- Moonlit settlement reached through the portal, controlled or framed by temple authority.
+## Garden Connections
+
+- [Parent: Ore and Furnace](../places/location-ore-and-furnace)

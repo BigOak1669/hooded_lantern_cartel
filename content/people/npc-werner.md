@@ -12,21 +12,13 @@ tags: [campaign, people]
 
 ## Current Status
 
-- Werner: to be questioned at first light.
-
 ## Known Facts
 
 - Drunk in Helix who found the chalice and now wants his lucky sledgehammer back instead of silver payment.
 - Current or recent holder of the chalice and owner of the fine sledgehammer; unstable and violently dangerous.
-- Werner: to be questioned at first light.
 - Large drunk adventurer/tomb-robber who claims to have found the chalice and wants his lucky sledgehammer recovered.
 
 ## What The Players Know
-
-- Drunk in Helix who found the chalice and now wants his lucky sledgehammer back instead of silver payment.
-- Current or recent holder of the chalice and owner of the fine sledgehammer; unstable and violently dangerous.
-- Werner: to be questioned at first light.
-- Large drunk adventurer/tomb-robber who claims to have found the chalice and wants his lucky sledgehammer recovered.
 
 ## Relationships
 
@@ -47,5 +39,3 @@ tags: [campaign, people]
 - 2026-01-11 [[2026_0111 Session 03]] — Large drunk adventurer/tomb-robber who claims to have found the chalice and wants his lucky sledgehammer recovered.
 
 ## Notes / Uncertainty
-
-- None noted.

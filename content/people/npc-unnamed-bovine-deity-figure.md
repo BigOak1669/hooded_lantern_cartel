@@ -12,15 +12,9 @@ tags: [campaign, people]
 
 ## Current Status
 
-- Sacred figure or shrine presence in the dungeon that received offerings.
-
 ## Known Facts
 
-- None noted.
-
 ## What The Players Know
-
-- Sacred figure or shrine presence in the dungeon that received offerings.
 
 ## Relationships
 
@@ -31,5 +25,3 @@ tags: [campaign, people]
 - 2025-11-16 [[2025_1116 Session 02]] — Sacred figure or shrine presence in the dungeon that received offerings.
 
 ## Notes / Uncertainty
-
-- Sacred figure or shrine presence in the dungeon that received offerings.

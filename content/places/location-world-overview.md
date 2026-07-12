@@ -15,7 +15,7 @@ tags: [campaign, places]
 - Sessions 02-07 describe a local campaign corridor rather than a full atlas: the party emerges from older dungeon and temple-centered material near Ore and Furnace, travels the road to Helix, and keeps pushing from Helix into the Barrow Mounds.
 - Helix now functions as the social and logistical center, while the Barrow Mounds are the main active danger zone.
 - Travel, rumor flow, loot, injuries, and faction pressure keep cycling between the mounds and town, with the Ore and Furnace road still anchoring the older arc to the newer one.
-- The Valley of Ruin regional map is now the vault's regional map reference, with player-safe and DM-labeled versions in assets.
+- The Valley of Ruin regional map is the campaign's regional reference; only the player-safe version belongs on the public site.
 
 ## Current Relevance
 
@@ -57,3 +57,9 @@ tags: [campaign, places]
 
 - This note is a regional overview, not a claim that the campaign's full world geography is already mapped.
 - The control file's grouping of the older Session 02 settlement material under Ore and Furnace remains a working organizational choice until the migration is complete.
+
+## Garden Connections
+
+- [Road from Ore and Furnace to Helix](../places/location-road-ore-and-furnace-to-helix)
+- [Ore and Furnace](../places/location-ore-and-furnace)
+- [Interstitial bright room / afterlife space](../places/location-interstitial-bright-room-afterlife-space)

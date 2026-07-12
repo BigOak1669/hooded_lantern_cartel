@@ -12,15 +12,9 @@ tags: [campaign, people]
 
 ## Current Status
 
-- Tower owner or facilitator tied to the dungeon run and the party's entry point.
-
 ## Known Facts
 
-- None noted.
-
 ## What The Players Know
-
-- Tower owner or facilitator tied to the dungeon run and the party's entry point.
 
 ## Relationships
 
@@ -31,5 +25,3 @@ tags: [campaign, people]
 - 2025-11-16 [[2025_1116 Session 02]] — Tower owner or facilitator tied to the dungeon run and the party's entry point.
 
 ## Notes / Uncertainty
-
-- Tower owner or facilitator tied to the dungeon run and the party's entry point.

@@ -1,31 +1,11 @@
 ---
 title: "Steel Bone Brotherhood undead connection"
-description: "Former hirelings connected to the Brotherhood appear to have returned as undead attackers."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Steel Bone Brotherhood undead connection
+<meta http-equiv="refresh" content="0; url=../active-leads/thread-steel-bone-brotherhood">
 
-## Summary
+# Moved: Steel Bone Brotherhood undead connection
 
-- Former hirelings connected to the Brotherhood appear to have returned as undead attackers.
-
-## Why It Matters
-
-- This is an active unresolved hook: Former hirelings connected to the Brotherhood appear to have returned as undead attackers.
-
-## Current State
-
-- Former hirelings connected to the Brotherhood appear to have returned as undead attackers.
-
-## Open Questions
-
-- When and how will this hook be revisited: Former hirelings connected to the Brotherhood appear to have returned as undead attackers?
-
-## Next Likely Touchpoints
-
-- Former hirelings connected to the Brotherhood appear to have returned as undead attackers.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [The Steel Bone Brotherhood](../active-leads/thread-steel-bone-brotherhood).

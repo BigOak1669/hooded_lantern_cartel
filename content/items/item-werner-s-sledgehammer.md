@@ -1,35 +1,11 @@
 ---
 title: "Werner’s sledgehammer"
-description: "Heavy hammer taken previously and used this session to force open sealed barrows."
 tags: [campaign, items]
+unlisted: true
 ---
 
-# Item: Werner’s sledgehammer
+<meta http-equiv="refresh" content="0; url=../items/item-werner-s-lucky-sledgehammer">
 
-## Summary
+# Moved: Werner’s sledgehammer
 
-- Heavy hammer taken previously and used this session to force open sealed barrows.
-
-## Current Status
-
-- Heavy hammer taken previously and used this session to force open sealed barrows.
-
-## Known Facts
-
-- Heavy hammer taken previously and used this session to force open sealed barrows.
-
-## What The Players Know
-
-- Heavy hammer taken previously and used this session to force open sealed barrows.
-
-## Owner / Holder
-
-- None noted.
-
-## Session History
-
-- 2026-02-22 [[2026_0222 Session 06]] — Heavy hammer taken previously and used this session to force open sealed barrows.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [Werner's lucky sledgehammer](../items/item-werner-s-lucky-sledgehammer).

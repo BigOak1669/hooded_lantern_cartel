@@ -12,15 +12,9 @@ tags: [campaign, places]
 
 ## Description
 
-- An underground chamber below the prominent mound showing frescoes, graffiti, blood, bones, incense, and trapped passages.
-
 ## Current Relevance
 
-- An underground chamber below the prominent mound showing frescoes, graffiti, blood, bones, incense, and trapped passages.
-
 ## What The Players Know
-
-- An underground chamber below the prominent mound showing frescoes, graffiti, blood, bones, incense, and trapped passages.
 
 ## Important NPCs / Factions
 
@@ -33,4 +27,6 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- None noted.
+## Garden Connections
+
+- [Parent: Prominent Barrow with Standing Stones and Shaft](../places/location-prominent-barrow-with-standing-stones-and-shaft)

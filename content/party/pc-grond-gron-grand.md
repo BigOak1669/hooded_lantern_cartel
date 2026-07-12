@@ -1,35 +1,11 @@
 ---
 title: "Grond / Gron / Grand"
-description: "Name: Grond / Gron / Grand"
 tags: [campaign, party]
+unlisted: true
 ---
 
-# PC: Grond / Gron / Grand
+<meta http-equiv="refresh" content="0; url=../party/pc-grond">
 
-## Summary
+# Moved: Grond / Gron / Grand
 
-- Name: Grond / Gron / Grand
-
-## Current Status
-
-- Name: Grond / Gron / Grand
-
-## Party Role / Class
-
-- None noted.
-
-## Inventory / Gear Notes
-
-- None noted.
-
-## Relationships
-
-- None noted.
-
-## Session History
-
-- 2026-04-05 [[2026_0405 Session 09]] — Name: Grond / Gron / Grand
-
-## Notes / Uncertainty
-
-- Name: Grond / Gron / Grand
+This entry has been consolidated into [Grond](../party/pc-grond).

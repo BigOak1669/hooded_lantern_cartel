@@ -12,28 +12,18 @@ tags: [campaign, places]
 
 ## Description
 
-- Billsworth's cart: The party helped unload casks of Blackbark gin and a starshine eel from the cart.
-
 ## Current Relevance
-
-- Billsworth's cart: The party helped unload casks of Blackbark gin and a starshine eel from the cart.
 
 ## What The Players Know
 
-- Billsworth's cart: The party helped unload casks of Blackbark gin and a starshine eel from the cart.
-
 ## Hierarchy / Attached Sites
 
-- To refine.
+- No separate interior or permanent site is established; the cart is retained as the scene of the Session 08 raid.
 
 ## Important NPCs / Factions
-
-- None noted.
 
 ## Session History
 
 - 2026-03-22 [[2026_0322 Session 08]] — Billsworth's cart: The party helped unload casks of Blackbark gin and a starshine eel from the cart.
 
 ## Notes / Uncertainty
-
-- None noted.

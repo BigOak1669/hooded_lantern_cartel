@@ -1,31 +1,11 @@
 ---
 title: "Harlan and Tacey aftermath"
-description: "The party delivered the news of Harlan's death to Tacey."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Harlan and Tacey aftermath
+<meta http-equiv="refresh" content="0; url=../active-leads/thread-northern-barrow-aftermath">
 
-## Summary
+# Moved: Harlan and Tacey aftermath
 
-- The party delivered the news of Harlan's death to Tacey.
-
-## Why It Matters
-
-- This is an active unresolved hook: The party delivered the news of Harlan's death to Tacey.
-
-## Current State
-
-- The party delivered the news of Harlan's death to Tacey.
-
-## Open Questions
-
-- When and how will this hook be revisited: The party delivered the news of Harlan's death to Tacey?
-
-## Next Likely Touchpoints
-
-- The party delivered the news of Harlan's death to Tacey.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [The Northern Barrow and Werner's Hammer](../active-leads/thread-northern-barrow-aftermath).

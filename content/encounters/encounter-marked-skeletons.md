@@ -16,11 +16,7 @@ tags: [campaign, encounters]
 
 ## Participants
 
-- None noted.
-
 ## Location
-
-- None noted.
 
 ## Session History
 
@@ -30,8 +26,5 @@ tags: [campaign, encounters]
 
 - The party fought undead plague rats and marked skeletons.
 - The party encountered undead plague rats and marked skeletons.
-- Oogie was injured by a trap and marked skeletons in the prominent barrow.
 
 ## Notes / Uncertainty
-
-- None noted.

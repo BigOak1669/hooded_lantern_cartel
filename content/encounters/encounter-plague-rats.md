@@ -16,11 +16,7 @@ tags: [campaign, encounters]
 
 ## Participants
 
-- None noted.
-
 ## Location
-
-- None noted.
 
 ## Session History
 
@@ -28,8 +24,4 @@ tags: [campaign, encounters]
 
 ## Outcomes / Consequences
 
-- The party fought and defeated the plague rats in the sealed mound.
-
 ## Notes / Uncertainty
-
-- None noted.

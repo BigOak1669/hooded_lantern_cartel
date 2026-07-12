@@ -1,31 +1,11 @@
 ---
 title: "Unidentified amber vials"
-description: "The party recovered four ornate amber vials but does not know what they do."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Unidentified amber vials
+<meta http-equiv="refresh" content="0; url=../items/item-four-ornate-amber-vials">
 
-## Summary
+# Moved: Unidentified amber vials
 
-- The party recovered four ornate amber vials but does not know what they do.
-
-## Why It Matters
-
-- This is an active unresolved hook: The party recovered four ornate amber vials but does not know what they do.
-
-## Current State
-
-- The party recovered four ornate amber vials but does not know what they do.
-
-## Open Questions
-
-- When and how will this hook be revisited: The party recovered four ornate amber vials but does not know what they do?
-
-## Next Likely Touchpoints
-
-- The party recovered four ornate amber vials but does not know what they do.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [Four ornate amber vials](../items/item-four-ornate-amber-vials).

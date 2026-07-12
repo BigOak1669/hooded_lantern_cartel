@@ -1,6 +1,6 @@
 ---
 title: "Tablet chamber"
-description: "Chamber in the flooded ceremonial barrow containing a pedestal with an ornate urn/amphora and a chaotic tablet. Reading the tablet caused it to turn to ash and briefly reveal a map of the Barrow Mounds and a castle beyond the explored area."
+description: "Chamber in the flooded ceremonial barrow containing a pedestal with an ornate urn/amphora and a chaotic tablet. Reading the tablet caused it to turn to ash and briefly reveal a map of the Barrow Mounds and a castle beyond the explored…"
 tags: [campaign, places]
 ---
 
@@ -41,3 +41,7 @@ tags: [campaign, places]
 ## Notes / Uncertainty
 
 - It is not confirmed whether the tablet was the Tablet of Chaos previously mentioned by Arch.
+
+## Garden Connections
+
+- [Parent: Third Vakish Mound](../places/location-third-vakish-mound)

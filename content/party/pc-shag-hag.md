@@ -1,35 +1,17 @@
 ---
 title: "Shag Hag"
-description: "Name: Shag Hag"
+description: "Shag Hag was Spencer's character and appeared in the Session 09 party record. The surviving campaign material does not establish a class, history, or later activity, and Shag Hag is not on the current roster."
 tags: [campaign, party]
 ---
 
-# PC: Shag Hag
+# Shag Hag
 
-## Summary
+Shag Hag was Spencer's character and appeared in the Session 09 party record. The surviving campaign material does not establish a class, history, or later activity, and Shag Hag is not on the current roster.
 
-- Name: Shag Hag
+## Record Note
 
-## Current Status
+This page preserves a former companion without filling the gaps in their story.
 
-- Name: Shag Hag
+## Garden Connections
 
-## Party Role / Class
-
-- None noted.
-
-## Inventory / Gear Notes
-
-- None noted.
-
-## Relationships
-
-- None noted.
-
-## Session History
-
-- 2026-04-05 [[2026_0405 Session 09]] — Name: Shag Hag
-
-## Notes / Uncertainty
-
-- Name: Shag Hag
+- [Helix](../places/location-helix)

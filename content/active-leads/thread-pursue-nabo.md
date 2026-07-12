@@ -1,31 +1,11 @@
 ---
 title: "Pursue Nabo"
-description: "The goblin Nabo is suspected of betraying the Iron Chain, escaping with the hammer, and possibly causing Perry's death."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Pursue Nabo
+<meta http-equiv="refresh" content="0; url=../active-leads/thread-northern-barrow-aftermath">
 
-## Summary
+# Moved: Pursue Nabo
 
-- The goblin Nabo is suspected of betraying the Iron Chain, escaping with the hammer, and possibly causing Perry's death.
-
-## Why It Matters
-
-- This remains an unresolved hook: The goblin Nabo is suspected of betraying the Iron Chain, escaping with the hammer, and possibly causing Perry's death.
-
-## Current State
-
-- The goblin Nabo is suspected of betraying the Iron Chain, escaping with the hammer, and possibly causing Perry's death.
-
-## Open Questions
-
-- How should this hook be interpreted in later sessions: The goblin Nabo is suspected of betraying the Iron Chain, escaping with the hammer, and possibly causing Perry's death?
-
-## Next Likely Touchpoints
-
-- The goblin Nabo is suspected of betraying the Iron Chain, escaping with the hammer, and possibly causing Perry's death.
-
-## Notes / Uncertainty
-
-- The goblin Nabo is suspected of betraying the Iron Chain, escaping with the hammer, and possibly causing Perry's death.
+This entry has been consolidated into [The Northern Barrow and Werner's Hammer](../active-leads/thread-northern-barrow-aftermath).

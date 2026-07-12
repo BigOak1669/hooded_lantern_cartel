@@ -12,15 +12,9 @@ tags: [campaign, places]
 
 ## Description
 
-- Specific mound named in Werner's note and later marked by Mazzah as the place tied to the chalice lead.
-
 ## Current Relevance
 
-- Specific mound named in Werner's note and later marked by Mazzah as the place tied to the chalice lead.
-
 ## What The Players Know
-
-- Specific mound named in Werner's note and later marked by Mazzah as the place tied to the chalice lead.
 
 ## Important NPCs / Factions
 
@@ -32,4 +26,6 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- None noted.
+## Garden Connections
+
+- [Parent: The Barrow Mounds](../places/location-barrow-mounds)

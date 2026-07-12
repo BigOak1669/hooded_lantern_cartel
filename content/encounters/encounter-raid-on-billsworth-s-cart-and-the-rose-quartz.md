@@ -16,11 +16,7 @@ tags: [campaign, encounters]
 
 ## Participants
 
-- None noted.
-
 ## Location
-
-- None noted.
 
 ## Session History
 
@@ -28,8 +24,4 @@ tags: [campaign, encounters]
 
 ## Outcomes / Consequences
 
-- Raid on Billsworth's cart and the Rose Quartz
-
 ## Notes / Uncertainty
-
-- None noted.

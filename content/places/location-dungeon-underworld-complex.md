@@ -12,15 +12,9 @@ tags: [campaign, places]
 
 ## Description
 
-- Hazardous delve containing blob undead, shrine rooms, loot, and a portal exit.
-
 ## Current Relevance
 
-- Hazardous delve containing blob undead, shrine rooms, loot, and a portal exit.
-
 ## What The Players Know
-
-- Hazardous delve containing blob undead, shrine rooms, loot, and a portal exit.
 
 ## Important NPCs / Factions
 
@@ -32,4 +26,8 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- None noted.
+## Garden Connections
+
+- [Parent: Ore and Furnace](../places/location-ore-and-furnace)
+- [Portal chamber](../places/location-portal-chamber)
+- [Shrine room with bovine deity figure](../places/location-shrine-room-with-bovine-deity-figure)

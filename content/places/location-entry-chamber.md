@@ -48,3 +48,7 @@ tags: [campaign, places]
 ## Notes / Uncertainty
 
 - The exact degree of prior traffic through the room is clear enough to note, but who passed through most recently beyond the Iron Chain trail is not fully known.
+
+## Garden Connections
+
+- [Parent: Northern Barrow](../places/location-northern-barrow)

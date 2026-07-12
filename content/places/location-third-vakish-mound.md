@@ -10,7 +10,7 @@ tags: [campaign, places]
 
 - The third of [[npc-vakish-baharus|Vakish Baharus]]' three marked belt-buckle mounds in the [[location-barrow-mounds|Barrow Mounds]].
 - It is the newly opened mound at the end of [[2026_0419 Session 10]], then the main dungeon site of [[2026_0503 Session 11]] and [[2026_0517 Session 12]].
-- This is the same site as the generated "flooded ceremonial barrow" note.
+- This is the same site as the flooded ceremonial barrow.
 
 ## Description
 
@@ -52,5 +52,11 @@ tags: [campaign, places]
 ## Notes / Uncertainty
 
 - This note deliberately separates the third Vakish mound from the older [[location-prominent-barrow-with-standing-stones-and-shaft|prominent barrow with standing stones and shaft]] and the Session 10 [[location-water-filled-barrow-tomb|water-filled barrow tomb]].
-- Wade confirmed on 2026-05-30 that `location-third-vakish-mound` and `location-flooded-ceremonial-barrow` are the same site, while `location-water-filled-barrow-tomb` is separate.
+- The third Vakish mound and flooded ceremonial barrow are the same site; the water-filled barrow tomb is separate.
 - [uncertain] The exact formal tomb name is not yet known.
+
+## Garden Connections
+
+- [Parent: The Barrow Mounds](../places/location-barrow-mounds)
+- [Tablet chamber](../places/location-tablet-chamber)
+- [Thornswild burial chamber](../places/location-thornswild-burial-chamber)

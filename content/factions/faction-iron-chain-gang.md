@@ -1,40 +1,11 @@
 ---
 title: "Iron Chain gang"
-description: "Group associated with Ikram."
 tags: [campaign, factions]
+unlisted: true
 ---
 
-# Faction: Iron Chain gang
+<meta http-equiv="refresh" content="0; url=../factions/faction-iron-chain">
 
-## Summary
+# Moved: Iron Chain gang
 
-- Group associated with Ikram.
-
-## Current Status
-
-- Group associated with Ikram.
-
-## Goals / Pressure
-
-- **Iron Chain gang**
-
-## Known Facts
-
-- None noted.
-
-## What The Players Know
-
-- Group associated with Ikram.
-
-## Related Entities / Locations
-
-- Ikram
-- Tiramelle
-
-## Session History
-
-- 2026-02-08 [[2026_0208 Session 05]] — Group associated with Ikram.
-
-## Notes / Uncertainty
-
-- Group associated with Ikram.
+This entry has been consolidated into [Iron Chain](../factions/faction-iron-chain).

@@ -1,95 +1,48 @@
 ---
 title: "Helix"
-description: "Party returned here at night, rested at the Brazen Strumpet, sold loot at the Rose Quartz the next morning, resupplied, and retrieved the owl from Mazah."
+description: "Helix is the party's present home base: a small settlement near the Barrow Mounds, enlarged and unsettled by the return of adventurers as the regional fog begins to lift. It is where expeditions are planned, hirelings found, wounds…"
 tags: [campaign, places]
 ---
 
-# Location: Helix
+# Helix
 
-## Summary
+Helix is the party's present home base: a small settlement near the Barrow Mounds, enlarged and unsettled by the return of adventurers as the regional fog begins to lift. It is where expeditions are planned, hirelings found, wounds treated, magic identified, treasure sold, and rumors turned into leads.
 
-- Party returned here at night, rested at the Brazen Strumpet, sold loot at the Rose Quartz the next morning, resupplied, and retrieved the owl from Mazah.
+## Places in Town
 
-## Description
+- [[location-brazen-strumpet|The Brazen Strumpet]] — inn, tavern, rumor exchange, and the party's usual lodging.
+- [[location-fair-church|The Fair Church]] — humble refuge, cemetery, and source of practical healing.
+- [[location-mazahs-tower|Mazzah's Tower]] — home and workshop of the party's magical consultant.
+- [[location-rose-quartz|The Rose Quartz]] — Vakish Baharus's jewelry and curio shop.
+- [[location-hooded-lantern-supply-door|The Hooded Lantern supply door]] — an unusual shop entrance near the Fair Church.
 
-- Small but fast-changing settlement near the Barrow Mounds, swollen by tomb-robbers and opportunists because the fog is lifting.
-- The DM-labeled regional map marks the settlement as Village of Helix.
-- Functions as the party's main surface base for lodging, rumor gathering, hiring, sale of loot, and recovery after expeditions.
-- Contains several important sub-sites that now have or clearly support their own notes: the [[location-brazen-strumpet|Brazen Strumpet]], [[location-mazahs-tower|Mazah's Tower]], [[location-fair-church|Fair Church]], [[location-rose-quartz|Rose Quartz]], and outlying camp or stable areas.
-- Nearby mapped destination identified late in the session.
-- Small but growing village near the Barrow Mounds, currently swollen with adventurers because the fog is lifting.
-- Town serving as the operational hub for the chalice and barrow expedition.
-- Nearby settlement serving as the party's base between expeditions.
-- The party’s current town base, where they regrouped, rehired Finn, and later fled back for medical or magical help.
-- Helix: the party returned here before dawn.
-- Helix, the party's base
-- Helix: The party began and ended the session in Helix, visiting the Rose Quartz and the Brazen Strumpet.
-- Party returned here at night, rested at the Brazen Strumpet, sold loot at the Rose Quartz the next morning, resupplied, and retrieved the owl from Mazah.
+## People and Pressures
 
-## Current Relevance
+[[npc-bolo|Bolo]], [[npc-mazzah|Mazzah]], [[npc-gant|Gant]], and [[npc-vakish-baharus|Vakish Baharus]] form the party's most useful local network. The [[faction-steel-bone-brotherhood|Steel Bone Brotherhood]] has recruited openly here, while Mort's disappearance and Mouse's deliveries have drawn the party's attention back toward the mounds.
 
-- Party returned here at night, rested at the Brazen Strumpet, sold loot at the Rose Quartz the next morning, resupplied, and retrieved the owl from Mazah.
+## Why It Matters Now
 
-## What The Players Know
+The entire Session 14 investigation unfolded in Helix. The party used Gradrick's owl, Mazzah's expertise, Gant's church knowledge, Bolo's help, and Mouse's delivery route to prepare a return to the serpent-and-skull marked mound.
 
-- Helix grew in importance as the Barrow Mounds became more accessible and more profitable.
-- It is where the party first connected Harlan, Tacey, Bolo, Werner, and the chalice lead.
-- It is where the Steel Bone Brotherhood openly recruits and where rival adventuring pressure is visible.
-- It supports multiple play loops: tavern rumors, hirelings, magical identification, religious aid, loot sales, and expedition staging.
-- After the prominent-barrow disaster, Helix proved it can also absorb crisis fallout through the Fair Church and local merchants.
-- Nearby mapped destination identified late in the session.
-- Small but growing village near the Barrow Mounds, currently swollen with adventurers because the fog is lifting.
-- Town serving as the operational hub for the chalice and barrow expedition.
-- Nearby settlement serving as the party's base between expeditions.
-- The party’s current town base, where they regrouped, rehired Finn, and later fled back for medical or magical help.
-- Helix: the party returned here before dawn.
-- Helix, the party's base
-- Helix: The party began and ended the session in Helix, visiting the Rose Quartz and the Brazen Strumpet.
-- Party returned here at night, rested at the Brazen Strumpet, sold loot at the Rose Quartz the next morning, resupplied, and retrieved the owl from Mazah.
+## Campaign History
 
-## Hierarchy / Attached Sites
+- Sessions 03–04 established Helix as the staging point for the chalice and northern-barrow expedition.
+- Sessions 05–07 proved it could absorb an expedition's fallout: the party regrouped here, restored Oogie, and sold recovered treasure.
+- Session 08's town-wide feast deepened the party's local relationships before raiders struck the Rose Quartz and Billsworth's cart.
+- Sessions 09–14 repeatedly returned here between barrow expeditions for appraisal, resupply, surveillance, and planning.
 
-- Parent area: [[location-world-overview|World Overview]].
-- Classification: frontier settlement / expedition hub.
-- Child / attached sites: [[location-brazen-strumpet|Brazen Strumpet]], [[location-mazahs-tower|Mazah's Tower]], [[location-fair-church|Fair Church]], [[location-rose-quartz|Rose Quartz]], and [[location-camp-outside-helix|camp outside Helix]] as a nearby support/aftermath site.
-- Related / sibling sites: [[location-road-ore-and-furnace-to-helix|road from Ore and Furnace to Helix]], [[location-barrow-mounds|Barrow Mounds]], and the stable area where Alistair lurks, which still does not have a clean canonical note.
-- Regional map: Valley of Ruin regional map.
+## Geography
 
-## Important NPCs / Factions
+The town's social map is clearer than its street plan. Helix lies close enough to support repeated trips into the [[location-barrow-mounds|Barrow Mounds]]; exact distances between its businesses remain loose.
 
-- [[npc-bolo|Bolo]]
-- [[npc-tacey|Tacey]]
-- [[npc-werner|Werner]]
-- [[npc-celestia|Celestia]]
-- [[npc-finn|Finn]]
-- [[npc-mazzah|Mazzah]]
-- [[faction-iron-chain|Iron Chain]]
-- [[faction-steel-bone-brotherhood|Steel Bone Brotherhood]]
-- Bolo
-- Tacey
-- Werner
-- Iron Chain
-- Maza
-- Steel Bone Brotherhood
-- Mazah
-- Celestia
-- Finn
-- Mazod
-- Vakish Baharus
+## Garden Connections
 
-## Session History
-
-- 2025-11-16 [[2025_1116 Session 02]] — Nearby mapped destination identified late in the session.
-- 2026-01-11 [[2026_0111 Session 03]] — Small but growing village near the Barrow Mounds, currently swollen with adventurers because the fog is lifting.
-- 2026-01-25 [[2026_0125 Session 04]] — Town serving as the operational hub for the chalice and barrow expedition.
-- 2026-02-08 [[2026_0208 Session 05]] — Nearby settlement serving as the party's base between expeditions.
-- 2026-02-22 [[2026_0222 Session 06]] — The party’s current town base, where they regrouped, rehired Finn, and later fled back for medical or magical help.
-- 2026-03-07 2026_0307 Session 07 — Helix: the party returned here before dawn.
-- 2026-03-08 [[2026_0308 Session 07]] — Helix, the party's base
-- 2026-05-17 [[2026_0517 Session 12]] — Party returned here at night, rested at the Brazen Strumpet, sold loot at the Rose Quartz the next morning, resupplied, and retrieved the owl from Mazah.
-- 2026-04-05 [[2026_0405 Session 09]] — Helix: The party began and ended the session in Helix, visiting the Rose Quartz and the Brazen Strumpet.
-
-## Notes / Uncertainty
-
-- Helix's exact street-level geography is still loose in the source material; the social and functional layout is clearer than the map.
-- Some Helix sub-sites are now stabilized as notes, but the exact stable-area geography and other street-level details still need cleanup.
+- [The Barrow Mounds](../places/location-barrow-mounds)
+- [The Brazen Strumpet](../places/location-brazen-strumpet)
+- [The Fair Church](../places/location-fair-church)
+- [Mazzah's Tower](../places/location-mazahs-tower)
+- [The Rose Quartz](../places/location-rose-quartz)
+- [Steel Bone Brotherhood](../factions/faction-steel-bone-brotherhood)
+- [Mouse](../people/npc-mouse)
+- [Hooded Lantern supply door](../places/location-hooded-lantern-supply-door)
+- [camp outside Helix](../places/location-camp-outside-helix)

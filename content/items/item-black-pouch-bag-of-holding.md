@@ -1,35 +1,11 @@
 ---
 title: "black pouch / bag of holding"
-description: "Magical container of black interior space; Mazzah identifies it as a bag of holding that seems to hold about five items."
 tags: [campaign, items]
+unlisted: true
 ---
 
-# Item: black pouch / bag of holding
+<meta http-equiv="refresh" content="0; url=../items/item-bag-of-holding">
 
-## Summary
+# Moved: black pouch / bag of holding
 
-- Magical container of black interior space; Mazzah identifies it as a bag of holding that seems to hold about five items.
-
-## Current Status
-
-- Magical container of black interior space; Mazzah identifies it as a bag of holding that seems to hold about five items.
-
-## Known Facts
-
-- Magical container of black interior space; Mazzah identifies it as a bag of holding that seems to hold about five items.
-
-## What The Players Know
-
-- Magical container of black interior space; Mazzah identifies it as a bag of holding that seems to hold about five items.
-
-## Owner / Holder
-
-- None noted.
-
-## Session History
-
-- 2026-02-08 [[2026_0208 Session 05]] — Magical container of black interior space; Mazzah identifies it as a bag of holding that seems to hold about five items.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [Bag of holding](../items/item-bag-of-holding).

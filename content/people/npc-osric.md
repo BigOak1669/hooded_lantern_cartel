@@ -12,15 +12,9 @@ tags: [campaign, people]
 
 ## Current Status
 
-- Curio dealer who negotiated aggressively and appears tied to the Silver Goblet thread.
-
 ## Known Facts
 
-- Curio dealer who negotiated aggressively and appears tied to the Silver Goblet thread.
-
 ## What The Players Know
-
-- Curio dealer who negotiated aggressively and appears tied to the Silver Goblet thread.
 
 ## Relationships
 
@@ -31,5 +25,3 @@ tags: [campaign, people]
 - 2025-11-16 [[2025_1116 Session 02]] — Curio dealer who negotiated aggressively and appears tied to the Silver Goblet thread.
 
 ## Notes / Uncertainty
-
-- None noted.

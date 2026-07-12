@@ -12,19 +12,11 @@ tags: [campaign, places]
 
 ## Description
 
-- Nearby mound whose broken entrance appeared older and not recently trafficked.
-
 ## Current Relevance
-
-- Nearby mound whose broken entrance appeared older and not recently trafficked.
 
 ## What The Players Know
 
-- Nearby mound whose broken entrance appeared older and not recently trafficked.
-
 ## Important NPCs / Factions
-
-- None noted.
 
 ## Session History
 
@@ -32,4 +24,6 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- None noted.
+## Garden Connections
+
+- [Parent: The Barrow Mounds](../places/location-barrow-mounds)

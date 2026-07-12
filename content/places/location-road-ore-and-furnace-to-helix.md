@@ -12,17 +12,13 @@ tags: [campaign, places]
 
 ## Description
 
-- Main overland route the party used to reach Helix; site of the meeting with Billworth and the dog diversion.
 - The route sits on the broader Valley of Ruin regional map between [[location-ore-and-furnace|Ore and Furnace]] and [[location-helix|Helix]].
 
 ## Current Relevance
 
-- Main overland route the party used to reach Helix; site of the meeting with Billworth and the dog diversion.
-
 ## What The Players Know
 
-- Main overland route the party used to reach Helix; site of the meeting with Billworth and the dog diversion.
-- Ore and Furnace is the canonical city name on the DM-labeled map.
+- Ore and Furnace is the established city name on the regional map.
 
 ## Important NPCs / Factions
 
@@ -35,3 +31,8 @@ tags: [campaign, places]
 ## Notes / Uncertainty
 
 - Exact travel distances and intermediate hex-by-hex route remain map-work details.
+
+## Garden Connections
+
+- [Parent: World Overview](../places/location-world-overview)
+- [Swampy campsite off the road](../places/location-swampy-campsite-off-the-road)

@@ -10,13 +10,11 @@ interface ExplorerNode {
 
 Explorer({
   sortFn: (a: ExplorerNode, b: ExplorerNode) => {
-    const orderFor = (node: ExplorerNode): number => {
-      const frontmatter = node.data?.frontmatter as { nav_order?: unknown } | undefined
-      return typeof frontmatter?.nav_order === "number"
-        ? frontmatter.nav_order
-        : Number.MAX_SAFE_INTEGER
-    }
-    const orderDifference = orderFor(a) - orderFor(b)
+    const aFrontmatter = a.data?.frontmatter as { nav_order?: unknown } | undefined
+    const bFrontmatter = b.data?.frontmatter as { nav_order?: unknown } | undefined
+    const aOrder = typeof aFrontmatter?.nav_order === "number" ? aFrontmatter.nav_order : Number.MAX_SAFE_INTEGER
+    const bOrder = typeof bFrontmatter?.nav_order === "number" ? bFrontmatter.nav_order : Number.MAX_SAFE_INTEGER
+    const orderDifference = aOrder - bOrder
     if (orderDifference !== 0) return orderDifference
     if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
     return (a.displayName || "").localeCompare(b.displayName || "", undefined, {

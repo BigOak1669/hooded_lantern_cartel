@@ -1,39 +1,11 @@
 ---
 title: "Prominent barrow with lower chamber and trap system"
-description: "Prominent barrow with lower chamber and trap system"
 tags: [campaign, places]
+unlisted: true
 ---
 
-# Location: Prominent barrow with lower chamber and trap system
+<meta http-equiv="refresh" content="0; url=../places/location-prominent-barrow-with-standing-stones-and-shaft">
 
-## Summary
+# Moved: Prominent barrow with lower chamber and trap system
 
-- Prominent barrow with lower chamber and trap system
-
-## Description
-
-- Prominent barrow with lower chamber and trap system
-
-## Current Relevance
-
-- Prominent barrow with lower chamber and trap system
-
-## What The Players Know
-
-- Prominent barrow with lower chamber and trap system
-
-## Hierarchy / Attached Sites
-
-- To refine.
-
-## Important NPCs / Factions
-
-- None noted.
-
-## Session History
-
-- 2026-04-19 [[2026_0419 Session 10]] — Prominent barrow with lower chamber and trap system
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [Prominent Barrow with Standing Stones and Shaft](../places/location-prominent-barrow-with-standing-stones-and-shaft).

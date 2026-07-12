@@ -25,3 +25,7 @@ The party retreated safely and closed the stone door. The sarcophagus and anothe
 
 - [[thread-identify-cobra-headed-staff|Identify the cobra-headed staff]]
 - [[thread-finish-exploring-broken-sigil-mound|Finish exploring the broken-sigil mound]]
+
+## Garden Connections
+
+- [Parent: The Barrow Mounds](../places/location-barrow-mounds)

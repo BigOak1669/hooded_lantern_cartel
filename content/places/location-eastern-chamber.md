@@ -49,3 +49,7 @@ tags: [campaign, places]
 
 - It is strongly implied but not fully proven that the fresh dead body in this chamber is Perry.
 - It is also not fully proven whether Nabo personally killed Perry or abandoned him to the chamber's dangers.
+
+## Garden Connections
+
+- [Parent: Northern Barrow](../places/location-northern-barrow)

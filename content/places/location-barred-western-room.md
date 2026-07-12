@@ -49,3 +49,7 @@ tags: [campaign, places]
 
 - The exact sequence of Nabo's betrayal inside the barrow remains secondhand, reported through the trapped survivors rather than witnessed directly.
 - Some name spellings still drift in the transcript, especially Ikram / Ekam / Incam.
+
+## Garden Connections
+
+- [Parent: Northern Barrow](../places/location-northern-barrow)

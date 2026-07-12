@@ -24,12 +24,8 @@ tags: [campaign, items]
 
 ## Owner / Holder
 
-- None noted.
-
 ## Session History
 
 - 2026-04-05 [[2026_0405 Session 09]] — Alarm spell scroll
 
 ## Notes / Uncertainty
-
-- None noted.

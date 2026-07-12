@@ -1,6 +1,6 @@
 ---
 title: "What was the chaotic tablet?"
-description: "The tablet in the urn chamber gave off a chaotic aura and became a fading map when Oogie read it. Wade ruled it is unconfirmed but very likely related to the Tablet of Chaos Oogie previously learned about from Arch."
+description: "The tablet in the urn chamber gave off a chaotic aura and became a fading map when Oogie read it. It is likely related to the Tablet of Chaos Oogie previously learned about from Arch, but the identity is unconfirmed."
 tags: [campaign, active-leads]
 ---
 
@@ -8,7 +8,7 @@ tags: [campaign, active-leads]
 
 ## Summary
 
-- The tablet in the urn chamber gave off a chaotic aura and became a fading map when Oogie read it. Wade ruled it is unconfirmed but very likely related to the Tablet of Chaos Oogie previously learned about from Arch.
+- The tablet in the urn chamber gave off a chaotic aura and became a fading map when Oogie read it. It is likely related to the Tablet of Chaos Oogie previously learned about from Arch, but the identity is unconfirmed.
 
 ## Why It Matters
 
@@ -17,6 +17,10 @@ tags: [campaign, active-leads]
 ## Current State
 
 - Open. The physical tablet appears destroyed or transformed. The surviving information is Oogie's memory and rough copy of the fading map.
+
+## Campaign History
+
+- 2026-05-17 [[2026_0517 Session 12]] - Oogie read the chaotic tablet in the urn chamber; it turned to ash and left a fading map showing the Barrow Mounds and a castle beyond them.
 
 ## Open Questions
 

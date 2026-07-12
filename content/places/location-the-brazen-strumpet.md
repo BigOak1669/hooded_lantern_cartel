@@ -1,39 +1,11 @@
 ---
 title: "The Brazen Strumpet"
-description: "The Brazen Strumpet: The party spent their carousing money on a feast here and met Sira Vey."
 tags: [campaign, places]
+unlisted: true
 ---
 
-# Location: The Brazen Strumpet
+<meta http-equiv="refresh" content="0; url=../places/location-brazen-strumpet">
 
-## Summary
+# Moved: The Brazen Strumpet
 
-- The Brazen Strumpet: The party spent their carousing money on a feast here and met Sira Vey.
-
-## Description
-
-- The Brazen Strumpet: The party spent their carousing money on a feast here and met Sira Vey.
-
-## Current Relevance
-
-- The Brazen Strumpet: The party spent their carousing money on a feast here and met Sira Vey.
-
-## What The Players Know
-
-- The Brazen Strumpet: The party spent their carousing money on a feast here and met Sira Vey.
-
-## Hierarchy / Attached Sites
-
-- To refine.
-
-## Important NPCs / Factions
-
-- None noted.
-
-## Session History
-
-- 2026-03-22 [[2026_0322 Session 08]] — The Brazen Strumpet: The party spent their carousing money on a feast here and met Sira Vey.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [The Brazen Strumpet](../places/location-brazen-strumpet).

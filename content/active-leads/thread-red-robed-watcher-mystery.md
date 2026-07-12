@@ -1,31 +1,11 @@
 ---
 title: "Red-robed watcher mystery"
-description: "Red-robed watcher mystery"
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Red-robed watcher mystery
+<meta http-equiv="refresh" content="0; url=../active-leads/thread-steel-bone-brotherhood">
 
-## Summary
+# Moved: Red-robed watcher mystery
 
-- Red-robed watcher mystery
-
-## Why It Matters
-
-- This remains an unresolved hook: Red-robed watcher mystery.
-
-## Current State
-
-- Red-robed watcher mystery
-
-## Open Questions
-
-- How should this hook be interpreted in later sessions: Red-robed watcher mystery?
-
-## Next Likely Touchpoints
-
-- Red-robed watcher mystery
-
-## Notes / Uncertainty
-
-- Red-robed watcher mystery
+This entry has been consolidated into [The Steel Bone Brotherhood](../active-leads/thread-steel-bone-brotherhood).

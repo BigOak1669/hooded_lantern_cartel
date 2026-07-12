@@ -14,6 +14,10 @@ Mox is a human boy, roughly thirteen or fourteen, whom the party hired at the [[
 
 He survived the retreat from the [[location-broken-sigil-mound|broken-sigil mound]]. His longer-term employment with the party is not yet established.
 
+## Session 14 Update
+
+Mox disclosed three gold pieces he had found in the prior mound, retained them with the party's consent, and left their service after being intimidated into silence.
+
 ## Relationships
 
 - The party hired him as a torchbearer.

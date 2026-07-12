@@ -13,7 +13,7 @@ tags: [campaign, places]
 ## Description
 
 - Vakish's larger map names the castle as Castle Zentolin in the Session 12 transcript. The party understands it as lying beyond the explored Barrow Mounds, in or past the fog-shrouded region.
-- The DM-labeled regional map asset appears to label this site as Castle Xyntillan; preserve both labels until Wade normalizes the campaign-facing name.
+- A regional-map spelling appears as Castle Xyntillan; Castle Zentolin remains the established player-facing name until play resolves the difference.
 
 ## Current Relevance
 

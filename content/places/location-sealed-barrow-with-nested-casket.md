@@ -21,12 +21,9 @@ tags: [campaign, places]
 
 ## What The Players Know
 
-- A sealed mound forced open by the party; contained plague rats, a sarcophagus, an inner woman-shaped wooden casket, and four amber vials.
 - Sealed barrow with nested casket
 
 ## Important NPCs / Factions
-
-- None noted.
 
 ## Session History
 
@@ -35,4 +32,6 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- None noted.
+## Garden Connections
+
+- [Parent: The Barrow Mounds](../places/location-barrow-mounds)

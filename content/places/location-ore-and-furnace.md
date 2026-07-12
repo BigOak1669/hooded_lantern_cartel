@@ -15,7 +15,7 @@ tags: [campaign, places]
 - Session 02 grounds this area as the broader settlement context around [[location-locked-and-loaded-tower|Locked and Loaded Tower]], the connected [[location-dungeon-underworld-complex|dungeon / underworld complex]], and the portal-linked [[location-temple-district-temple-settlement|Temple District / temple settlement]] where the party resurfaced.
 - By the next-session recap, that broader settlement is named [[location-ore-and-furnace|Ore and Furnace]], tying together the earlier dungeon escape, the temple-side hospitality, the market shopping scene, and the party's deal with [[npc-celestia|Celestia]].
 - The city now sits mostly off-screen, but it remains the clear origin point for the current Helix-and-chalice arc.
-- Wade confirmed the regional map label as Ore and Furnace on 2026-05-30; avoid transcript drift such as "Ore Infernus."
+- Ore and Furnace is the established regional name; similar transcript spellings refer to the same city.
 
 ## Current Relevance
 
@@ -52,3 +52,10 @@ tags: [campaign, places]
 - The exact city map is still fuzzy: Session 02 gives the party a tower, dungeon, portal exit, temple-centered settlement, and shopping area before Session 03 cleanly names the broader city as Ore and Furnace.
 - `location-town-shops-market.md` remains a review-level note because the source material does not yet prove it deserves a more specific permanent canonical sub-site name.
 - Canonical spelling is Ore and Furnace.
+
+## Garden Connections
+
+- [Parent: World Overview](../places/location-world-overview)
+- [Dungeon / underworld complex](../places/location-dungeon-underworld-complex)
+- [Locked and Loaded Tower](../places/location-locked-and-loaded-tower)
+- [Temple District / temple settlement](../places/location-temple-district-temple-settlement)

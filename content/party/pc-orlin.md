@@ -1,53 +1,46 @@
 ---
 title: "Orlin"
-description: "Shapechanging party member who used bear-claw/bear-hand force to break open swollen tomb doors, helped read Sylvan/Elvish-adjacent writing, and participated in the cautious approach to the serpent-skull marked mound."
+description: "Orlin is a shapechanging adventurer whose bear-form strength, healing, bow work, and alertness make him a flexible explorer. The table has described him as a beastmaster-in-training; a more exact class label has not been established in the…"
 tags: [campaign, party]
 ---
 
-# PC: Orlin
+<figure class="entity-art">
+<img src="../assets/pc-orlin.png" alt="Orlin">
+</figure>
 
-## Summary
+# Orlin
 
-- Shapechanging party member who used bear-claw/bear-hand force to break open swollen tomb doors, helped read Sylvan/Elvish-adjacent writing, and participated in the cautious approach to the serpent-skull marked mound.
+## At a Glance
 
-## Current Status
+Orlin is a shapechanging adventurer whose bear-form strength, healing, bow work, and alertness make him a flexible explorer. The table has described him as a beastmaster-in-training; a more exact class label has not been established in the campaign record.
 
-- Alive and active with the party.
+## Current Situation
 
-## Party Role / Class
+Orlin is active in Helix. In Session 14 he approached Mouse and Dennis directly and learned that Mouse had been paid to carry food and drink to someone living in a mound.
 
-- Class/role is still not fully established in the older surviving notes, but Session 11 describes him as a beastmaster-in-training and again shows bear-form combat.
-- In play, he functions as a practical ranged/support PC: he is seen with a bow ready, helping spot threats, checking doors and floor tiles, and moving with the group during rescues.
-- If a class label is needed, the safest answer remains: unclear.
-- Shapeshifter / druid-like character; exact class unclear
+## Defining History
 
-## Inventory / Gear Notes
-
-- Revived naked after the Archie-ticket return and had to recover his gear from the dungeon.
-- Later notes show him carrying a ready bow, but no full inventory list survives for him in the current source window.
-- Beyond the bow, his equipment details remain thin and should be treated as provisional.
+- Returned through the Archie-ticket system during the early dungeon expedition.
+- Made the party's first direct gesture toward the red-robed watcher when the figure appeared in the mist and waved back.
+- Used literal bear hands to force open swollen doors in the flooded ceremonial tomb.
+- Helped read the Thornswild chamber's faded writing and fought the animated lizardfolk statues.
+- Drew out Mouse's delivery story while the party investigated the marked mound.
 
 ## Relationships
 
-- Core companion to Sab, Gron/Grand, Gradrick, and Oogie.
-- Part of the same tight barrow crew that handled Oogie's recovery and the Helix cleanup/carouse.
-- Has the clearest direct exchange with the red-robed watcher at the mounds: he waved, the figure waved back, and the party treated that as meaningful.
-- Present when Dern entered the party orbit, though not the main connection there.
-- Companion of the party.
-- Gradrick: helped read the faded writing in the Thornswild burial chamber
+- **Mouse and Dennis:** Orlin's direct conversation exposed the delivery schedule and the recipient's foul-smelling mound.
+- **The party:** a core companion from the early dungeon through the current Helix investigation.
 
-## Session History
+## Uncertainty
 
-- 2025-11-16 [[2025_1116 Session 02]] — Party member who had died earlier and was restored through the ticket system.
-- 2026-02-22 [[2026_0222 Session 06]] — The red-robed figure is not just a glimpse once; it reappeared and seemed responsive when Orlin waved.
-- 2026-03-08 [[2026_0308 Session 07]] — Orlin
-- 2026-04-19 [[2026_0419 Session 10]] — **Orlin** (`` as Orlan/Orland) – used a healing spell on Oogie between sessions; participated in combat with a damage spell (1d4) and general support.
-- 2026-05-03 [[2026_0503 Session 11]] — **Orlin** – participated in combat; used a holy‑themed ability and scored a critical hit against the animated statue.
-- 2026-05-17 [[2026_0517 Session 12]] — Shapechanging party member who used bear-claw/bear-hand force to break open swollen tomb doors, helped read Sylvan/Elvish-adjacent writing, and participated in the cautious approach to the serpent-skull marked mound.
-- 2026-04-05 [[2026_0405 Session 09]] — Name: Orlin
+Orlin's class has been described indirectly through abilities and table talk. Shapechanging and a developing beastmaster identity are supported; a narrower label is not.
 
-## Notes / Uncertainty
+## Garden Connections
 
-- The red-robed figure is not just a glimpse once; it reappeared and seemed responsive when Orlin waved.
-- [uncertain] **Orlin** (`` as Orlan/Orland) – used a healing spell on Oogie between sessions; participated in combat with a damage spell (1d4) and general support.
-- [uncertain] **Orlin** – participated in combat; used a holy‑themed ability and scored a critical hit against the animated statue.
+- [Sab](../party/pc-sab)
+- [Oogie](../party/pc-oogie)
+- [Gradrick](../party/pc-gradrick)
+- [Grond](../party/pc-grond)
+- [Dern](../party/pc-dern)
+- [Mouse](../people/npc-mouse)
+- [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)

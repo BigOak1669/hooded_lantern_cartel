@@ -1,31 +1,11 @@
 ---
 title: "Identity and motive of the red-robed watcher"
-description: "A red-robed Steel Bone cultist repeatedly observed the party and appeared to draw them toward the prominent mound."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Identity and motive of the red-robed watcher
+<meta http-equiv="refresh" content="0; url=../active-leads/thread-steel-bone-brotherhood">
 
-## Summary
+# Moved: Identity and motive of the red-robed watcher
 
-- A red-robed Steel Bone cultist repeatedly observed the party and appeared to draw them toward the prominent mound.
-
-## Why It Matters
-
-- This remains an unresolved hook: A red-robed Steel Bone cultist repeatedly observed the party and appeared to draw them toward the prominent mound.
-
-## Current State
-
-- A red-robed Steel Bone cultist repeatedly observed the party and appeared to draw them toward the prominent mound.
-
-## Open Questions
-
-- How should this hook be interpreted in later sessions: A red-robed Steel Bone cultist repeatedly observed the party and appeared to draw them toward the prominent mound?
-
-## Next Likely Touchpoints
-
-- A red-robed Steel Bone cultist repeatedly observed the party and appeared to draw them toward the prominent mound.
-
-## Notes / Uncertainty
-
-- A red-robed Steel Bone cultist repeatedly observed the party and appeared to draw them toward the prominent mound.
+This entry has been consolidated into [The Steel Bone Brotherhood](../active-leads/thread-steel-bone-brotherhood).

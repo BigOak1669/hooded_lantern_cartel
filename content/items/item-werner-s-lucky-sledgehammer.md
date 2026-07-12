@@ -12,24 +12,14 @@ tags: [campaign, items]
 
 ## Current Status
 
-- Tool or weapon Werner wants returned in exchange for dealing on the chalice; apparently found by the Iron Chain inside the northern barrow.
-
 ## Known Facts
-
-- Tool or weapon Werner wants returned in exchange for dealing on the chalice; apparently found by the Iron Chain inside the northern barrow.
 
 ## What The Players Know
 
-- Tool or weapon Werner wants returned in exchange for dealing on the chalice; apparently found by the Iron Chain inside the northern barrow.
-
 ## Owner / Holder
-
-- None noted.
 
 ## Session History
 
 - 2026-01-25 [[2026_0125 Session 04]] — Tool or weapon Werner wants returned in exchange for dealing on the chalice; apparently found by the Iron Chain inside the northern barrow.
 
 ## Notes / Uncertainty
-
-- None noted.

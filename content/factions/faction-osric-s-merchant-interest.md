@@ -12,19 +12,13 @@ tags: [campaign, factions]
 
 ## Current Status
 
-- Commercial side represented by Osric, focused on curio trading and hard bargaining.
-
 ## Goals / Pressure
 
 - **Osric’s shop / merchant interest**
 
 ## Known Facts
 
-- None noted.
-
 ## What The Players Know
-
-- Commercial side represented by Osric, focused on curio trading and hard bargaining.
 
 ## Related Entities / Locations
 
@@ -36,5 +30,3 @@ tags: [campaign, factions]
 - 2025-11-16 [[2025_1116 Session 02]] — Commercial side represented by Osric, focused on curio trading and hard bargaining.
 
 ## Notes / Uncertainty
-
-- Commercial side represented by Osric, focused on curio trading and hard bargaining.

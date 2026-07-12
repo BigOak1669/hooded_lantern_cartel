@@ -1,6 +1,8 @@
 ---
-title: Maps
+title: "Maps"
+description: "Player-known campaign maps."
 tags: [campaign, maps]
+nav_order: 8
 ---
 
 # Maps

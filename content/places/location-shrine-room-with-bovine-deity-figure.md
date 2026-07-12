@@ -12,15 +12,9 @@ tags: [campaign, places]
 
 ## Description
 
-- Shrine space where the party made offerings and recovered a giant gold disc/coin.
-
 ## Current Relevance
 
-- Shrine space where the party made offerings and recovered a giant gold disc/coin.
-
 ## What The Players Know
-
-- Shrine space where the party made offerings and recovered a giant gold disc/coin.
 
 ## Important NPCs / Factions
 
@@ -32,4 +26,6 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- Shrine space where the party made offerings and recovered a giant gold disc/coin.
+## Garden Connections
+
+- [Parent: Dungeon / underworld complex](../places/location-dungeon-underworld-complex)

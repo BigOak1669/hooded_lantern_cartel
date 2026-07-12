@@ -1,6 +1,6 @@
 ---
 title: "Chaotic tablet / ash-map tablet"
-description: "One-use or spent tablet found on a pedestal in the tablet chamber. It gave off a chaotic aura; when Oogie read it, it turned to ash and left a paper map that briefly showed the Barrow Mounds and a castle before fading blank. Wade ruled it i"
+description: "One-use or spent tablet found on a pedestal in the tablet chamber. It gave off a chaotic aura; when Oogie read it, it turned to ash and left a paper map that briefly showed the Barrow Mounds and a castle before fading blank. A connection…"
 tags: [campaign, items]
 ---
 
@@ -8,7 +8,7 @@ tags: [campaign, items]
 
 ## Summary
 
-- One-use or spent tablet found on a pedestal in the tablet chamber. It gave off a chaotic aura; when Oogie read it, it turned to ash and left a paper map that briefly showed the Barrow Mounds and a castle before fading blank. Wade ruled it is unconfirmed but very likely related to the Tablet of Chaos.
+- One-use or spent tablet found on a pedestal in the tablet chamber. It gave off a chaotic aura; when Oogie read it, it turned to ash and left a paper map that briefly showed the Barrow Mounds and a castle before fading blank. A connection to the Tablet of Chaos is likely but unconfirmed.
 
 ## Current Status
 

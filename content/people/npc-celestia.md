@@ -12,8 +12,6 @@ tags: [campaign, people]
 
 ## Current Status
 
-- Quest-giver tied to the chalice recovery, discussed only in recap.
-
 ## Known Facts
 
 - Antiquities dealer in Orrin Furnace who hired the party to recover the silver chalice.
@@ -22,10 +20,6 @@ tags: [campaign, people]
 
 ## What The Players Know
 
-- Antiquities dealer in Orrin Furnace who hired the party to recover the silver chalice.
-- Patron who advanced money for the chalice and followed up in person at Mazzah's tower.
-- Quest-giver tied to the chalice recovery, discussed only in recap.
-- Store owner in the City of Ore and Furnace who hired the party to obtain the chalice/goblet from Helix.
 - Armorer or craftsperson the party preferred over Osric.
 
 ## Relationships
@@ -48,6 +42,3 @@ tags: [campaign, people]
 - 2025-11-16 [[2025_1116 Session 02]] — Armorer or craftsperson the party preferred over Osric.
 
 ## Notes / Uncertainty
-
-- Quest-giver tied to the chalice recovery, discussed only in recap.
-- Armorer or craftsperson the party preferred over Osric.

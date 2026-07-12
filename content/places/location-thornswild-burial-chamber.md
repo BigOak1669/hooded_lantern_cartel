@@ -40,3 +40,7 @@ tags: [campaign, places]
 ## Notes / Uncertainty
 
 - The exact identity of the buried champion is unknown.
+
+## Garden Connections
+
+- [Parent: Third Vakish Mound](../places/location-third-vakish-mound)

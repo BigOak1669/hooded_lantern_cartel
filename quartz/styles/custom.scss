@@ -86,19 +86,33 @@ article .quick-recap-label + h2 {
 }
 
 .party-card {
-  min-height: 8rem;
-  padding: 1rem;
+  min-height: 15rem;
+  padding: 0;
+  overflow: hidden;
   border: 1px solid color-mix(in srgb, var(--lantern-gold) 38%, transparent);
   border-radius: 0.8rem;
   background: color-mix(in srgb, var(--light) 92%, var(--lantern-amber) 8%);
   box-shadow: 0 0.45rem 1.2rem rgba(0, 0, 0, 0.09);
 }
 
+.party-card > img {
+  width: 100%;
+  height: 9rem;
+  object-fit: cover;
+  object-position: center 22%;
+  border-radius: 0;
+}
+
+.party-card-copy {
+  display: block;
+  padding: 0.85rem 1rem 1rem;
+}
+
 .party-card .sigil {
   display: grid;
   width: 2.8rem;
   height: 2.8rem;
-  margin-bottom: 0.8rem;
+  margin: 1rem 1rem 0.8rem;
   place-items: center;
   border: 1px solid var(--lantern-gold);
   border-radius: 50%;
@@ -112,7 +126,31 @@ article .quick-recap-label + h2 {
   font-family: var(--headerFont);
 }
 .party-card small {
+  display: -webkit-box;
+  margin-top: 0.3rem;
+  overflow: hidden;
   color: var(--darkgray);
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.entity-art {
+  width: min(100%, 46rem);
+  max-height: 34rem;
+  margin: 0 0 1.5rem;
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--lantern-gold) 46%, transparent);
+  border-radius: 0.85rem;
+  background: #17120e;
+  box-shadow: 0 1rem 2.4rem rgba(0, 0, 0, 0.2);
+}
+
+.entity-art img {
+  display: block;
+  width: 100%;
+  max-height: 34rem;
+  object-fit: cover;
+  object-position: center 24%;
 }
 
 .campaign-columns {
@@ -140,5 +178,11 @@ img[alt*="Valley of Ruin"] {
   }
   .party-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .party-card {
+    min-height: 13rem;
+  }
+  .party-card > img {
+    height: 7.5rem;
   }
 }

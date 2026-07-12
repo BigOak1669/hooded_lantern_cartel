@@ -48,6 +48,10 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- Wade clarified during garden tending that this was intended as a recovery of the older interdimensional / extra-temporal supply-store concept tied to the Locked and Loaded home franchise and Hooded Lantern cartel, not a new barrow location.
+- This doorway recalls the older interdimensional or extra-temporal supply-store concept tied to Locked and Loaded and the Hooded Lantern cartel; it is not a barrow location.
 - The Helix placement should be treated as an in-world manifestation of a portable recurring tool, not proof that the Fair Church has a permanent hidden shop attached to it.
 - The exact rules for when and where the door can appear remain GM-side/uncertain.
+
+## Garden Connections
+
+- [Parent: Helix](../places/location-helix)

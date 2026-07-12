@@ -50,3 +50,10 @@ tags: [campaign, places]
 
 - This note now functions as a temporary umbrella / review note rather than the long-term canonical room-level destination.
 - The room-level canon now lives under `04_Barrowmaze/northern-barrow`, so any later changes to this note should preserve its role as context and traceability rather than trying to collapse the rooms back into one file.
+
+## Garden Connections
+
+- [Parent: The Barrow Mounds](../places/location-barrow-mounds)
+- [Barred Western Room](../places/location-barred-western-room)
+- [Eastern Chamber](../places/location-eastern-chamber)
+- [Entry Chamber](../places/location-entry-chamber)

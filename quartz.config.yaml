@@ -154,6 +154,11 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      sortFn: null
+      filterFn: null
+      mapFn: null
+      order: []
     layout:
       position: left
       priority: 50

@@ -1,37 +1,11 @@
 ---
-title: "Encounter: Undead plague rats"
-description: "The party fought undead plague rats in the sealed mound."
+title: "Undead plague rats"
 tags: [campaign, encounters]
+unlisted: true
 ---
 
-# Encounter: Undead plague rats
+<meta http-equiv="refresh" content="0; url=../encounters/encounter-plague-rats">
 
-## Summary
+# Moved: Undead plague rats
 
-- The party fought undead plague rats in the sealed mound.
-
-## Current Status
-
-- Recorded in session output: The party fought undead plague rats in the sealed mound.
-
-## Participants
-
-- None noted.
-
-## Location
-
-- None noted.
-
-## Session History
-
-- 2026-03-08 [[2026_0308 Session 07]] — The party fought undead plague rats in the sealed mound.
-
-## Outcomes / Consequences
-
-- The party fought undead plague rats and marked skeletons.
-- The party encountered undead plague rats and marked skeletons.
-- The party fought undead plague rats in the sealed mound.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [Encounter: Plague rats](../encounters/encounter-plague-rats).

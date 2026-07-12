@@ -1,55 +1,26 @@
 ---
-title: "Brazen Strumpet"
-description: "Inn/tavern where the party returned late, ate leftover stew, slept, and was charged room and board."
+title: "The Brazen Strumpet"
+description: "The Brazen Strumpet is Helix's busiest inn and tavern and the party's usual surface base. Bolo runs the room; Tacey works there; adventurers, hirelings, merchants, and rumors all pass through."
 tags: [campaign, places]
 ---
 
-# Location: Brazen Strumpet
+# The Brazen Strumpet
 
-## Summary
+The Brazen Strumpet is Helix's busiest inn and tavern and the party's usual surface base. Bolo runs the room; Tacey works there; adventurers, hirelings, merchants, and rumors all pass through.
 
-- Inn/tavern where the party returned late, ate leftover stew, slept, and was charged room and board.
+## In the Campaign
 
-## Description
+- Werner, Tacey, and the Iron Chain lead converged here during the party's first days in Helix.
+- The party's extravagant Session 08 carouse became a town-wide Blackbark gin and starshine eel feast before a predawn raid struck the tavern's orbit and the Rose Quartz.
+- The party hired Mox here before entering the Broken-Sigil Mound.
+- In Session 14, Bolo identified Mouse and agreed to strengthen the ale intended for the marked mound's occupant.
 
-- Main active tavern/inn in Helix and the party's lodging for the night.
-- Helix tavern where Werner, Tacey, and the Iron Chain leads converged.
-- Lively inn/tavern in Helix where the party gathers information, rests, and meets local contacts.
-- The Brazen Strumpet, where the party celebrated and received tattoos.
-- Inn/tavern where the party returned late, ate leftover stew, slept, and was charged room and board.
+The tavern remains useful because it is both home ground and an information network—not because every conversation here becomes a separate lead.
 
-## Current Relevance
+## Garden Connections
 
-- Inn/tavern where the party returned late, ate leftover stew, slept, and was charged room and board.
-
-## What The Players Know
-
-- Main active tavern/inn in Helix and the party's lodging for the night.
-- Helix tavern where Werner, Tacey, and the Iron Chain leads converged.
-- Lively inn/tavern in Helix where the party gathers information, rests, and meets local contacts.
-- The Brazen Strumpet, where the party celebrated and received tattoos.
-- Inn/tavern where the party returned late, ate leftover stew, slept, and was charged room and board.
-
-## Hierarchy / Attached Sites
-
-- To refine.
-
-## Important NPCs / Factions
-
-- Bolo
-- Tacey
-- Werner
-- Iron Chain
-- Tiramelle
-
-## Session History
-
-- 2026-01-11 [[2026_0111 Session 03]] — Main active tavern/inn in Helix and the party's lodging for the night.
-- 2026-01-25 [[2026_0125 Session 04]] — Helix tavern where Werner, Tacey, and the Iron Chain leads converged.
-- 2026-02-08 [[2026_0208 Session 05]] — Lively inn/tavern in Helix where the party gathers information, rests, and meets local contacts.
-- 2026-05-17 [[2026_0517 Session 12]] — Inn/tavern where the party returned late, ate leftover stew, slept, and was charged room and board.
-- 2026-03-22 [[2026_0322 Session 08]] — The Brazen Strumpet, where the party celebrated and received tattoos.
-
-## Notes / Uncertainty
-
-- None noted.
+- [Parent: Helix](../places/location-helix)
+- [Bolo](../people/npc-bolo)
+- [Tacey](../people/npc-tacey)
+- [Mouse](../people/npc-mouse)
+- [The Rose Quartz](../places/location-rose-quartz)

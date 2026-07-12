@@ -1,31 +1,11 @@
 ---
 title: "Recover the chalice for Celestia"
-description: "The party still needs to secure the silver chalice and bring it back to Celestia in Orrin Furnace."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Recover the chalice for Celestia
+<meta http-equiv="refresh" content="0; url=../active-leads/thread-silver-goblet-commission">
 
-## Summary
+# Moved: Recover the chalice for Celestia
 
-- The party still needs to secure the silver chalice and bring it back to Celestia in Orrin Furnace.
-
-## Why It Matters
-
-- This is an active unresolved hook: The party still needs to secure the silver chalice and bring it back to Celestia in Orrin Furnace.
-
-## Current State
-
-- The party still needs to secure the silver chalice and bring it back to Celestia in Orrin Furnace.
-
-## Open Questions
-
-- When and how will this hook be revisited: The party still needs to secure the silver chalice and bring it back to Celestia in Orrin Furnace?
-
-## Next Likely Touchpoints
-
-- Eventually recover the chalice for Celestia.
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [Silver Goblet commission](../active-leads/thread-silver-goblet-commission).

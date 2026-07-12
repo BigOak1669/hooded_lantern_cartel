@@ -42,3 +42,7 @@ tags: [campaign, places]
 
 - This note is preserved intentionally as a holdout / review note because the current canonical location tree has no agreed Helix-outskirts branch for temporary aftermath sites like this one.
 - If the Helix hierarchy later expands to include outskirts or support sites, this note can be reconsidered without being forced into canon early.
+
+## Garden Connections
+
+- [Parent: Helix](../places/location-helix)

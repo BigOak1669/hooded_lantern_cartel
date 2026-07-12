@@ -51,3 +51,8 @@ tags: [campaign, places]
 - Legacy note id `location-prominent-barrow` now converges on this canonical survivor; the later pointer/retirement cleanup still belongs to the legacy-handling pass.
 - The retreat path from this mound does not appear distinct enough yet to justify a separate canonical location note; for now it is treated as part of this exterior barrow note rather than as `location-barrow-mound-exterior-retreat-route.md`.
 - It remains uncertain whether the red-robed figures were true Brotherhood members, illusions, magical projections, distant observers, or some mix of those possibilities.
+
+## Garden Connections
+
+- [Parent: The Barrow Mounds](../places/location-barrow-mounds)
+- [Lower chamber beneath the prominent barrow](../places/location-lower-chamber-beneath-the-prominent-barrow)

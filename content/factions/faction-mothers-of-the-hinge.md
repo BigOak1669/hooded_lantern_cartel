@@ -12,19 +12,13 @@ tags: [campaign, factions]
 
 ## Current Status
 
-- Religious or temple-associated group localized exclusively to the City of Ore and Furnace.
-
 ## Goals / Pressure
 
 - **Mothers of the Hinge**
 
 ## Known Facts
 
-- Religious or temple-associated group localized exclusively to the City of Ore and Furnace.
-
 ## What The Players Know
-
-- Religious or temple-associated group localized exclusively to the City of Ore and Furnace.
 
 ## Related Entities / Locations
 

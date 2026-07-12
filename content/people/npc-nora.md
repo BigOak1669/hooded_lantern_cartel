@@ -12,15 +12,9 @@ tags: [campaign, people]
 
 ## Current Status
 
-- Temple attendant or local guide in the settlement reached through the portal.
-
 ## Known Facts
 
-- None noted.
-
 ## What The Players Know
-
-- Temple attendant or local guide in the settlement reached through the portal.
 
 ## Relationships
 
@@ -31,5 +25,3 @@ tags: [campaign, people]
 - 2025-11-16 [[2025_1116 Session 02]] — Temple attendant or local guide in the settlement reached through the portal.
 
 ## Notes / Uncertainty
-
-- Temple attendant or local guide in the settlement reached through the portal.

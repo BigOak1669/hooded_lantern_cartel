@@ -12,19 +12,11 @@ tags: [campaign, places]
 
 ## Description
 
-- Room used by the party as an escape route out of the dungeon.
-
 ## Current Relevance
-
-- Room used by the party as an escape route out of the dungeon.
 
 ## What The Players Know
 
-- Room used by the party as an escape route out of the dungeon.
-
 ## Important NPCs / Factions
-
-- None noted.
 
 ## Session History
 
@@ -32,4 +24,6 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- None noted.
+## Garden Connections
+
+- [Parent: Dungeon / underworld complex](../places/location-dungeon-underworld-complex)

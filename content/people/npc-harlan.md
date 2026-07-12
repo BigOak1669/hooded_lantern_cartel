@@ -12,17 +12,11 @@ tags: [campaign, people]
 
 ## Current Status
 
-- Young man killed before the session, likely the ghoul victim found on the road to Helix.
-
 ## Known Facts
 
-- None noted.
 - Young man found dead at the campsite; likely traveling to buy a ring for Tacey.
 
 ## What The Players Know
-
-- Young man killed before the session, likely the ghoul victim found on the road to Helix.
-- Young man found dead at the campsite; likely traveling to buy a ring for Tacey.
 
 ## Relationships
 
@@ -35,5 +29,3 @@ tags: [campaign, people]
 - 2026-01-11 [[2026_0111 Session 03]] — Young man found dead at the campsite; likely traveling to buy a ring for Tacey.
 
 ## Notes / Uncertainty
-
-- Young man killed before the session, likely the ghoul victim found on the road to Helix.

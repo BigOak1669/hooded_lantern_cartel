@@ -12,8 +12,6 @@ tags: [campaign, people]
 
 ## Current Status
 
-- Brazen Strumpet staff member seen cleaning up when the party returns late.
-
 ## Known Facts
 
 - The party first met Tacey when they delivered Harlan's sealed letter at the Brazen Strumpet.
@@ -25,17 +23,12 @@ tags: [campaign, people]
 - Red-haired barmaid at the Brazen Strumpet and recipient of Harlan's letter.
 - Barmaid at the Brazen Strumpet in Helix; apparently connected to Harlan.
 - Bartender or inn staff at the Brazen Strumpet.
-- Brazen Strumpet staff member seen cleaning up when the party returns late.
 
 ## What The Players Know
 
 - Tacey is more than anonymous inn staff; she is emotionally tied to Harlan's road tragedy.
 - She is trustworthy enough for the party to use as a local messenger when they cannot handle delicate follow-up in person.
 - She remains one of the party's steady human contacts in Helix.
-- Red-haired barmaid at the Brazen Strumpet and recipient of Harlan's letter.
-- Barmaid at the Brazen Strumpet in Helix; apparently connected to Harlan.
-- Bartender or inn staff at the Brazen Strumpet.
-- Brazen Strumpet staff member seen cleaning up when the party returns late.
 
 ## Relationships
 

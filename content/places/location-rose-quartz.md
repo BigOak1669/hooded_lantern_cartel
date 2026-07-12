@@ -1,55 +1,30 @@
 ---
-title: "Rose Quartz"
-description: "Vakish Baharus's jewelry/curio shop in Helix. The party turned in a gold jackal, sold rings and an urn, discussed the Thornswild and Castle Zentolin, and finalized keeping the Belt of the Thornswild."
+title: "The Rose Quartz"
+description: "The Rose Quartz is Vakish Baharus's jewelry and curio shop in Helix. It is the party's best market for fancy grave goods and an important source of regional knowledge."
 tags: [campaign, places]
 ---
 
-# Location: Rose Quartz
+<figure class="entity-art">
+<img src="../assets/location-rose-quartz.jpg" alt="The Rose Quartz">
+</figure>
 
-## Summary
+# The Rose Quartz
 
-- Vakish Baharus's jewelry/curio shop in Helix. The party turned in a gold jackal, sold rings and an urn, discussed the Thornswild and Castle Zentolin, and finalized keeping the Belt of the Thornswild.
+The Rose Quartz is Vakish Baharus's jewelry and curio shop in Helix. It is the party's best market for fancy grave goods and an important source of regional knowledge.
 
-## Description
+## In the Campaign
 
-- Jewelry and curio shop in [[location-helix|Helix]] oriented toward fancy saleable goods rather than ordinary gear.
-- Run by Vakish Baharus, who haggles, appraises loot, and appears interested in recurring business from barrow delvers.
-- Serves as both a fence and an information source for the party's current mound expeditions.
-- The Rose Quartz, which was broken into, triggering an alarm.
-- Vakish Baharus's jewelry/curio shop in Helix. The party turned in a gold jackal, sold rings and an urn, discussed the Thornswild and Castle Zentolin, and finalized keeping the Belt of the Thornswild.
+- Vakish bought the gold ring and four amber perfume vials after Oogie's return.
+- His three-mound belt lead led the party to gold jackals, the Belt of the Thornswild, and the wider Thornswild mystery.
+- The shop was attacked during the predawn raid after the Brazen Strumpet feast; Vakish's mechanical guards killed several raiders.
+- In Session 12, the party sold rings and an ornate urn, returned the second jackal, and discussed Thornswild, the fog, and Castle Zentolin.
 
-## Current Relevance
+The Rose Quartz is a commercial relationship, but Vakish's maps and memory have made it part of the campaign's bridge from local barrow delving to wider travel.
 
-- Vakish Baharus's jewelry/curio shop in Helix. The party turned in a gold jackal, sold rings and an urn, discussed the Thornswild and Castle Zentolin, and finalized keeping the Belt of the Thornswild.
+## Garden Connections
 
-## What The Players Know
-
-- Vakish identified the four amber vials from the sealed barrow as perfume rather than potions.
-- The party sold the perfume vials, a gold ring, and the chipped ornate greataxe here for a negotiated total of 60 gold.
-- Vakish did not want the now-nonmagical silver chalice as ordinary dishware.
-- Vakish offered a fresh treasure lead involving a solid-gold belt buckle inlaid with unicorn horn, believed to be in one of three barrows southeast of the obelisk.
-- He is also willing to keep buying fancy grave goods the party brings back.
-- The Rose Quartz, which was broken into, triggering an alarm.
-- Vakish Baharus's jewelry/curio shop in Helix. The party turned in a gold jackal, sold rings and an urn, discussed the Thornswild and Castle Zentolin, and finalized keeping the Belt of the Thornswild.
-
-## Hierarchy / Attached Sites
-
-- Parent area: [[location-helix|Helix]].
-- Classification: jeweler / curio buyer / loot-sale site.
-- Child / attached sites: none confirmed beyond the storefront and Vakish's sales counter.
-- Related / sibling sites: [[location-brazen-strumpet|Brazen Strumpet]], [[location-fair-church|Fair Church]], [[location-mazahs-tower|Mazah's Tower]].
-
-## Important NPCs / Factions
-
-- [[npc-vakish-baharus|Vakish Baharus]]
-- Vakish Baharus
-
-## Session History
-
-- 2026-05-17 [[2026_0517 Session 12]] — Vakish Baharus's jewelry/curio shop in Helix. The party turned in a gold jackal, sold rings and an urn, discussed the Thornswild and Castle Zentolin, and finalized keeping the Belt of the Thornswild.
-- 2026-03-22 [[2026_0322 Session 08]] — The Rose Quartz, which was broken into, triggering an alarm.
-- 2026-03-08 [[2026_0308 Session 07]] — The party sold recent loot here, learned the amber vials were perfume, and picked up Vakish's lead about the gold-and-unicorn-horn belt buckle.
-
-## Notes / Uncertainty
-
-- Vakish's surname and some transcript phrasing remain slightly noisy, but the location itself is clearly the Helix jeweler/curio shop visited in Session 07.
+- [Parent: Helix](../places/location-helix)
+- [Vakish Baharus](../people/npc-vakish-baharus)
+- [Third Vakish Mound](../places/location-third-vakish-mound)
+- [Castle Zentolin](../places/location-castle-zentolin)
+- [Thornswild](../places/location-thornswild)

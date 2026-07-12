@@ -12,15 +12,9 @@ tags: [campaign, places]
 
 ## Description
 
-- A landmark southeast of the explored mounds and a likely reference point for the note about a tomb north of the obelisk.
-
 ## Current Relevance
 
-- A landmark southeast of the explored mounds and a likely reference point for the note about a tomb north of the obelisk.
-
 ## What The Players Know
-
-- A landmark southeast of the explored mounds and a likely reference point for the note about a tomb north of the obelisk.
 
 ## Important NPCs / Factions
 
@@ -32,4 +26,6 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- A landmark southeast of the explored mounds and a likely reference point for the note about a tomb north of the obelisk.
+## Garden Connections
+
+- [Parent: The Barrow Mounds](../places/location-barrow-mounds)

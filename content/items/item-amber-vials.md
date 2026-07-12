@@ -1,35 +1,11 @@
 ---
 title: "Amber vials"
-description: "Four ornate amber vials"
 tags: [campaign, items]
+unlisted: true
 ---
 
-# Item: Amber vials
+<meta http-equiv="refresh" content="0; url=../items/item-four-ornate-amber-vials">
 
-## Summary
+# Moved: Amber vials
 
-- Four ornate amber vials
-
-## Current Status
-
-- Four ornate amber vials
-
-## Known Facts
-
-- Four ornate amber vials
-
-## What The Players Know
-
-- Four ornate amber vials
-
-## Owner / Holder
-
-- None noted.
-
-## Session History
-
-- 2026-03-08 [[2026_0308 Session 07]] — Four ornate amber vials
-
-## Notes / Uncertainty
-
-- None noted.
+This entry has been consolidated into [Four ornate amber vials](../items/item-four-ornate-amber-vials).
