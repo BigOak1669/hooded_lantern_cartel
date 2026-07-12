@@ -48,6 +48,21 @@ article > h1::after {
   color: #f8ebcf;
 }
 
+.quick-recap-label {
+  display: inline-block;
+  margin-bottom: 0.25rem;
+  color: var(--secondary);
+  font-family: var(--headerFont);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+article .quick-recap-label + h2 {
+  margin-top: 0.25rem;
+}
+
 .campaign-hero .eyebrow {
   color: #e7b75b;
   font-size: 0.78rem;
