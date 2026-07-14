@@ -7,7 +7,7 @@ tags: [campaign, home]
 <section class="campaign-hero">
 <div class="eyebrow">A Shadowdark Campaign Archive</div>
 <h2>Hooded Lantern Cartel</h2>
-<p>The Hooded Lantern Cartel has used Helix as its base while exploring the Barrow Mounds, recovering strange grave goods and following signs of organized activity among the tombs. Their most persistent concern is the Steel Bone Brotherhood:…</p>
+<p>The Hooded Lantern Cartel has used Helix as its base while exploring the Barrow Mounds, recovering strange grave goods and following signs of organized activity among the tombs. The Steel Bone Brotherhood remains a persistent pressure:…</p>
 </section>
 
 ## Campaign Now
@@ -27,11 +27,11 @@ tags: [campaign, home]
 
 ## Latest Session
 
-**Session 14 · 2026-06-28**
+**Session 15 · 2026-07-12**
 
-The party spent the session in Helix following the serpent-and-skull marked mound lead. Through the planted owl, Gradrick watched a courier called Mouse deliver a sack to a large half-orc-like figure inside the mound. Mazzah identified…
+The party used the fortified ale delivery to enter the serpent-and-skull marked mound. Oogie's Staff of the Cobra bypassed the painted serpent ward, and the party met Nara, an undead maid, in the entrance hall. They investigated a warm,…
 
-[Quick recap and detailed record →](sessions/2026_0628%20Session%2014)
+[Quick recap and detailed record →](sessions/2026_0712%20Session%2015)
 
 ## Threads in Motion
 
@@ -46,9 +46,9 @@ The party spent the session in Helix following the serpent-and-skull marked moun
 
 ## Recent Sessions
 
+- **[Session 15 · 2026-07-12](sessions/2026_0712%20Session%2015)** — The party used the fortified ale delivery to enter the serpent-and-skull marked mound. Oogie's Staff of the Cobra bypassed the painted serpent ward, and the party met Nara, an undead maid, in the entrance hall. They investigated a warm,…
 - **[Session 14 · 2026-06-28](sessions/2026_0628%20Session%2014)** — The party spent the session in Helix following the serpent-and-skull marked mound lead. Through the planted owl, Gradrick watched a courier called Mouse deliver a sack to a large half-orc-like figure inside the mound. Mazzah identified…
 - **[Session 13 · 2026-05-31](sessions/2026_0531%20Session%2013)** — The party hired the young Mox as a torchbearer and explored a previously opened barrow marked by a broken sigil. Removing a cobra-headed staff from its ritual chamber brought out a mass of small snakes. Oogie found that the staff…
-- **[Session 12 · 2026-05-17](sessions/2026_0517%20Session%2012)** — The party finished the main exploration of the third Vakish mound, recovering Thornswild lore, a Cloak of Elvenkind, an ornate urn, and a fleeting map pointing beyond the Barrow Mounds toward Castle Zentolin. On the return to Helix they…
 
 ## The Valley of Ruin
 

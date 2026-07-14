@@ -17,16 +17,18 @@ The Steel Bone Brotherhood is an ominous tomb-delving faction active around Heli
 
 ## Present Pressure
 
-The party suspects a connection between the Brotherhood, Mort, and the serpent-and-skull marked mound. The evidence is substantial but incomplete. Mazzah's reading of the mound's symbol suggested an older or deeper serpent-and-death tradition, leaving open whether the Brotherhood controls the site, serves something behind it, or is only adjacent to it.
+Session 15 confirmed Mort's presence in the serpent-and-skull marked mound and exposed Tornar's separate necromantic workroom, but it did not establish that Tornar belonged to the Brotherhood or that the Brotherhood controlled the mound's serpent-and-death tradition. The older symbolism and the Brotherhood may overlap, compete, or be unrelated.
 
 ## Unknowns
 
-The party does not know the Brotherhood's leadership, true scale, ultimate purpose, or exact method of using the dead.
+The party does not know the Brotherhood's leadership, true scale, ultimate purpose, or exact method of using the dead. Mort's half-mask remains evidence of a connection, not proof of membership or motive.
 
 ## Garden Connections
 
 - [Steel Bone cultist](../people/npc-steel-bone-cultist)
 - [Mort](../people/npc-mort)
+- [Tornar](../people/npc-tornar)
 - [The Barrow Mounds](../places/location-barrow-mounds)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
 - [The Steel Bone Brotherhood](../active-leads/thread-steel-bone-brotherhood)
+- [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound)

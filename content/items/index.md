@@ -8,19 +8,25 @@ tags: [campaign, items]
 ## In Play
 
 - **[Archie ticket](item-archie-ticket)** — A death-return ticket tied to Archie, used to restore a dead companion through a still only partly understood ritual or contract.
-- **[Belt of the Thornswild / Gold-and-Unicorn-Horn Buckle](item-hero-belt-gold-and-unicorn-horn-buckle)** — Likely target item from Vakish Baharus' belt-buckle lead, recovered from the elven warrior statue in the third Vakish mound.
-- **[Cloak of Elvenkind](item-cloak-of-elvenkind)** — Magical cloak revealed from a preserved green shroud after Sab performed a funerary prayer in the Thornswild burial chamber. Mazah identified it as a Cloak of Elvenkind.
+- **[Blue cloud potion](item-blue-cloud-potion)** — A bottle of blue liquid with cloud-like forms floating inside, found in a workbench drawer in Tornar's rooms. Orlin pocketed it. Its effect is unknown.
+- **[Claw-and-bone talisman](item-claw-and-bone-talisman)** — A leather cord strung with old claws, bone beads, and one large pearly claw found in a fine case in Tornar's rooms. Its properties and holder were not established in play.
+- **[Finger-bone wand](item-finger-bone-wand)** — A wand shaped like an oversized finger bone, held by Tornar during the attempted animation of Mara and other prepared dead.
 - **[Owl of Magnus](item-crystal-owl)** — The Owl of Magnus is a magical crystal owl recovered from one of Vakish's barrow leads and identified by Mazzah. Its bound user can see through its eyes at a distance, making it one of the party's strongest scouting tools.
 - **[Staff of the Cobra](item-cobra-headed-staff)** — A fine dark-wood +1 staff topped by a carved cobra head, recovered from a lectern between two lizardfolk statues in the broken-sigil mound.
+- **[Unidentified spell-scroll tube](item-session-15-spell-scroll-tube)** — A metallic tube consistent with the party's earlier spell-scroll containers, recovered from a drawer in Tornar's rooms. The scroll inside was not opened or identified during the session.
+- **[Wooden tongue carving](item-wooden-tongue-carving)** — A wooden carving of a large tongue found inside a fine case in Tornar's rooms. The party recovered it, but no property or use was established in play.
+- **[Writ of the Hollow Gate](item-writ-of-hollow-gate)** — A damaged parchment in a wax-sealed leather tube recovered from Tornar's rooms. It names the Hollow Gate of Quasqueton and appears to grant a lawful bearer custody of the site's road-house, outer wall, spring, cave-mouth, stable court, and…
 
 ## Reference
 
 - **[Adamantine bar](item-adamantine-bar)** — Valuable metal bar recovered near the portal room.
 - **[Alarm spell scroll](item-alarm-spell-scroll)** — Alarm spell scroll
 - **[Bag of holding](item-bag-of-holding)** — Magic bag identified as having five slots.
+- **[Belt of the Thornswild / Gold-and-Unicorn-Horn Buckle](item-hero-belt-gold-and-unicorn-horn-buckle)** — Likely target item from Vakish Baharus' belt-buckle lead, recovered from the elven warrior statue in the third Vakish mound.
 - **[Blackbark Gin](item-blackbark-gin)** — The Blackbark gin: A type of spirit consumed during the feast.
 - **[Charm Person Spell Scroll](item-charm-person-spell-scroll)** — Spell scroll recovered from a flooded sarcophagus in Session 10 and identified in Session 11 as *Charm Person*, a witch spell.
 - **[Chunk of silver](item-chunk-of-silver)** — Piece of silver recovered in the dungeon and later discussed as potentially useful crafting material.
+- **[Cloak of Elvenkind](item-cloak-of-elvenkind)** — Magical cloak revealed from a preserved green shroud after Sab performed a funerary prayer in the Thornswild burial chamber. Mazah identified it as a Cloak of Elvenkind.
 - **[Cloak of the Traveler](item-cloak-of-the-traveler)** — Earlier protective cloak from Vakish Baharus that guarded against fire and cold. The party returned it in Session 12 when choosing to keep the Belt of the Thornswild.
 - **[Fine dagger from the northern barrow](item-fine-dagger-from-the-northern-barrow)** — A pristine-looking dagger found by Tiramel and given to the party in thanks after the rescue.
 - **[Four ornate amber vials](item-four-ornate-amber-vials)** — Four ornate amber vials

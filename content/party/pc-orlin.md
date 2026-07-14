@@ -16,7 +16,7 @@ Orlin is a shapechanging adventurer whose bear-form strength, healing, bow work,
 
 ## Current Situation
 
-Orlin is active in Helix. In Session 14 he approached Mouse and Dennis directly and learned that Mouse had been paid to carry food and drink to someone living in a mound.
+Orlin is active after the marked-mound confrontation. He killed a risen undead with his bow, transformed into a bear, killed Tornar, and pocketed an unidentified blue cloud-like potion.
 
 ## Defining History
 
@@ -25,10 +25,12 @@ Orlin is active in Helix. In Session 14 he approached Mouse and Dennis directly 
 - Used literal bear hands to force open swollen doors in the flooded ceremonial tomb.
 - Helped read the Thornswild chamber's faded writing and fought the animated lizardfolk statues.
 - Drew out Mouse's delivery story while the party investigated the marked mound.
+- Killed Tornar in bear form after the ritualist's animation attempt failed.
 
 ## Relationships
 
 - **Mouse and Dennis:** Orlin's direct conversation exposed the delivery schedule and the recipient's foul-smelling mound.
+- **Tornar:** killed the ritualist after Tornar animated the dead.
 - **The party:** a core companion from the early dungeon through the current Helix investigation.
 
 ## Uncertainty
@@ -44,3 +46,5 @@ Orlin's class has been described indirectly through abilities and table talk. Sh
 - [Dern](../party/pc-dern)
 - [Mouse](../people/npc-mouse)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
+- [Tornar](../people/npc-tornar)
+- [Blue cloud potion](../items/item-blue-cloud-potion)

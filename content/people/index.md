@@ -10,11 +10,13 @@ tags: [campaign, people]
 - **[Arch / Archie](npc-arch-archie)** — Arch is the red devil-like figure associated with the party's strange tickets, deaths, and returns. Whether “Archie” names the figure, the tickets, or a broader system remains unresolved in the players' understanding.
 - **[Bolo](npc-bolo)** — Bolo is the proprietor and barkeep of the Brazen Strumpet, and one of the party's most dependable sources of practical Helix gossip. He notices who is drinking, who owes money, and who has suddenly begun spending above their means.
 - **[Gant](npc-gant)** — Gant is a practical and trustworthy worker at the Fair Church. He helped receive Oogie's body, directed the party to the cemetery compost pile for the fungal adventurer's restoration, and named Ravos as the church's stronger healer.
+- **[Mara](npc-mara)** — Mara was Mort's dead wife and the corpse missing from the Fair Church. Mort brought her to Tornar in the hope that the ritualist could restore her.
 - **[Mazzah](npc-mazzah)** — Mazzah is Helix's eccentric wizard and the party's most reliable magical consultant. He is cooperative when approached on his terms, which are advertised by the many increasingly emphatic “do not disturb” signs around his tower.
 - **[Mort](npc-mort)** — Mort is an abrasive half-orc worker or novice formerly attached to the Fair Church. During Oogie's restoration, he dumped foul kitchen refuse onto the compost-ground scene and immediately distinguished himself from the more helpful Gant…
 - **[Mouse](npc-mouse)** — Mouse is a skinny Helix courier in greasy leathers and a low skullcap. He appears deaf or nearly deaf and communicates primarily through signs, often with his companion Dennis interpreting.
+- **[Nara](npc-nara)** — Nara was an undead household maid who continued sweeping and maintaining the entrance hall of the serpent-and-skull marked mound. Her apron carried her name, and she wore a ring of iron keys.
 - **[Steel Bone cultist](npc-steel-bone-cultist)** — Lowest visible field operatives of the Steel Bone Brotherhood, appearing as red-robed, steel-bone-masked cultists who shadowed the party around the Barrow Mounds and the Helix retreat route.
-- **[Vakish Baharus](npc-vakish-baharus)** — Vakish Baharus owns the Rose Quartz, where he appraises and buys jewelry, curios, and saleable grave goods. He is profit-minded but has repeatedly given the party useful information rather than merely taking their loot.
+- **[Tornar](npc-tornar)** — Tornar was a gaunt black-robed ritualist or wizard working in the western rooms of the serpent-and-skull marked mound. He held a wand shaped like an oversized finger bone and promised Mort that he could bring Mort's wife Mara back.
 
 ## Reference
 
@@ -34,6 +36,7 @@ tags: [campaign, people]
 - **[Tacey](npc-tacey)** — Brazen Strumpet staff member seen cleaning up when the party returns late.
 - **[Tiramel](npc-tiramel)** — Red-haired elven spellcaster from the Iron Chain fallout, rescued from the northern barrow and left as the most sympathetic surviving witness to Nabu's betrayal and Ikram's death.
 - **[Unnamed bovine deity figure](npc-unnamed-bovine-deity-figure)** — Sacred figure or shrine presence in the dungeon that received offerings.
+- **[Vakish Baharus](npc-vakish-baharus)** — Vakish Baharus owns the Rose Quartz, where he appraises and buys jewelry, curios, and saleable grave goods. He is profit-minded but has repeatedly given the party useful information rather than merely taking their loot.
 - **[Werner](npc-werner)** — Werner: to be questioned at first light.
 
 ## Historical

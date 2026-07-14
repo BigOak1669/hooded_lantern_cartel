@@ -11,12 +11,11 @@ tags: [campaign, places]
 - **[Castle Zentolin](location-castle-zentolin)** — Legendary castle seen in Oogie's fading tablet-map vision and later named by Vakish. It sits on a crystal-clear lake beyond/east of the Barrow Mounds and has been cut off from contact by the fog.
 - **[Helix](location-helix)** — Helix is the party's present home base: a small settlement near the Barrow Mounds, enlarged and unsettled by the return of adventurers as the regional fog begins to lift. It is where expeditions are planned, hirelings found, wounds…
 - **[Mazzah's Tower](location-mazahs-tower)** — Mazzah's tower is the Helix wizard's home, workshop, and the party's principal stop for magical identification. It is larger and more comfortable inside than its exterior suggests, and repeated “do not disturb” signs are backed by a…
-- **[Serpent-and-Skull Marked Mound](location-serpent-skull-marked-mound)** — A smaller, actively occupied mound whose door bears a freshly painted black serpent curled around a skull. Bent grass, a worn approach, incense or candle warmth, and regular food deliveries all distinguish it from an abandoned tomb.
+- **[Quasqueton / Hollow Gate](location-quasqueton)** — Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is an unvisited place whose present location and condition are unknown.
+- **[Serpent-and-Skull Marked Mound](location-serpent-skull-marked-mound)** — A smaller, actively occupied mound whose door bears a freshly painted black serpent curled around a skull. Bent grass, a worn approach, incense or candle warmth, and regular food deliveries distinguish it from an abandoned tomb. The party…
 - **[The Barrow Mounds](location-barrow-mounds)** — The Barrow Mounds are a fog-bound field of ancient burial sites outside Helix. They are not one dungeon but a landscape of sealed tombs, looted chambers, active hideouts, and deeper structures whose dangers and histories often overlap.
 - **[The Brazen Strumpet](location-brazen-strumpet)** — The Brazen Strumpet is Helix's busiest inn and tavern and the party's usual surface base. Bolo runs the room; Tacey works there; adventurers, hirelings, merchants, and rumors all pass through.
 - **[The Fair Church](location-fair-church)** — The Fair Church is a humble Helix refuge for the poor, sick, injured, and spiritually adrift. Its practical aid matters more to the party than its still-unclear doctrine.
-- **[The Rose Quartz](location-rose-quartz)** — The Rose Quartz is Vakish Baharus's jewelry and curio shop in Helix. It is the party's best market for fancy grave goods and an important source of regional knowledge.
-- **[Third Vakish Mound](location-third-vakish-mound)** — The third of Vakish Baharus' three marked belt-buckle mounds in the Barrow Mounds.
 - **[Thornswild](location-thornswild)** — A once-nearby elven forest or tribal region north and east of Helix and the Barrow Mounds, now cut off by the fog.
 
 ## Reference
@@ -46,6 +45,8 @@ tags: [campaign, places]
 - **[Tablet chamber](location-tablet-chamber)** — Chamber in the flooded ceremonial barrow containing a pedestal with an ornate urn/amphora and a chaotic tablet. Reading the tablet caused it to turn to ash and briefly reveal a map of the Barrow Mounds and a castle beyond the explored…
 - **[Temple District / temple settlement](location-temple-district-temple-settlement)** — Moonlit settlement reached through the portal, controlled or framed by temple authority.
 - **[The old watchter](location-the-old-watchter)** — Acceptance/local-whisper holdout note for an off-mainline site said to have yielded the iron key, excluded from canonical migration unless stronger Session 02-07 continuity appears.
+- **[The Rose Quartz](location-rose-quartz)** — The Rose Quartz is Vakish Baharus's jewelry and curio shop in Helix. It is the party's best market for fancy grave goods and an important source of regional knowledge.
+- **[Third Vakish Mound](location-third-vakish-mound)** — The third of Vakish Baharus' three marked belt-buckle mounds in the Barrow Mounds.
 - **[Thornswild burial chamber](location-thornswild-burial-chamber)** — Quiet tomb chamber with a stone slab/catafalque, green burial shroud, and faded wall scenes of a hunter, lizardfolk raiders, and a wounded elven champion. The party recovered the word Thornswild from the writing here.
 - **[Water-filled barrow tomb](location-water-filled-barrow-tomb)** — Barrow Mounds tomb with cold standing water, rusty portcullises, water zombies, flooded sarcophagi, and the scroll tube later identified as Charm Person.
 - **[World Overview](location-world-overview)** — High-level campaign region linking the older Ore and Furnace arc to the current Helix-and-Barrow-Mounds expedition loop.

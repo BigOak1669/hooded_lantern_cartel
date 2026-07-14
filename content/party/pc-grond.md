@@ -16,7 +16,7 @@ Grond is a kobold pit fighter and the party's most direct front-line bruiser. He
 
 ## Current Situation
 
-Grond is active in Helix and wears the [[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]], which grants him +4 Strength while worn. He remains closely associated with Werner's recovered sledgehammer.
+Grond is active after the marked-mound confrontation and wears the [[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]], which grants him +4 Strength while worn. He remains closely associated with Werner's recovered sledgehammer. In Session 15 he received Holy Weapon, struck a bound rising corpse, and stayed with Mort after Mara disappeared.
 
 ## Defining History
 
@@ -26,6 +26,8 @@ Grond is active in Helix and wears the [[item-hero-belt-gold-and-unicorn-horn-bu
 - Won goodwill in Helix during the great Brazen Strumpet feast, including a public thank-you from Bolo and an enthusiastic audience of local children.
 - Removed the hero belt from the Thornswild battle tableau, survived the resulting fight, and later kept it with Vakish's agreement.
 - Helped Oogie reconstruct the fading tablet map before it vanished.
+- Approached the marked mound's door, received Sab's Holy Weapon blessing, and struck one of Tornar's rising bodies.
+- Offered physical comfort to Mort after Turn Undead ended the animation.
 
 ## Notable Possessions
 
@@ -52,3 +54,6 @@ The sledgehammer is sometimes called a warhammer in noisy transcripts. The campa
 - [Bolo](../people/npc-bolo)
 - [Vakish Baharus](../people/npc-vakish-baharus)
 - [Belt of the Thornswild / Gold-and-Unicorn-Horn Buckle](../items/item-hero-belt-gold-and-unicorn-horn-buckle)
+- [Mort](../people/npc-mort)
+- [Tornar](../people/npc-tornar)
+- [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)

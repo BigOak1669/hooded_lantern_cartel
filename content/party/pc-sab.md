@@ -16,7 +16,7 @@ Sab is the party's halfling priest: an Old Gods devotee, healer, anti-undead spe
 
 ## Current Situation
 
-Sab is active in Helix. She has a trusted line to [[npc-gant|Gant]] at the [[location-fair-church|Fair Church]] and is helping investigate Mort's disappearance and the missing corpse. Mazzah recently gave her a small spellbook containing Blind/Deafen.
+Sab is active after the marked-mound confrontation. She has a trusted line to [[npc-gant|Gant]] at the [[location-fair-church|Fair Church]]. In Session 15 she used Turn Undead to end Tornar's animation and destroy Nara, healed Orlin, and opened the Hollow Gate writ.
 
 ## Defining History
 
@@ -26,6 +26,9 @@ Sab is active in Helix. She has a trusted line to [[npc-gant|Gant]] at the [[loc
 - Earned Gant's confidence when he showed her a Steel Bone half-mask found beneath Mort's bed.
 - Honored the disturbed Thornswild dead and recovered the preserved shroud later identified as a [[item-cloak-of-elvenkind|Cloak of Elvenkind]].
 - Reported the party's surveillance of the serpent-and-skull mound to Gant in [[2026_0628 Session 14|Session 14]].
+- Cast Holy Weapon on Grond's hammer before the party entered the mound.
+- Used Turn Undead during Tornar's rite, ending the undead activity before Mara returned as a living person.
+- Recovered and read the damaged Writ of the Hollow Gate.
 
 ## Notable Possessions
 
@@ -54,3 +57,6 @@ The exact name of Sab's Old Gods tradition varies in table talk. Her devotion is
 - [Dern](../party/pc-dern)
 - [Gant](../people/npc-gant)
 - [The Fair Church](../places/location-fair-church)
+- [Tornar](../people/npc-tornar)
+- [Nara](../people/npc-nara)
+- [Writ of the Hollow Gate](../items/item-writ-of-hollow-gate)

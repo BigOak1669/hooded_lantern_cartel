@@ -24,6 +24,7 @@ tags: [campaign, places]
 - Oogie's chaotic tablet-map briefly showed a castle beyond the mounds before fading.
 - Vakish identified that castle as Castle Zentolin.
 - The castle sits on a crystal-clear lake and has been cut off because the fog blocks access.
+- Session 15 produced a separate writ naming the Hollow Gate of Quasqueton. The party has not established whether that site is Castle Zentolin, Castle Xyntillan, or another place.
 
 ## Hierarchy / Attached Sites
 
@@ -40,4 +41,10 @@ tags: [campaign, places]
 
 ## Notes / Uncertainty
 
-- Castle Zentolin / Castle Xyntillan naming needs table-canon normalization.
+- Castle Zentolin / Castle Xyntillan naming needs table-canon normalization. Quasqueton is now an additional unresolved place name rather than a silent replacement.
+
+## Garden Connections
+
+- [Quasqueton / Hollow Gate](../places/location-quasqueton)
+- [Writ of the Hollow Gate](../items/item-writ-of-hollow-gate)
+- [The Hollow Gate Writ](../active-leads/thread-hollow-gate-writ)

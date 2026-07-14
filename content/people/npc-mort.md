@@ -10,19 +10,23 @@ Mort is an abrasive half-orc worker or novice formerly attached to the [[locatio
 
 ## Current Status
 
-Mort has been missing for two days. A corpse vanished from the church at the same time, and Gant believes Mort took it.
+Mort was missing from the Fair Church for two days and took a corpse with him. In Session 15 the party found him inside the [[location-serpent-skull-marked-mound|serpent-and-skull marked mound]], where the corpse was identified as his dead wife, Mara.
 
-The party strongly suspects that Mort is the large half-orc-like occupant of the [[location-serpent-skull-marked-mound|serpent-and-skull marked mound]]. Gradrick's owl saw only a gray-green hand and shoulder receiving Mouse's delivery, so the identification remains an inference rather than a confirmed sighting.
+Tornar had promised Mort that he could bring Mara back. Mort was drunk from the party's fortified ale, desperate rather than openly cultic, and remained alive after the attempted animation failed. He was still with the party at the end of the session, grieving and awaiting a decision about his future.
+
+The party confirmed that Mort was the large occupant of the mound. He was found beside Mara's wrapped body while Tornar performed an animation rite. Sab's Turn Undead ended the undead activity, and Orlin killed Tornar.
 
 ## Steel Bone Suspicion
 
-Gant previously found a Brotherhood-style half-mask beneath Mort's bed. That evidence is serious, but it does not yet establish Mort's role, motive, or exact connection to the marked mound's older serpent-and-death symbolism.
+Gant previously found a Brotherhood-style half-mask beneath Mort's bed. That evidence remains serious, but Session 15 did not establish that Mort belonged to the Steel Bone Brotherhood or that the Brotherhood controlled Tornar's older serpent-and-death symbolism. Mort's motive in the mound was grief and the hope of restoring Mara, though his choices remain consequential.
 
 ## Garden Connections
 
 - [Parent: The Fair Church](../places/location-fair-church)
 - [Gant](../people/npc-gant)
 - [Mouse](../people/npc-mouse)
+- [Mara](../people/npc-mara)
+- [Tornar](../people/npc-tornar)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
 - [Steel Bone Brotherhood](../factions/faction-steel-bone-brotherhood)
 - [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound)

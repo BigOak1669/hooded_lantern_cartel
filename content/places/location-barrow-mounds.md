@@ -21,7 +21,7 @@ The Barrow Mounds are a fog-bound field of ancient burial sites outside Helix. T
 
 ## Current Activity
 
-- [[location-serpent-skull-marked-mound|Serpent-and-skull marked mound]] — immediate target; supplied twice daily by Mouse and occupied by a large figure who may be Mort.
+- [[location-serpent-skull-marked-mound|Serpent-and-skull marked mound]] — entered and partially explored in Session 15; Mort was confirmed as the occupant, Tornar was killed, and the mound remains unfinished.
 - [[location-broken-sigil-mound|Broken-Sigil Mound]] — partially explored; the party removed the Staff of the Cobra and left snakes, a sarcophagus, and another wing behind.
 - [[location-third-vakish-mound|Third Vakish Mound]] — the main belt and Thornswild site; largely explored, with deep water deliberately left alone.
 
@@ -38,7 +38,7 @@ The Barrow Mounds are a fog-bound field of ancient burial sites outside Helix. T
 
 ## Uncertainty
 
-The party has seen only part of the mound field. Oogie's fading tablet map expanded the apparent scale of the region but was copied imperfectly.
+The party has seen only part of the mound field. Oogie's fading tablet map expanded the apparent scale of the region but was copied imperfectly. The marked mound's altar, remaining rooms, and relationship to the Brotherhood remain unresolved.
 
 ## Garden Connections
 

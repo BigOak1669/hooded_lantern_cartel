@@ -33,3 +33,4 @@ This timeline tracks the campaign's major changes, not every room, purchase, or 
 
 - **2026-05-31 — [[2026_0531 Session 13|Session 13]]:** The party removed the cobra-headed staff from the Broken-Sigil Mound and retreated from its snakes.
 - **2026-06-28 — [[2026_0628 Session 14|Session 14]]:** Owl surveillance exposed Mouse's deliveries to the marked mound; Gant reported Mort and a corpse missing, and the party prepared a fortified delivery before returning.
+- **2026-07-12 — [[2026_0712 Session 15|Session 15]]:** The party entered the marked mound, confirmed Mort and Mara's identities, ended Tornar's attempted animation, killed Tornar, and recovered the Hollow Gate writ naming Quasqueton.
