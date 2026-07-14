@@ -16,7 +16,7 @@ Gradrick is the party's witch, a back-line spellcaster whose Eye Bite and practi
 
 ## Current Situation
 
-Gradrick is active after the marked-mound confrontation. His crystal owl's recovery was not resolved in the Session 15 transcript. He now holds Tornar's unidentified finger-bone wand and the ritualist's journals and scraps. Mazzah recently gave him a small spellbook containing Hypnotize.
+Gradrick is active after the marked-mound confrontation. His crystal owl remains deployed at the mound approach; the party had not yet left to retrieve it by the end of Session 15. He now holds Tornar's unidentified finger-bone wand and the ritualist's journals and scraps. Mazzah recently gave him a small spellbook containing Hypnotize.
 
 ## Defining History
 
@@ -29,7 +29,7 @@ Gradrick is active after the marked-mound confrontation. His crystal owl's recov
 
 ## Notable Possessions
 
-- [[item-crystal-owl|Owl of Magnus]], currently deployed for surveillance
+- [[item-crystal-owl|Owl of Magnus]], deployed at the marked mound approach and not yet recovered
 - Charm Person spell scroll
 - Hypnotize spellbook
 

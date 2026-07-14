@@ -15,7 +15,7 @@ The Hooded Lantern Cartel has used Helix as its base while exploring the Barrow 
 
 The party entered the serpent-and-skull marked mound in Session 15. Mort was confirmed as the occupant, and the missing Fair Church corpse was identified as his dead wife, Mara. Tornar attempted to animate her and other prepared dead, but Sab's Turn Undead ended the undead activity and Orlin killed Tornar. Mort survived in grief and remained with the party at the end of the session.
 
-The mound is only partially explored. Its north altar appears movable, another room remains unsearched, and the party holds Tornar's finger-bone wand, journals, ritual scraps, and several unidentified objects. Gradrick's owl recovery was not resolved in the transcript.
+The mound is only partially explored. Its north altar appears movable, another room remains unsearched, and the party holds Tornar's finger-bone wand, journals, ritual scraps, and several unidentified objects. Gradrick's Owl of Magnus remains at the mound approach because the party had not yet left to recover it.
 
 ## Threads in Motion
 
