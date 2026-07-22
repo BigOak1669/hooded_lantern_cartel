@@ -8,6 +8,12 @@ tags: [campaign, places]
 
 A smaller, actively occupied mound whose door bears a freshly painted black serpent curled around a skull. Bent grass, a worn approach, incense or candle warmth, and regular food deliveries distinguish it from an abandoned tomb. The party entered and partially cleared it in Session 15, but did not finish exploring.
 
+## Session 15 Visual References
+
+![The serpent-and-skull marked mound door](../assets/session-15-mound-door-serpent-skull.png)
+
+![The warm altar in the mound's entrance hall](../assets/session-15-altar-of-set.png)
+
 ## What the Party Has Seen
 
 - A large, broad-shouldered figure entered the mound alone at night.

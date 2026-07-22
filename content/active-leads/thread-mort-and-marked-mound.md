@@ -10,6 +10,8 @@ tags: [campaign, active-leads]
 
 The party confirmed that Mort was the occupant of the serpent-and-skull marked mound. He had taken the missing Fair Church corpse, which was Mara, his dead wife, to Tornar in the hope of bringing her back.
 
+![Mort, Mara, and Tornar during the attempted rite](../assets/session-15-mort-mara-tornar-rite.png)
+
 The party entered after Mouse's fortified delivery, met Nara, examined the mound's altar, and confronted Mort and Tornar during the attempted animation. Sab's Turn Undead ended the undead activity, Orlin killed Tornar, and Mort survived in grief. The party recovered Tornar's finger-bone wand, journals, ritual scraps, valuables, and a damaged writ naming Quasqueton.
 
 ## What Is Established
