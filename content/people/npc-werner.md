@@ -35,7 +35,7 @@ tags: [campaign, people]
 
 - 2026-01-25 [[2026_0125 Session 04]] — Drunk in Helix who found the chalice and now wants his lucky sledgehammer back instead of silver payment.
 - 2026-02-08 [[2026_0208 Session 05]] — Current or recent holder of the chalice and owner of the fine sledgehammer; unstable and violently dangerous.
-- 2026-03-07 2026_0307 Session 07 — Werner: to be questioned at first light.
+- 2026-03-08 [[2026_0308 Session 07]] — Werner: to be questioned at first light.
 - 2026-01-11 [[2026_0111 Session 03]] — Large drunk adventurer/tomb-robber who claims to have found the chalice and wants his lucky sledgehammer recovered.
 
 ## Notes / Uncertainty

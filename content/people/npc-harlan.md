@@ -21,7 +21,7 @@ tags: [campaign, people]
 ## Relationships
 
 - Connected to [[npc-tacey|Tacey]]
-- Owner of the surviving dog (now under Tiramel's care; name unknown, check with [[npc-tacey|Tacey]])
+- Owner of the surviving dog (now under [[npc-tiramel|Tiramel]]'s care; name unknown, check with [[npc-tacey|Tacey]])
 
 ## Session History
 

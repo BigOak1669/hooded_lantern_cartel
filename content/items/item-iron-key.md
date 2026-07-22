@@ -20,6 +20,6 @@ tags: [campaign, items]
 
 ## Session History
 
-- 2026-03-07 2026_0307 Session 07 — Iron Key: obtained from the old watchter.
+- 2026-03-08 [[2026_0308 Session 07]] — Iron Key: obtained from the old watchter.
 
 ## Notes / Uncertainty
