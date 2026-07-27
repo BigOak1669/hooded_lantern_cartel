@@ -12,7 +12,9 @@ The party confirmed that Mort was the occupant of the serpent-and-skull marked m
 
 ![Mort, Mara, and Tornar during the attempted rite](../assets/session-15-mort-mara-tornar-rite.png)
 
-The party entered after Mouse's fortified delivery, met Nara, examined the mound's altar, and confronted Mort and Tornar during the attempted animation. Sab's Turn Undead ended the undead activity, Orlin killed Tornar, and Mort survived in grief. The party recovered Tornar's finger-bone wand, journals, ritual scraps, valuables, and a damaged writ naming Quasqueton.
+The party entered after Mouse's fortified delivery, met Nara, examined the mound's altar, and confronted Mort and Tornar during the attempted animation. Sab's Turn Undead ended the undead activity, Orlin killed Tornar, and Mort survived in grief.
+
+In Session 16, Sab honored Mara by name and returned her wedding cord to Mort. Grond helped Mort into a bed, where he fell asleep. The party then cleared the eastern crypt, recovered evidence from Eldran Vey, left the north altar unopened, and returned to Helix.
 
 ## What Is Established
 
@@ -22,14 +24,16 @@ The party entered after Mouse's fortified delivery, met Nara, examined the mound
 - The rite produced undead movement rather than a restored living person.
 - Nara was an undead maid in the mound and was destroyed by Turn Undead.
 - Tornar died during the confrontation.
-- Mort was still alive and with the party at the end of Session 15.
+- Mort was alive and asleep in the mound when last explicitly seen in Session 16.
+- The eastern crypt is cleared of its ravenous undead and clockwork serpent guardians.
+- The party recovered the Owl of Magnus when it left.
 
 ## What Remains Open
 
-- Whether and how Mort returns to the Fair Church.
+- Whether Mort accompanied the party to Helix or remained asleep in the mound, and whether he returns to the Fair Church.
 - What Mort knew about Tornar's notes and any outside contacts.
 - The nature of the serpent-and-death tradition and its relationship, if any, to the Steel Bone Brotherhood.
-- The purpose of Tornar's finger-bone wand and the remaining rooms and altar in the mound.
+- The purpose of Tornar's finger-bone wand and what the unopened altar leads to.
 
 ## Garden Connections
 
@@ -44,3 +48,4 @@ The party entered after Mouse's fortified delivery, met Nara, examined the mound
 - [Steel Bone Brotherhood](../factions/faction-steel-bone-brotherhood)
 - [Finger-bone wand](../items/item-finger-bone-wand)
 - [Writ of the Hollow Gate](../items/item-writ-of-hollow-gate)
+- [Eldran Vey](../people/npc-eldran-vey)

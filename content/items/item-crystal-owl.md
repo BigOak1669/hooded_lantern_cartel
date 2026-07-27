@@ -10,7 +10,7 @@ The Owl of Magnus is a magical crystal owl recovered from one of Vakish's barrow
 
 ## Current Use
 
-Gradrick placed the owl opposite the serpent-and-skull marked mound. Through it, he identified Mouse's delivery routine, the concealed knock, and the large gray-green recipient inside. The party intends to keep watching the next delivery before recovering the owl.
+Gradrick placed the owl opposite the serpent-and-skull marked mound. Through it, he identified Mouse's delivery routine, the concealed knock, and the large gray-green recipient inside. The party recovered the owl when it left the mound in Session 16, and it is again in Gradrick's possession.
 
 “Texas” has been used jokingly as a possible name; the Owl of Magnus remains the established item name.
 

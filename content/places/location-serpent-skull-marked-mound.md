@@ -1,12 +1,12 @@
 ---
 title: "Serpent-and-Skull Marked Mound"
-description: "A smaller, actively occupied mound whose door bears a freshly painted black serpent curled around a skull. Bent grass, a worn approach, incense or candle warmth, and regular food deliveries distinguish it from an abandoned tomb. The party…"
+description: "A smaller mound whose door bore a freshly painted black serpent curled around a skull. The party entered it in Session 15 and cleared its remaining eastern crypt in Session 16. The north altar remains unopened."
 tags: [campaign, places]
 ---
 
 # Serpent-and-Skull Marked Mound
 
-A smaller, actively occupied mound whose door bears a freshly painted black serpent curled around a skull. Bent grass, a worn approach, incense or candle warmth, and regular food deliveries distinguish it from an abandoned tomb. The party entered and partially cleared it in Session 15, but did not finish exploring.
+A smaller mound whose door bore a freshly painted black serpent curled around a skull. The party entered it in Session 15 and cleared its remaining eastern crypt in Session 16. The north altar remains unopened.
 
 ## Session 15 Visual References
 
@@ -25,14 +25,16 @@ A smaller, actively occupied mound whose door bears a freshly painted black serp
 - The entrance hall contained an undead maid named Nara, who swept, carried iron keys, and retained household routines.
 - A warm altar in the north of the hall has an iron serpent threaded through a white stone skull. Scratches around its base suggest that it moves, but the party did not open it.
 - The western workroom held Mort, Mara's wrapped body, Tornar, an animation circle, prepared dead, and Tornar's ritual tools.
+- The eastern crypt held four ravenous zombies and a grave-goods display guarded by one large clockwork cobra and two smaller adders.
+- One road-coated zombie was Eldran Vey, steward of the Hollow Gate of Quasqueton. Gradrick recovered his coat and papers.
 
-## Session 15 Outcome
+## Outcome
 
-The fortified delivery was completed. The party entered after waiting for the ale to take effect, confirmed that Mort was the occupant, stopped Tornar's attempted animation, killed Tornar, and left Mort alive and grieving. The party recovered a finger-bone wand, journals, valuables, unidentified objects, and the Hollow Gate writ.
+The fortified delivery was completed. The party entered after waiting for the ale to take effect, confirmed that Mort was the occupant, stopped Tornar's attempted animation, killed Tornar, and recovered a finger-bone wand, journals, valuables, unidentified objects, and the Hollow Gate writ. In Session 16, Sab honored Mara's remains, Mort was put to bed, and the party destroyed the eastern room's undead and clockwork guardians.
 
 ## Current State and Uncertainty
 
-The central confrontation is over, but the mound is not fully explored. The altar mechanism, remaining rooms, Tornar's notes, and several recovered objects remain unresolved. The symbol may connect the mound to the Steel Bone Brotherhood, although no direct Brotherhood presence or ownership of Tornar's ritual was confirmed.
+The known western and eastern rooms are cleared. The altar mechanism and its possible descent remain unresolved. Mort was last explicitly asleep in the mound, although the party later returned to Helix without stating whether he accompanied them. The symbol may connect the mound to the Steel Bone Brotherhood, although no direct Brotherhood presence or ownership of Tornar's ritual was confirmed.
 
 ## Garden Connections
 
@@ -41,9 +43,12 @@ The central confrontation is over, but the mound is not fully explored. The alta
 - [Mara](../people/npc-mara)
 - [Tornar](../people/npc-tornar)
 - [Nara](../people/npc-nara)
+- [Eldran Vey](../people/npc-eldran-vey)
 - [Mouse](../people/npc-mouse)
 - [Gant](../people/npc-gant)
 - [Steel Bone Brotherhood](../factions/faction-steel-bone-brotherhood)
+- [Quasqueton / Hollow Gate](../places/location-quasqueton)
 - [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound)
+- [The Hollow Gate Writ](../active-leads/thread-hollow-gate-writ)
 - [Finger-bone wand](../items/item-finger-bone-wand)
 - [Writ of the Hollow Gate](../items/item-writ-of-hollow-gate)

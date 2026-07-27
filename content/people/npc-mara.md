@@ -10,7 +10,9 @@ Mara was Mort's dead wife and the corpse missing from the Fair Church. Mort brou
 
 ## Current Status
 
-Tornar animated Mara's body during the Session 15 rite. Sab's Turn Undead ended the undead activity before Mara returned as a living or speaking person. Her remains then disappeared or settled with the other neutralized bodies; the exact physical aftermath is not described more precisely in the transcript.
+Tornar animated Mara's body during the Session 15 rite. Sab's Turn Undead ended the undead activity before Mara returned as a living or speaking person.
+
+In Session 16, Sab gathered Mara's remaining grave cloth and ash out of sight, spoke a funeral observance, and found a silver wedding cord among the remains. Sab placed the cord in Mort's hand before he fell asleep.
 
 ## Relationships
 

@@ -1,6 +1,6 @@
 ---
 title: "Campaign Now"
-description: "The Hooded Lantern Cartel has used Helix as its base while exploring the Barrow Mounds, recovering strange grave goods and following signs of organized activity among the tombs. The Steel Bone Brotherhood remains a persistent pressure:…"
+description: "The Hooded Lantern Cartel has used Helix as its base while exploring the Barrow Mounds, recovering strange grave goods and following signs of organized activity among the tombs. The investigation of the serpent-and-skull marked mound led…"
 tags: [campaign, campaign-now]
 nav_order: 2
 ---
@@ -9,36 +9,36 @@ nav_order: 2
 
 ## Previously On
 
-The Hooded Lantern Cartel has used Helix as its base while exploring the Barrow Mounds, recovering strange grave goods and following signs of organized activity among the tombs. The Steel Bone Brotherhood remains a persistent pressure: masked figures, undead former hirelings, cryptic notes, and a freshly marked mound have repeatedly placed the Brotherhood near the party's path without fully revealing its purpose.
+The Hooded Lantern Cartel has used Helix as its base while exploring the Barrow Mounds, recovering strange grave goods and following signs of organized activity among the tombs. The investigation of the serpent-and-skull marked mound led from Mouse's deliveries to Mort, Mara, Tornar, and finally a second documentary trail toward the Hollow Gate of Quasqueton.
 
 ## Where Things Stand
 
-The party entered the serpent-and-skull marked mound in Session 15. Mort was confirmed as the occupant, and the missing Fair Church corpse was identified as his dead wife, Mara. Tornar attempted to animate her and other prepared dead, but Sab's Turn Undead ended the undead activity and Orlin killed Tornar. Mort survived in grief and remained with the party at the end of the session.
+The party has returned to Helix after clearing the marked mound's known western and eastern rooms. Sab honored Mara's remains and returned her wedding cord to Mort. Mort was put to bed inside the mound and was last explicitly seen asleep there; the recording did not establish whether he accompanied the party back to town.
 
-The mound is only partially explored. Its north altar appears movable, another room remains unsearched, and the party holds Tornar's finger-bone wand, journals, ritual scraps, and several unidentified objects. Gradrick's Owl of Magnus remains at the mound approach because the party had not yet left to recover it.
+The eastern crypt's ravenous undead and three clockwork serpent guardians are destroyed. The party recovered valuable mechanisms and gems, plus the coat and papers of Eldran Vey, steward of the Hollow Gate of Quasqueton. The north altar remains unopened. The Owl of Magnus is back in Gradrick's possession.
 
 ## Threads in Motion
 
-- **Mort and the marked mound:** Mort's fate, his return to the Fair Church, and the meaning of Tornar's work remain unresolved.
-- **The serpent-and-death tradition:** The mound's sigil, altar, and incoherent notes suggest a deeper tradition, but the exact name, source, and relationship to the Steel Bone Brotherhood are not established.
-- **The Hollow Gate writ:** The party recovered a damaged writ naming the Hollow Gate of Quasqueton and a conditional custody claim beneath Rogahn the Fearless, Zelligar the Unknown, or a lawful heir.
-- **The Barrow Mounds:** The marked mound remains unfinished, while other explored sites still contain unresolved rooms and leads.
+- **Mort and the marked mound:** Mort's precise location after the party's departure, his return to the Fair Church, and the north altar's destination remain unresolved.
+- **The Hollow Gate writ:** The writ now has supporting evidence in Eldran Vey's nameplate and recovered papers. The party has not yet studied those papers or tested the claim.
+- **The Steel Bone Brotherhood:** The Brotherhood remains a recurring pressure, but the mound sessions still did not prove that Tornar was a member or that the Brotherhood owned his serpent-and-death practice.
+- **Choosing the next expedition:** The marked-mound altar, Quasqueton, and the separate distant-castle lead are all live options.
 
 ## Recent Discoveries
 
-- The Staff of the Cobra made the mound's painted serpent ward friendly to Oogie.
-- Nara was an undead maid who retained household routines and carried iron keys; Turn Undead destroyed her.
-- Tornar's finger-bone wand animated dead but exact properties remain unknown.
-- The party recovered a wooden tongue carving, a claw-and-bone talisman, a blue cloud-like potion, an unidentified spell-scroll tube, valuables, and the Hollow Gate writ.
-- Tornar's scraps mention a serpent, inheritance, a tablet, and a devouring ram, but the wording is too incoherent to establish a cosmology.
+- Sab's Smite destroyed two ravenous zombies, and her longsword killed a clockwork adder.
+- The eastern grave-goods display concealed one large clockwork cobra and two smaller adders carrying alchemical venom.
+- Eldran Vey's plate identifies him as steward of Quasqueton and keeper of its road, spring, and outer wall.
+- The party recovered two ruby eyes, three smaller gemstone eyes, a spring-heart, a precision spring, one venom dose, thirty-five gold pieces, and Eldran's papers.
+- The blue cloud potion, finger-bone wand, wooden tongue, claw talisman, spell-scroll tube, and detailed contents of Tornar's and Eldran's papers remain unresolved.
 
 ## Current Regions and Destinations
 
-- **Helix** remains the party's active base for lodging, rumors, magical help, religious contacts, and supplies.
-- **Barrow Mounds** remain the immediate expedition region, especially the partially explored serpent-and-skull marked mound and the unfinished Broken-Sigil Mound.
-- **Hollow Gate of Quasqueton** is a new unvisited lead from the recovered writ. Its location, legal status, and relationship to Castle Zentolin remain unknown.
+- **Helix** is again the party's active base for rest, identification, study, rumors, and supplies.
+- **Barrow Mounds** remain the immediate expedition region. The marked mound's known rooms are cleared, but its north altar remains unopened; the Broken-Sigil Mound is also unfinished.
+- **Hollow Gate of Quasqueton** is an unvisited lead now supported by the writ and Eldran Vey's identity. Its route, legal status, and current occupants remain unknown.
 - **Castle Zentolin** remains a separate wider destination from the fading tablet-map lead until play connects or distinguishes it from Quasqueton.
 
 ## Party Intent
 
-The party intends to continue from the marked mound. The immediate choices are to deal with Mort, inspect the altar and remaining rooms, identify the recovered objects and notes, and decide whether the Hollow Gate writ merits a future expedition.
+The party returned to Helix to rest, level, study documents, and identify objects. It discussed returning through the marked-mound altar, investigating Quasqueton, or pursuing the separate castle lead, but did not commit to one route.

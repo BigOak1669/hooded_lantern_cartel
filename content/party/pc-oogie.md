@@ -16,7 +16,7 @@ Oogie is a fungal seer whose trances, omens, and unusual perspective make him th
 
 ## Current Situation
 
-Oogie is active after the marked-mound confrontation and carries the [[item-cobra-headed-staff|Staff of the Cobra]]. He also keeps the party's rough copy of the fleeting map revealed by the chaotic tablet. In Session 15 he used the staff to bypass the mound's serpent ward, released rapport spores to connect the party, and searched Tornar's rooms.
+Oogie is active after returning to Helix and carries the [[item-cobra-headed-staff|Staff of the Cobra]]. He also keeps the party's rough copy of the fleeting map revealed by the chaotic tablet. In Session 16 he used Trance, Rage, and Omen to support the eastern-crypt fights and salvaged gemstone eyes, a precision spring, and a venom reservoir from a clockwork adder.
 
 ## Defining History
 
@@ -27,6 +27,8 @@ Oogie is active after the marked-mound confrontation and carries the [[item-cobr
 - Had Mazzah identify the staff in [[2026_0628 Session 14|Session 14]] and sold a chipped red gemstone for 20 gold.
 - Used the Staff of the Cobra to make the marked mound's painted serpent treat him as friendly.
 - Recovered a wooden tongue carving, a claw-and-bone talisman, journals, and valuables from Tornar's living quarters.
+- Foretold Grond's first strike against the eastern crypt's ravenous dead and restored luck to Gradrick and Orlin during the clockwork fight.
+- Recovered the most intact set of clockwork-adder components after Sab cut the construct cleanly in half.
 
 ## Notable Possessions
 

@@ -16,7 +16,7 @@ Gradrick is the party's witch, a back-line spellcaster whose Eye Bite and practi
 
 ## Current Situation
 
-Gradrick is active after the marked-mound confrontation. His crystal owl remains deployed at the mound approach; the party had not yet left to retrieve it by the end of Session 15. He now holds Tornar's unidentified finger-bone wand and the ritualist's journals and scraps. Mazzah recently gave him a small spellbook containing Hypnotize.
+Gradrick is active after returning to Helix. The party recovered his [[item-crystal-owl|Owl of Magnus]] when it left the marked mound. He holds Tornar's unidentified finger-bone wand and the ritualist's journals and scraps. In Session 16 he destroyed the main clockwork cobra with Eye Bite and recovered Eldran Vey's road coat and papers.
 
 ## Defining History
 
@@ -26,10 +26,11 @@ Gradrick is active after the marked-mound confrontation. His crystal owl remains
 - Accepted custody of the Charm Person scroll recovered from a flooded sarcophagus.
 - Used the [[item-crystal-owl|Owl of Magnus]] to watch the marked mound and witnessed Mouse's knock signal and delivery to its large occupant.
 - Helped assess Tornar's workroom, took the finger-bone wand after the rite, and retained Tornar's incoherent notes for later study.
+- Finished the main clockwork cobra with Eye Bite and took Eldran Vey's identifying coat and supporting papers.
 
 ## Notable Possessions
 
-- [[item-crystal-owl|Owl of Magnus]], deployed at the marked mound approach and not yet recovered
+- [[item-crystal-owl|Owl of Magnus]], recovered after the marked-mound expedition
 - Charm Person spell scroll
 - Hypnotize spellbook
 

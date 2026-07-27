@@ -16,7 +16,7 @@ Orlin is a shapechanging adventurer whose bear-form strength, healing, bow work,
 
 ## Current Situation
 
-Orlin is active after the marked-mound confrontation. He killed a risen undead with his bow, transformed into a bear, killed Tornar, and pocketed an unidentified blue cloud-like potion.
+Orlin is active after returning to Helix. In Session 16 he opened the eastern crypt, destroyed a ravenous zombie in bear form, interposed himself between Gradrick and the main clockwork cobra, and salvaged the construct's two ruby eyes and spring-heart. Sab restored him to full health before the party left.
 
 ## Defining History
 
@@ -26,6 +26,7 @@ Orlin is active after the marked-mound confrontation. He killed a risen undead w
 - Helped read the Thornswild chamber's faded writing and fought the animated lizardfolk statues.
 - Drew out Mouse's delivery story while the party investigated the marked mound.
 - Killed Tornar in bear form after the ritualist's animation attempt failed.
+- Tore apart a ravenous zombie, held off the main clockwork cobra, and recovered its ruby eyes and unfamiliar spring-heart.
 
 ## Relationships
 

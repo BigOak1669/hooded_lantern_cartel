@@ -7,7 +7,7 @@ tags: [campaign, home]
 <section class="campaign-hero">
 <div class="eyebrow">A Shadowdark Campaign Archive</div>
 <h2>Hooded Lantern Cartel</h2>
-<p>The Hooded Lantern Cartel has used Helix as its base while exploring the Barrow Mounds, recovering strange grave goods and following signs of organized activity among the tombs. The Steel Bone Brotherhood remains a persistent pressure:…</p>
+<p>The Hooded Lantern Cartel has used Helix as its base while exploring the Barrow Mounds, recovering strange grave goods and following signs of organized activity among the tombs. The investigation of the serpent-and-skull marked mound led…</p>
 </section>
 
 ## Campaign Now
@@ -27,11 +27,11 @@ tags: [campaign, home]
 
 ## Latest Session
 
-**Session 15 · 2026-07-12**
+**Session 16 · 2026-07-26**
 
-The party used the fortified ale delivery to enter the serpent-and-skull marked mound. Oogie's Staff of the Cobra bypassed the painted serpent ward, and the party met Nara, an undead maid, in the entrance hall. They investigated a warm,…
+The party finished searching the serpent-and-skull marked mound. Sab gave Mara's remains dignity and returned her wedding cord to Mort, whom Grond helped into a bed to sleep off the fortified ale. The party then opened the eastern crypt,…
 
-[Quick recap and detailed record →](sessions/2026_0712%20Session%2015)
+[Quick recap and detailed record →](sessions/2026_0726%20Session%2016)
 
 ## Threads in Motion
 
@@ -46,9 +46,9 @@ The party used the fortified ale delivery to enter the serpent-and-skull marked 
 
 ## Recent Sessions
 
+- **[Session 16 · 2026-07-26](sessions/2026_0726%20Session%2016)** — The party finished searching the serpent-and-skull marked mound. Sab gave Mara's remains dignity and returned her wedding cord to Mort, whom Grond helped into a bed to sleep off the fortified ale. The party then opened the eastern crypt,…
 - **[Session 15 · 2026-07-12](sessions/2026_0712%20Session%2015)** — The party used the fortified ale delivery to enter the serpent-and-skull marked mound. Oogie's Staff of the Cobra bypassed the painted serpent ward, and the party met Nara, an undead maid, in the entrance hall. They investigated a warm,…
 - **[Session 14 · 2026-06-28](sessions/2026_0628%20Session%2014)** — The party spent the session in Helix following the serpent-and-skull marked mound lead. Through the planted owl, Gradrick watched a courier called Mouse deliver a sack to a large half-orc-like figure inside the mound. Mazzah identified…
-- **[Session 13 · 2026-05-31](sessions/2026_0531%20Session%2013)** — The party hired the young Mox as a torchbearer and explored a previously opened barrow marked by a broken sigil. Removing a cobra-headed staff from its ritual chamber brought out a mass of small snakes. Oogie found that the staff…
 
 ## The Valley of Ruin
 

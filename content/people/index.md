@@ -9,6 +9,7 @@ tags: [campaign, people]
 
 - **[Arch / Archie](npc-arch-archie)** — Arch is the red devil-like figure associated with the party's strange tickets, deaths, and returns. Whether “Archie” names the figure, the tickets, or a broader system remains unresolved in the players' understanding.
 - **[Bolo](npc-bolo)** — Bolo is the proprietor and barkeep of the Brazen Strumpet, and one of the party's most dependable sources of practical Helix gossip. He notices who is drinking, who owes money, and who has suddenly begun spending above their means.
+- **[Eldran Vey](npc-eldran-vey)** — Eldran Vey was identified by a brass plate inside his road coat as steward of the Hollow Gate of Quasqueton and keeper of its road, spring, and outer wall.
 - **[Gant](npc-gant)** — Gant is a practical and trustworthy worker at the Fair Church. He helped receive Oogie's body, directed the party to the cemetery compost pile for the fungal adventurer's restoration, and named Ravos as the church's stronger healer.
 - **[Mara](npc-mara)** — Mara was Mort's dead wife and the corpse missing from the Fair Church. Mort brought her to Tornar in the hope that the ritualist could restore her.
 - **[Mazzah](npc-mazzah)** — Mazzah is Helix's eccentric wizard and the party's most reliable magical consultant. He is cooperative when approached on his terms, which are advertised by the many increasingly emphatic “do not disturb” signs around his tower.

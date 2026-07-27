@@ -20,6 +20,7 @@ nav_order: 5
 
 - [Arch / Archie](../people/npc-arch-archie)
 - [Bolo](../people/npc-bolo)
+- [Eldran Vey](../people/npc-eldran-vey)
 - [Gant](../people/npc-gant)
 - [Mara](../people/npc-mara)
 - [Mazzah](../people/npc-mazzah)
