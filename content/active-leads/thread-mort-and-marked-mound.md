@@ -14,7 +14,7 @@ The party confirmed that Mort was the occupant of the serpent-and-skull marked m
 
 The party entered after Mouse's fortified delivery, met Nara, examined the mound's altar, and confronted Mort and Tornar during the attempted animation. Sab's Turn Undead ended the undead activity, Orlin killed Tornar, and Mort survived in grief.
 
-In Session 16, Sab honored Mara by name and returned her wedding cord to Mort. Grond helped Mort into a bed, where he fell asleep. The party then cleared the eastern crypt, recovered evidence from Eldran Vey, left the north altar unopened, and returned to Helix.
+In Session 16, Sab honored Mara by name and returned her wedding cord to Mort. Grond helped Mort into a bed, where he fell asleep. The party then cleared the eastern crypt, recovered evidence from Eldran Vey, left the north altar unopened, and traveled safely toward Helix. The next session opens with the party's arrival, but whether Mort accompanied them remains unresolved.
 
 ## What Is Established
 

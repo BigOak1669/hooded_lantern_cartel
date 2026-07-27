@@ -16,7 +16,7 @@ Tornar had promised Mort that he could bring Mara back. Mort was drunk from the 
 
 The party confirmed that Mort was the large occupant of the mound. He was found beside Mara's wrapped body while Tornar performed an animation rite. Sab's Turn Undead ended the undead activity, and Orlin killed Tornar.
 
-In Session 16, Mort named Mara and repeated that he had only wanted his wife back. Sab offered a funeral observance, and Grond helped Mort into a bed. Sab placed Mara's recovered wedding cord in his hand before he fell asleep. The party later returned to Helix, but the transcript did not state whether Mort accompanied them. His last explicit location is asleep inside the mound.
+In Session 16, Mort named Mara and repeated that he had only wanted his wife back. Sab offered a funeral observance, and Grond helped Mort into a bed. Sab placed Mara's recovered wedding cord in his hand before he fell asleep. The party later traveled safely toward Helix, where the next session will open with its arrival, but whether Mort accompanied them remains unresolved. His last explicit location is asleep inside the mound.
 
 ## Steel Bone Suspicion
 

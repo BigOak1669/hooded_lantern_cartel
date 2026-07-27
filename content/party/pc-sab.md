@@ -16,7 +16,7 @@ Sab is the party's halfling priest: an Old Gods devotee, healer, anti-undead spe
 
 ## Current Situation
 
-Sab is active after returning to Helix from the marked mound. She has a trusted line to [[npc-gant|Gant]] at the [[location-fair-church|Fair Church]]. In Session 16 she honored Mara's remains, returned Mara's wedding cord to Mort, destroyed two ravenous zombies with Smite, killed a clockwork adder with her longsword, and healed Gradrick and Orlin.
+Sab is active and arriving safely in Helix from the marked mound. She has a trusted line to [[npc-gant|Gant]] at the [[location-fair-church|Fair Church]]. In Session 16 she honored Mara's remains, returned Mara's wedding cord to Mort, destroyed two ravenous zombies with Smite, killed a smaller clockwork snake with her longsword, and healed Gradrick and Orlin.
 
 ## Defining History
 
@@ -30,7 +30,7 @@ Sab is active after returning to Helix from the marked mound. She has a trusted 
 - Used Turn Undead during Tornar's rite, ending the undead activity before Mara returned as a living person.
 - Recovered and read the damaged Writ of the Hollow Gate.
 - Conducted a funeral observance for Mara and placed Mara's wedding cord in Mort's hand.
-- Used Smite to destroy two ravenous zombies and made a successful combat debut with her longsword against a clockwork adder.
+- Used Smite to destroy two ravenous zombies and made a successful combat debut with her longsword against a smaller clockwork snake.
 
 ## Notable Possessions
 

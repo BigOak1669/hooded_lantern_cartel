@@ -10,7 +10,7 @@ tags: [campaign, active-leads]
 
 The party recovered a damaged legal-looking writ from Tornar's rooms. It names the Hollow Gate of Quasqueton and grants a lawful bearer custody of its road-house, outer wall, spring, cave-mouth, stable court, and surrounding grounds, subject to Rogahn the Fearless, Zelligar the Unknown, or a lawful heir.
 
-In Session 16, the party found the body of Eldran Vey in the mound's eastern crypt. His brass plate identifies him as steward of the Hollow Gate and keeper of its road, spring, and outer wall. Gradrick recovered his coat and papers, though the papers have not yet been read aloud.
+In Session 16, the party found the body of Eldran Vey in the mound's eastern crypt. His brass plate identifies him as steward of Quasqueton and keeper of its road, spring, and outer wall, strengthening the connection to the Hollow Gate writ. Gradrick recovered his coat and papers, though the papers have not yet been read aloud.
 
 ## Why It Matters
 

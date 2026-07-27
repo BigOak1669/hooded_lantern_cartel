@@ -12,11 +12,11 @@ Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's roo
 
 The writ names a road-house, outer wall, spring, cave-mouth, stable court, and appurtenant grounds. It claims custody for a lawful bearer, subject to Rogahn the Fearless, Zelligar the Unknown, or an heir lawfully named beneath both seals. The lower half of the document is damaged.
 
-Eldran Vey's brass plate names him as steward of the Hollow Gate and keeper of its road, spring, and outer wall. Gradrick recovered supporting papers from his body, but their detailed contents were not read aloud.
+Eldran Vey's brass plate names him as steward of Quasqueton and keeper of its road, spring, and outer wall. The plate therefore strengthens the connection to the Hollow Gate writ. Gradrick recovered supporting papers from his body, but their detailed contents were not read aloud.
 
 ## Current Relevance
 
-Quasqueton is now supported by two related documents and remains a possible destination. The party discussed traveling there after returning to Helix but did not commit. They have not established that Quasqueton is the same place as Castle Zentolin, Castle Xyntillan, or any other castle already known from the fading tablet map.
+Quasqueton is now supported by two related documents and remains a possible destination. The party discussed traveling there while preparing to return to Helix but did not commit. They have not established that Quasqueton is the same place as Castle Zentolin, Castle Xyntillan, or any other castle already known from the fading tablet map.
 
 ## Uncertainty
 

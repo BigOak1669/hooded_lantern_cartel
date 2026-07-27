@@ -13,9 +13,9 @@ The Hooded Lantern Cartel has used Helix as its base while exploring the Barrow 
 
 ## Where Things Stand
 
-The party has returned to Helix after clearing the marked mound's known western and eastern rooms. Sab honored Mara's remains and returned her wedding cord to Mort. Mort was put to bed inside the mound and was last explicitly seen asleep there; the recording did not establish whether he accompanied the party back to town.
+The party cleared the marked mound's known western and eastern rooms, then traveled safely toward Helix with the Owl of Magnus, its loot, and its recovered lore. The next session opens as the party arrives in town. Sab honored Mara's remains and returned her wedding cord to Mort. Mort was put to bed inside the mound and was last explicitly seen asleep there; the recording did not establish whether he accompanied the party.
 
-The eastern crypt's ravenous undead and three clockwork serpent guardians are destroyed. The party recovered valuable mechanisms and gems, plus the coat and papers of Eldran Vey, steward of the Hollow Gate of Quasqueton. The north altar remains unopened. The Owl of Magnus is back in Gradrick's possession.
+The eastern crypt's ravenous undead and three clockwork serpent guardians are destroyed. The party recovered valuable mechanisms and gems, plus the coat and papers of Eldran Vey, steward of Quasqueton. His plate strengthens the connection to the Hollow Gate writ. The north altar remains unopened. The Owl of Magnus is back in Gradrick's possession.
 
 ## Threads in Motion
 
@@ -26,10 +26,10 @@ The eastern crypt's ravenous undead and three clockwork serpent guardians are de
 
 ## Recent Discoveries
 
-- Sab's Smite destroyed two ravenous zombies, and her longsword killed a clockwork adder.
-- The eastern grave-goods display concealed one large clockwork cobra and two smaller adders carrying alchemical venom.
+- Sab's Smite destroyed two ravenous zombies, and her longsword killed a smaller clockwork snake.
+- The eastern grave-goods display concealed one large clockwork cobra and two smaller clockwork snakes carrying venom.
 - Eldran Vey's plate identifies him as steward of Quasqueton and keeper of its road, spring, and outer wall.
-- The party recovered two ruby eyes, three smaller gemstone eyes, a spring-heart, a precision spring, one venom dose, thirty-five gold pieces, and Eldran's papers.
+- The party recovered two ruby eyes, three smaller gemstone eyes, a mechanical snake heart, a precision spring, one venom dose, thirty-five gold pieces, and Eldran's papers.
 - The blue cloud potion, finger-bone wand, wooden tongue, claw talisman, spell-scroll tube, and detailed contents of Tornar's and Eldran's papers remain unresolved.
 
 ## Current Regions and Destinations
@@ -41,4 +41,4 @@ The eastern crypt's ravenous undead and three clockwork serpent guardians are de
 
 ## Party Intent
 
-The party returned to Helix to rest, level, study documents, and identify objects. It discussed returning through the marked-mound altar, investigating Quasqueton, or pursuing the separate castle lead, but did not commit to one route.
+The party traveled safely toward Helix to rest, level, study documents, and identify objects; the next session opens with its arrival. It discussed returning through the marked-mound altar, investigating Quasqueton, or pursuing the separate castle lead, but did not commit to one route.

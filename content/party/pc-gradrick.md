@@ -16,7 +16,7 @@ Gradrick is the party's witch, a back-line spellcaster whose Eye Bite and practi
 
 ## Current Situation
 
-Gradrick is active after returning to Helix. The party recovered his [[item-crystal-owl|Owl of Magnus]] when it left the marked mound. He holds Tornar's unidentified finger-bone wand and the ritualist's journals and scraps. In Session 16 he destroyed the main clockwork cobra with Eye Bite and recovered Eldran Vey's road coat and papers.
+Gradrick is active and arriving safely in Helix. The party recovered his [[item-crystal-owl|Owl of Magnus]] when it left the marked mound. He holds Tornar's unidentified finger-bone wand and the ritualist's journals and scraps. In Session 16 he destroyed the main clockwork cobra with Eye Bite and recovered Eldran Vey's ornate coat and papers.
 
 ## Defining History
 

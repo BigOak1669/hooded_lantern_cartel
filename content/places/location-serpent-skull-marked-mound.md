@@ -25,8 +25,8 @@ A smaller mound whose door bore a freshly painted black serpent curled around a 
 - The entrance hall contained an undead maid named Nara, who swept, carried iron keys, and retained household routines.
 - A warm altar in the north of the hall has an iron serpent threaded through a white stone skull. Scratches around its base suggest that it moves, but the party did not open it.
 - The western workroom held Mort, Mara's wrapped body, Tornar, an animation circle, prepared dead, and Tornar's ritual tools.
-- The eastern crypt held four ravenous zombies and a grave-goods display guarded by one large clockwork cobra and two smaller adders.
-- One road-coated zombie was Eldran Vey, steward of the Hollow Gate of Quasqueton. Gradrick recovered his coat and papers.
+- The eastern crypt held four ravenous zombies and a grave-goods display guarded by one large clockwork cobra and two smaller clockwork snakes.
+- One zombie wearing an ornate coat was Eldran Vey, steward of Quasqueton. His plate strengthens the connection to the Hollow Gate writ. Gradrick recovered his coat and papers.
 
 ## Outcome
 
@@ -34,7 +34,7 @@ The fortified delivery was completed. The party entered after waiting for the al
 
 ## Current State and Uncertainty
 
-The known western and eastern rooms are cleared. The altar mechanism and its possible descent remain unresolved. Mort was last explicitly asleep in the mound, although the party later returned to Helix without stating whether he accompanied them. The symbol may connect the mound to the Steel Bone Brotherhood, although no direct Brotherhood presence or ownership of Tornar's ritual was confirmed.
+The known western and eastern rooms are cleared. The altar mechanism and its possible descent remain unresolved. The party traveled safely toward Helix, where the next session will open with its arrival. Mort was last explicitly asleep in the mound, and whether he accompanied the party remains unresolved. The symbol may connect the mound to the Steel Bone Brotherhood, although no direct Brotherhood presence or ownership of Tornar's ritual was confirmed.
 
 ## Garden Connections
 

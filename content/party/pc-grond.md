@@ -16,7 +16,7 @@ Grond is a kobold pit fighter and the party's most direct front-line bruiser. He
 
 ## Current Situation
 
-Grond is active after returning to Helix and wears the [[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]], which grants him +4 Strength while worn. He remains closely associated with Werner's recovered sledgehammer. In Session 16 he helped Mort into bed, led the eastern-crypt entry, destroyed a ravenous zombie and a clockwork adder, and recovered one gemstone eye.
+Grond is active and arriving safely in Helix, and he wears the [[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]], which grants him +4 Strength while worn. He remains closely associated with Werner's recovered sledgehammer. In Session 16 he helped Mort into bed, led the eastern-crypt entry, destroyed a ravenous zombie and a smaller clockwork snake, and recovered one gemstone eye.
 
 ## Defining History
 
@@ -28,7 +28,7 @@ Grond is active after returning to Helix and wears the [[item-hero-belt-gold-and
 - Helped Oogie reconstruct the fading tablet map before it vanished.
 - Approached the marked mound's door, received Sab's Holy Weapon blessing, and struck one of Tornar's rising bodies.
 - Offered physical comfort to Mort after Turn Undead ended the animation.
-- Helped Mort into bed with Mara's wedding cord, then crushed both an eastern-crypt zombie and a clockwork adder with his sledgehammer.
+- Helped Mort into bed with Mara's wedding cord, then crushed both an eastern-crypt zombie and a smaller clockwork snake with his sledgehammer.
 
 ## Notable Possessions
 
