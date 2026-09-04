@@ -4,6 +4,10 @@ description: "Mazzah's tower is the Helix wizard's home, workshop, and the party
 tags: [campaign, places]
 ---
 
+<figure class="entity-art">
+<img src="../assets/location-mazahs-tower.png" alt="Mazzah's Tower">
+</figure>
+
 # Mazzah's Tower
 
 Mazzah's tower is the Helix wizard's home, workshop, and the party's principal stop for magical identification. It is larger and more comfortable inside than its exterior suggests, and repeated “do not disturb” signs are backed by a warning illusion.

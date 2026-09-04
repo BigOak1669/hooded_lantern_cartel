@@ -4,6 +4,10 @@ description: "The Brazen Strumpet is Helix's busiest inn and tavern and the part
 tags: [campaign, places]
 ---
 
+<figure class="entity-art">
+<img src="../assets/location-brazen-strumpet.png" alt="The Brazen Strumpet">
+</figure>
+
 # The Brazen Strumpet
 
 The Brazen Strumpet is Helix's busiest inn and tavern and the party's usual surface base. Bolo runs the room; Tacey works there; adventurers, hirelings, merchants, and rumors all pass through.
