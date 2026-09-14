@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: black pouch / bag of holding
 
-This entry has been consolidated into [Bag of holding](../items/item-bag-of-holding).
+This entry is now presented within [Bag of holding](../items/item-bag-of-holding).

@@ -1,33 +1,11 @@
 ---
 title: "Temple / Mother-aligned local authority"
-description: "Religious or temple-centered group controlling the settlement reached through the portal."
 tags: [campaign, factions]
+unlisted: true
 ---
 
-# Faction: Temple / Mother-aligned local authority
+<meta http-equiv="refresh" content="0; url=../places/location-ore-and-furnace">
 
-## Summary
+# Moved: Temple / Mother-aligned local authority
 
-- Religious or temple-centered group controlling the settlement reached through the portal.
-
-## Current Status
-
-## Goals / Pressure
-
-- **Temple / Mother-aligned local authority**
-
-## Known Facts
-
-## What The Players Know
-
-## Related Entities / Locations
-
-- Nora
-- Temple District / temple settlement
-- Unnamed bovine deity figure
-
-## Session History
-
-- 2025-11-16 [[2025_1116 Session 02]] — Religious or temple-centered group controlling the settlement reached through the portal.
-
-## Notes / Uncertainty
+This entry is now presented within [Ore and Furnace](../places/location-ore-and-furnace).

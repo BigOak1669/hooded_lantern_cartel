@@ -21,9 +21,10 @@ The Barrow Mounds are a fog-bound field of ancient burial sites outside Helix. T
 
 ## Current Activity
 
-- [[location-serpent-skull-marked-mound|Serpent-and-skull marked mound]] — entered and partially explored in Session 15; Mort was confirmed as the occupant, Tornar was killed, and the mound remains unfinished.
-- [[location-broken-sigil-mound|Broken-Sigil Mound]] — partially explored; the party removed the Staff of the Cobra and left snakes, a sarcophagus, and another wing behind.
-- [[location-third-vakish-mound|Third Vakish Mound]] — the main belt and Thornswild site; largely explored, with deep water deliberately left alone.
+- **Serpent-and-skull marked mound:** Mort was confirmed as the occupant, Tornar was killed, and the known rooms were cleared. Mort remains asleep there, and the north altar still offers an unexplored descent.
+- **Broken-Sigil Mound:** the party removed the Staff of the Cobra and retreated, leaving snakes, a sarcophagus, and another wing behind. It is a possible return site, but not the party's current destination.
+- **Third Vakish Mound:** the belt and Thornswild site is largely explored, with deep water deliberately left alone.
+- **Minor explored sites:** an already-open barrow yielded only a gold ring, while a sealed barrow held plague rats and nested amber vials. Their details remain in the campaign record without competing with active destinations.
 
 ## Earlier Expeditions
 
@@ -34,25 +35,17 @@ The Barrow Mounds are a fog-bound field of ancient burial sites outside Helix. T
 
 ## Connections
 
-[[location-helix|Helix]] is the expedition hub. [[npc-finn|Finn]] supplied early mapping and lantern work. [[npc-vakish-baharus|Vakish Baharus]] converted several tomb finds into money and wider regional leads. The [[faction-steel-bone-brotherhood|Steel Bone Brotherhood]] is a recurring presence, though not every ominous symbol or occupied mound has been proven to belong to it.
+[[location-helix|Helix]] is the expedition hub. Finn supplied early mapping and lantern work. [[npc-vakish-baharus|Vakish Baharus]] converted several tomb finds into money and wider regional leads. The [[faction-steel-bone-brotherhood|Steel Bone Brotherhood]] is a recurring presence, though not every ominous symbol or occupied mound has been proven to belong to it.
 
 ## Uncertainty
 
-The party has seen only part of the mound field. Oogie's fading tablet map expanded the apparent scale of the region but was copied imperfectly. The marked mound's altar, remaining rooms, and relationship to the Brotherhood remain unresolved.
+The party has seen only part of the mound field. Oogie's fading tablet map expanded the apparent scale of the region but was copied imperfectly. The marked mound's altar, the Broken-Sigil Mound's remaining chambers, and the region's relationship to the Brotherhood remain unresolved. In Session 17 the party crossed through and beyond the mounds on the road to Quasqueton.
 
 ## Garden Connections
 
 - [Helix](../places/location-helix)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
-- [Broken-Sigil Mound](../places/location-broken-sigil-mound)
 - [Third Vakish Mound](../places/location-third-vakish-mound)
 - [Steel Bone Brotherhood](../factions/faction-steel-bone-brotherhood)
-- [Already-open barrow](../places/location-already-open-barrow)
-- [mound north of the obelisk](../places/location-mound-north-of-the-obelisk)
-- [Obelisk area](../places/location-obelisk-area)
 - [Prominent Barrow with Standing Stones and Shaft](../places/location-prominent-barrow-with-standing-stones-and-shaft)
-- [Sealed barrow with nested casket](../places/location-sealed-barrow-with-nested-casket)
-- [Sealed Mound on Torn Map](../places/location-sealed-mound-on-torn-map)
-- [Southern Candidate Barrow](../places/location-southern-candidate-barrow)
-- [Water-filled barrow tomb](../places/location-water-filled-barrow-tomb)
 - [Northern Barrow](../places/location-northern-barrow)

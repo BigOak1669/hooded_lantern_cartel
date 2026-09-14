@@ -16,7 +16,7 @@ Grond is a kobold pit fighter and the party's most direct front-line bruiser. He
 
 ## Current Situation
 
-Grond is active and arriving safely in Helix, and he wears the [[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]], which grants him +4 Strength while worn. He remains closely associated with Werner's recovered sledgehammer. In Session 16 he helped Mort into bed, led the eastern-crypt entry, destroyed a ravenous zombie and a smaller clockwork snake, and recovered one gemstone eye.
+Grond is active at [[location-quasqueton|Quasqueton's]] exterior. He wears the [[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]] and carries [[item-werner-s-lucky-sledgehammer|Werner's sledgehammer]]. At the Three Cairns he found ten gold and divided it evenly; at White Falls he used the sledgehammer to set the crossing's piton securely.
 
 ## Defining History
 

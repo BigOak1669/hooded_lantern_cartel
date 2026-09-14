@@ -12,12 +12,13 @@ A damaged parchment in a wax-sealed leather tube recovered from Tornar's rooms. 
 
 ## Current Status
 
-Party-held. Sab opened and resealed the tube during the search. In Session 16, the party recovered the coat and papers of Eldran Vey, whose brass plate identifies him as steward of Quasqueton and keeper of its road, spring, and outer wall. This strengthens the connection to the Hollow Gate writ but does not settle its legal force, route, current occupants, or relationship to Castle Zentolin.
+Party-held. Sab opened and resealed the tube during the search. In Session 16, the party recovered the coat and papers of Eldran Vey, whose brass plate identifies him as steward of Quasqueton and keeper of its road, spring, and outer wall.
+
+In Session 17, Mazzah examined the coat and papers and interpreted them as a possible ownership claim. He also supplied a route, and the party reached Quasqueton's exterior. The documents' current legal force, the identity of any competing claimant, and the stronghold's occupants remain unresolved.
 
 ## Garden Connections
 
 - [Quasqueton / Hollow Gate](../places/location-quasqueton)
 - [Castle Zentolin](../places/location-castle-zentolin)
 - [Tornar](../people/npc-tornar)
-- [Eldran Vey](../people/npc-eldran-vey)
 - [The Hollow Gate Writ](../active-leads/thread-hollow-gate-writ)

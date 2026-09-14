@@ -1,27 +1,11 @@
 ---
 title: "Osric"
-description: "Curio dealer who negotiated aggressively and appears tied to the Silver Goblet thread."
 tags: [campaign, people]
+unlisted: true
 ---
 
-# NPC: Osric
+<meta http-equiv="refresh" content="0; url=../places/location-ore-and-furnace">
 
-## Summary
+# Moved: Osric
 
-- Curio dealer who negotiated aggressively and appears tied to the Silver Goblet thread.
-
-## Current Status
-
-## Known Facts
-
-## What The Players Know
-
-## Relationships
-
-- Commercial rival or counterpart to Celestia.
-
-## Session History
-
-- 2025-11-16 [[2025_1116 Session 02]] — Curio dealer who negotiated aggressively and appears tied to the Silver Goblet thread.
-
-## Notes / Uncertainty
+This entry is now presented within [Ore and Furnace](../places/location-ore-and-furnace).

@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Investigate the sealed mound
 
-This entry has been consolidated into [The Sealed Mound on the Torn Map](../active-leads/thread-sealed-mound-lead).
+This entry is now presented within [The Sealed Mound on the Torn Map](../active-leads/thread-sealed-mound-lead).

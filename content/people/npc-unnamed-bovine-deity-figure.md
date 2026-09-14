@@ -1,27 +1,11 @@
 ---
 title: "Unnamed bovine deity figure"
-description: "Sacred figure or shrine presence in the dungeon that received offerings."
 tags: [campaign, people]
+unlisted: true
 ---
 
-# NPC: Unnamed bovine deity figure
+<meta http-equiv="refresh" content="0; url=../places/location-dungeon-underworld-complex">
 
-## Summary
+# Moved: Unnamed bovine deity figure
 
-- Sacred figure or shrine presence in the dungeon that received offerings.
-
-## Current Status
-
-## Known Facts
-
-## What The Players Know
-
-## Relationships
-
-- Connected to shrine ritual and giant gold disc/coin loot.
-
-## Session History
-
-- 2025-11-16 [[2025_1116 Session 02]] — Sacred figure or shrine presence in the dungeon that received offerings.
-
-## Notes / Uncertainty
+This entry is now presented within [Dungeon / underworld complex](../places/location-dungeon-underworld-complex).

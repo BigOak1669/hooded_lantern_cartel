@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Oogie’s condition
 
-This entry has been consolidated into [Oogie](../party/pc-oogie).
+This entry is now presented within [Oogie](../party/pc-oogie).

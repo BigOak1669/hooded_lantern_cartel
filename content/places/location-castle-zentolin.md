@@ -25,6 +25,7 @@ tags: [campaign, places]
 - Vakish identified that castle as Castle Zentolin.
 - The castle sits on a crystal-clear lake and has been cut off because the fog blocks access.
 - Session 15 produced a separate writ naming the Hollow Gate of Quasqueton. The party has not established whether that site is Castle Zentolin, Castle Xyntillan, or another place.
+- In Session 17, Mazzah and the road fork established Quasqueton as a separate northeastern stronghold. The party chose Quasqueton and deferred the Castle Zentolin route.
 
 ## Hierarchy / Attached Sites
 
@@ -38,10 +39,11 @@ tags: [campaign, places]
 ## Session History
 
 - 2026-05-17 [[2026_0517 Session 12]] - Oogie's tablet-map vision showed a castle beyond the mounds; Vakish named it Castle Zentolin and described its fog-blocked lake setting.
+- 2026-09-13 [[2026_0913 Session 17]] - The road beyond White Falls split toward Quasqueton and Castle Zentolin; the party chose Quasqueton.
 
 ## Notes / Uncertainty
 
-- Castle Zentolin / Castle Xyntillan naming needs table-canon normalization. Quasqueton is now an additional unresolved place name rather than a silent replacement.
+- Castle Zentolin / Castle Xyntillan naming still needs table-canon normalization. Quasqueton is now confirmed as a separate place rather than an alternate name.
 
 ## Garden Connections
 

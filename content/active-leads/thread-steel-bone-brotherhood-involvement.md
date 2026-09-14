@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Steel Bone Brotherhood involvement
 
-This entry has been consolidated into [The Steel Bone Brotherhood](../active-leads/thread-steel-bone-brotherhood).
+This entry is now presented within [The Steel Bone Brotherhood](../active-leads/thread-steel-bone-brotherhood).

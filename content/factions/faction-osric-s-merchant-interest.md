@@ -1,32 +1,11 @@
 ---
 title: "Osric's merchant interest"
-description: "Commercial side represented by Osric, focused on curio trading and hard bargaining."
 tags: [campaign, factions]
+unlisted: true
 ---
 
-# Faction: Osric's merchant interest
+<meta http-equiv="refresh" content="0; url=../places/location-ore-and-furnace">
 
-## Summary
+# Moved: Osric's merchant interest
 
-- Commercial side represented by Osric, focused on curio trading and hard bargaining.
-
-## Current Status
-
-## Goals / Pressure
-
-- **Osric’s shop / merchant interest**
-
-## Known Facts
-
-## What The Players Know
-
-## Related Entities / Locations
-
-- Osric
-- Silver Goblet thread
-
-## Session History
-
-- 2025-11-16 [[2025_1116 Session 02]] — Commercial side represented by Osric, focused on curio trading and hard bargaining.
-
-## Notes / Uncertainty
+This entry is now presented within [Ore and Furnace](../places/location-ore-and-furnace).

@@ -1,25 +1,11 @@
 ---
 title: "Iron Key"
-description: "Iron Key: obtained from the old watchter."
 tags: [campaign, items]
+unlisted: true
 ---
 
-# Item: Iron Key
+<meta http-equiv="refresh" content="0; url=../places/location-dungeon-underworld-complex">
 
-## Summary
+# Moved: Iron Key
 
-- Iron Key: obtained from the old watchter.
-
-## Current Status
-
-## Known Facts
-
-## What The Players Know
-
-## Owner / Holder
-
-## Session History
-
-- 2026-03-08 [[2026_0308 Session 07]] — Iron Key: obtained from the old watchter.
-
-## Notes / Uncertainty
+This entry is now presented within [Dungeon / underworld complex](../places/location-dungeon-underworld-complex).

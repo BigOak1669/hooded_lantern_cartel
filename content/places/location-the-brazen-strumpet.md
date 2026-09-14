@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: The Brazen Strumpet
 
-This entry has been consolidated into [The Brazen Strumpet](../places/location-brazen-strumpet).
+This entry is now presented within [The Brazen Strumpet](../places/location-brazen-strumpet).

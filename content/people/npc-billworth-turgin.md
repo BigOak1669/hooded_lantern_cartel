@@ -1,27 +1,11 @@
 ---
 title: "Billworth Turgin"
-description: "Older merchant wagon driver hauling metal goods to Helix who shared road rumors with the party."
 tags: [campaign, people]
+unlisted: true
 ---
 
-# NPC: Billworth Turgin
+<meta http-equiv="refresh" content="0; url=../places/location-ore-and-furnace">
 
-## Summary
+# Moved: Billworth Turgin
 
-- Older merchant wagon driver hauling metal goods to Helix who shared road rumors with the party.
-
-## Current Status
-
-## Known Facts
-
-## What The Players Know
-
-## Relationships
-
-- Merchant connected to Helix trade traffic
-
-## Session History
-
-- 2026-01-11 [[2026_0111 Session 03]] — Older merchant wagon driver hauling metal goods to Helix who shared road rumors with the party.
-
-## Notes / Uncertainty
+This entry is now presented within [Ore and Furnace](../places/location-ore-and-furnace).

@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Silver Chalice
 
-This entry has been consolidated into [Silver Goblet](../items/item-silver-goblet).
+This entry is now presented within [Silver Goblet](../items/item-silver-goblet).

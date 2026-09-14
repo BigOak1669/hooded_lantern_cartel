@@ -32,8 +32,8 @@ tags: [campaign, people]
 
 ## Relationships
 
-- Companion of [[npc-ikram|Ikram]] and fellow victim of Nabu's betrayal.
-- Former party-mate of [[npc-nabo|Nabu]] and Perry within the Iron Chain expedition.
+- Companion of Ikram and fellow victim of Nabu's betrayal.
+- Former party-mate of Nabu and Perry within the Iron Chain expedition.
 - Cooperative ally of the party after the northern barrow rescue.
 - Original source of the [[item-returning-dagger|returning dagger]] now carried by Sab.
 

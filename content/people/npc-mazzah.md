@@ -25,6 +25,12 @@ Mazzah identified Oogie's staff as a +1 Staff of the Cobra that can become a lar
 
 He associated the marked mound's symbol with an evil serpent-and-death tradition. His comments did not prove the exact deity or confirm that the site belongs to the Steel Bone Brotherhood.
 
+## Session 17
+
+Mazzah identified the party's marked-mound finds, including Orlin's weightlessness substance, Talisman of the Beastmaster, Tongue of the Beast, and Scroll of Spectacle. He identified Tornar's finger-bone wand as a Wand of Unlife before Sab destroyed it.
+
+He interpreted Eldran Vey's papers as a possible claim to [[location-quasqueton|Quasqueton]], distinguished that stronghold from Castle Zentolin, and relayed several unverified rumors about its builders and contents. Gradrick left Tornar's journals with him for study and received a plant-speaking draught in exchange.
+
 ## Garden Connections
 
 - [Parent: Mazzah's Tower](../places/location-mazahs-tower)

@@ -20,9 +20,5 @@ The party recovered journals and scraps from Tornar's rooms. They contain incohe
 
 - [Parent: Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
 - [Mort](../people/npc-mort)
-- [Mara](../people/npc-mara)
-- [Nara](../people/npc-nara)
-- [Finger-bone wand](../items/item-finger-bone-wand)
 - [Writ of the Hollow Gate](../items/item-writ-of-hollow-gate)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
-- [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound)

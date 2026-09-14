@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Gold ring
 
-This entry has been consolidated into [Already-open barrow](../places/location-already-open-barrow).
+This entry is now presented within [Already-open barrow](../places/location-already-open-barrow).

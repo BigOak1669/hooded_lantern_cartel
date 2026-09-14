@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Unidentified Spell Scroll Tube
 
-This entry has been consolidated into [Charm Person Spell Scroll](../items/item-charm-person-spell-scroll).
+This entry is now presented within [Charm Person Spell Scroll](../items/item-charm-person-spell-scroll).

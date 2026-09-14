@@ -58,5 +58,3 @@ tags: [campaign, places]
 ## Garden Connections
 
 - [Parent: The Barrow Mounds](../places/location-barrow-mounds)
-- [Tablet chamber](../places/location-tablet-chamber)
-- [Thornswild burial chamber](../places/location-thornswild-burial-chamber)

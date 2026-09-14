@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: The Rose Quartz
 
-This entry has been consolidated into [The Rose Quartz](../places/location-rose-quartz).
+This entry is now presented within [The Rose Quartz](../places/location-rose-quartz).

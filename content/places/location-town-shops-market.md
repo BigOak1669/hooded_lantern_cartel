@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Town shops / market
 
-This entry has been consolidated into [Ore and Furnace](../places/location-ore-and-furnace).
+This entry is now presented within [Ore and Furnace](../places/location-ore-and-furnace).

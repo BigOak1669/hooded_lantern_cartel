@@ -19,6 +19,7 @@ Mazzah's tower is the Helix wizard's home, workshop, and the party's principal s
 - The black pouch was identified here as a bag of holding, and Mazzah marked the mound north of the obelisk on the party's map.
 - The Owl of Magnus and Sab's Cloak of Elvenkind were identified here.
 - In Session 14, Mazzah identified the Staff of the Cobra, bought Oogie's red gemstone, and accepted a dangerous skin-bound spellbook for safekeeping. Sab and Gradrick received smaller spellbooks in exchange.
+- In Session 17, Mazzah identified the marked-mound finds, interpreted Eldran Vey's papers as a possible claim to Quasqueton, accepted Tornar's journals for study, and gave Gradrick a plant-speaking draught. Sab destroyed the Wand of Unlife outside.
 
 Mazzah's expertise is reliable; his conclusions about the serpent-and-skull symbol were cautious rather than a definitive identification of its cult.
 

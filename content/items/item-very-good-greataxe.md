@@ -1,25 +1,11 @@
 ---
 title: "Very good greataxe"
-description: "Quality greataxe recovered in the dungeon and carried out for possible appraisal or sale."
 tags: [campaign, items]
+unlisted: true
 ---
 
-# Item: Very good greataxe
+<meta http-equiv="refresh" content="0; url=../places/location-dungeon-underworld-complex">
 
-## Summary
+# Moved: Very good greataxe
 
-- Quality greataxe recovered in the dungeon and carried out for possible appraisal or sale.
-
-## Current Status
-
-## Known Facts
-
-## What The Players Know
-
-## Owner / Holder
-
-## Session History
-
-- 2025-11-16 [[2025_1116 Session 02]] — Quality greataxe recovered in the dungeon and carried out for possible appraisal or sale.
-
-## Notes / Uncertainty
+This entry is now presented within [Dungeon / underworld complex](../places/location-dungeon-underworld-complex).

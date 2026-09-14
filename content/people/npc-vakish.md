@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Vakish
 
-This entry has been consolidated into [Vakish Baharus](../people/npc-vakish-baharus).
+This entry is now presented within [Vakish Baharus](../people/npc-vakish-baharus).

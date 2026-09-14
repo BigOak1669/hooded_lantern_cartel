@@ -33,8 +33,8 @@ tags: [campaign, people]
 ## Relationships
 
 - Works with [[npc-bolo|Bolo]] at the [[location-brazen-strumpet|Brazen Strumpet]].
-- Strongly connected to [[npc-harlan|Harlan]], likely as a love interest or other close attachment.
-- Helped carry social fallout from [[npc-ikram|Ikram]]'s death back to [[npc-tiramel|Tiramel]].
+- Strongly connected to Harlan, likely as a love interest or other close attachment.
+- Helped carry social fallout from Ikram's death back to [[npc-tiramel|Tiramel]].
 - Likely love interest or close attachment of Harlan
 - Employee/associate of Bolo
 - Connected to Harlan

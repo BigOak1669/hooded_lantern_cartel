@@ -12,6 +12,8 @@ tags: [campaign, items]
 
 ## Current Status
 
+Held and actively used by Grond. In Session 17 he used it to drive the piton anchoring the White Falls crossing rope.
+
 ## Known Facts
 
 ## What The Players Know

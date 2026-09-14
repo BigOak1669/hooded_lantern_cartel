@@ -12,6 +12,8 @@ tags: [campaign, items]
 
 ## Current Status
 
+Active party equipment, usually carried by Sab.
+
 ## Known Facts
 
 ## What The Players Know

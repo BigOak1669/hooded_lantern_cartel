@@ -16,7 +16,7 @@ Sab is the party's halfling priest: an Old Gods devotee, healer, anti-undead spe
 
 ## Current Situation
 
-Sab is active and arriving safely in Helix from the marked mound. She has a trusted line to [[npc-gant|Gant]] at the [[location-fair-church|Fair Church]]. In Session 16 she honored Mara's remains, returned Mara's wedding cord to Mort, destroyed two ravenous zombies with Smite, killed a smaller clockwork snake with her longsword, and healed Gradrick and Orlin.
+Sab is active at [[location-quasqueton|Quasqueton's]] exterior. In Session 17 she destroyed the Wand of Unlife, privately reported Mort's fate to Bartholomew, donated five gold to the Fair Church, detected the starving wolves near the Three Cairns, tested the old well, and tied off the White Falls crossing rope.
 
 ## Defining History
 
@@ -31,6 +31,8 @@ Sab is active and arriving safely in Helix from the marked mound. She has a trus
 - Recovered and read the damaged Writ of the Hollow Gate.
 - Conducted a funeral observance for Mara and placed Mara's wedding cord in Mort's hand.
 - Used Smite to destroy two ravenous zombies and made a successful combat debut with her longsword against a smaller clockwork snake.
+- Destroyed the identified Wand of Unlife rather than risk its unknown necromantic cost.
+- Told the Fair Church what happened to Mort and learned that Bartholomew would still welcome him back.
 
 ## Notable Possessions
 
@@ -60,5 +62,4 @@ The exact name of Sab's Old Gods tradition varies in table talk. Her devotion is
 - [Gant](../people/npc-gant)
 - [The Fair Church](../places/location-fair-church)
 - [Tornar](../people/npc-tornar)
-- [Nara](../people/npc-nara)
 - [Writ of the Hollow Gate](../items/item-writ-of-hollow-gate)

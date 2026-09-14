@@ -16,7 +16,7 @@ Oogie is a fungal seer whose trances, omens, and unusual perspective make him th
 
 ## Current Situation
 
-Oogie is active and arriving safely in Helix, and he carries the [[item-cobra-headed-staff|Staff of the Cobra]]. He also keeps the party's rough copy of the fleeting map revealed by the chaotic tablet. In Session 16 he used Trance, Rage, and Omen to support the eastern-crypt fights and salvaged gemstone eyes, a precision spring, and a venom reservoir from a smaller clockwork snake.
+Oogie is active at [[location-quasqueton|Quasqueton's]] exterior. He carries the [[item-cobra-headed-staff|Staff of the Cobra]], the returning dagger, the party's rough tablet map, and the clockwork venom reservoir he chose not to sell. At the Three Cairns he used Trance to show Sab several possible outcomes before Orlin peacefully drove off the starving wolves.
 
 ## Defining History
 
@@ -36,6 +36,7 @@ Oogie is active and arriving safely in Helix, and he carries the [[item-cobra-he
 - Rough copy of the tablet's Barrow Mounds map
 - Returning dagger, passed to him by Sab
 - Half of an [[item-archie-ticket|Archie ticket]] retained after his return
+- Clockwork venom reservoir, retained for possible use with the returning dagger
 
 ## Relationships
 
@@ -57,5 +58,5 @@ The copied tablet map is explicitly imperfect. Its larger geography should be tr
 - [Mazzah](../people/npc-mazzah)
 - [The Barrow Mounds](../places/location-barrow-mounds)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
-- [Wooden tongue carving](../items/item-wooden-tongue-carving)
-- [Claw-and-bone talisman](../items/item-claw-and-bone-talisman)
+- [Tongue of the Beast](../items/item-wooden-tongue-carving)
+- [Talisman of the Beastmaster](../items/item-claw-and-bone-talisman)

@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Billsworth
 
-This entry has been consolidated into [Billworth Turgin](../people/npc-billworth-turgin).
+This entry is now presented within [Billworth Turgin](../people/npc-billworth-turgin).

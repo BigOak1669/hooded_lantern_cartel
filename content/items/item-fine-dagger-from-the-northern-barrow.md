@@ -1,25 +1,11 @@
 ---
 title: "Fine dagger from the northern barrow"
-description: "A pristine-looking dagger found by Tiramel and given to the party in thanks after the rescue."
 tags: [campaign, items]
+unlisted: true
 ---
 
-# Item: Fine dagger from the northern barrow
+<meta http-equiv="refresh" content="0; url=../items/item-returning-dagger">
 
-## Summary
+# Moved: Fine dagger from the northern barrow
 
-- A pristine-looking dagger found by Tiramel and given to the party in thanks after the rescue.
-
-## Current Status
-
-## Known Facts
-
-## What The Players Know
-
-## Owner / Holder
-
-## Session History
-
-- 2026-01-25 [[2026_0125 Session 04]] — A pristine-looking dagger found by Tiramel and given to the party in thanks after the rescue.
-
-## Notes / Uncertainty
+This entry is now presented within [Returning Dagger](../items/item-returning-dagger).

@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Competition with the Iron Chain
 
-This entry has been consolidated into [The Northern Barrow and Werner's Hammer](../active-leads/thread-northern-barrow-aftermath).
+This entry is now presented within [The Northern Barrow and Werner's Hammer](../active-leads/thread-northern-barrow-aftermath).

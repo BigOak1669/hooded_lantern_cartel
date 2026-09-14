@@ -40,7 +40,7 @@ tags: [campaign, places]
 ## Important NPCs / Factions
 
 - [[npc-celestia|Celestia]]
-- [[npc-finn|Finn]]
+- Finn
 - [[faction-iron-chain|Iron Chain]]
 - [[faction-steel-bone-brotherhood|Steel Bone Brotherhood]]
 
@@ -60,6 +60,4 @@ tags: [campaign, places]
 
 ## Garden Connections
 
-- [Road from Ore and Furnace to Helix](../places/location-road-ore-and-furnace-to-helix)
 - [Ore and Furnace](../places/location-ore-and-furnace)
-- [Interstitial bright room / afterlife space](../places/location-interstitial-bright-room-afterlife-space)

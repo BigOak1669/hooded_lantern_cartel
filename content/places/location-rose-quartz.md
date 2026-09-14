@@ -18,6 +18,7 @@ The Rose Quartz is Vakish Baharus's jewelry and curio shop in Helix. It is the p
 - His three-mound belt lead led the party to gold jackals, the Belt of the Thornswild, and the wider Thornswild mystery.
 - The shop was attacked during the predawn raid after the Brazen Strumpet feast; Vakish's mechanical guards killed several raiders.
 - In Session 12, the party sold rings and an ornate urn, returned the second jackal, and discussed Thornswild, the fog, and Castle Zentolin.
+- In Session 17, Vakish bought a chest of ordinary valuables and clockwork components for 200 gold. The mechanical heart and precision spring were included; Oogie kept the venom reservoir.
 
 The Rose Quartz is a commercial relationship, but Vakish's maps and memory have made it part of the campaign's bridge from local barrow delving to wider travel.
 

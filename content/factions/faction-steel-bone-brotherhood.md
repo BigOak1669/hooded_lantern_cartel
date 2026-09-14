@@ -25,10 +25,8 @@ The party does not know the Brotherhood's leadership, true scale, ultimate purpo
 
 ## Garden Connections
 
-- [Steel Bone cultist](../people/npc-steel-bone-cultist)
 - [Mort](../people/npc-mort)
 - [Tornar](../people/npc-tornar)
 - [The Barrow Mounds](../places/location-barrow-mounds)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
 - [The Steel Bone Brotherhood](../active-leads/thread-steel-bone-brotherhood)
-- [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound)

@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Prominent barrow with lower chamber and trap system
 
-This entry has been consolidated into [Prominent Barrow with Standing Stones and Shaft](../places/location-prominent-barrow-with-standing-stones-and-shaft).
+This entry is now presented within [Prominent Barrow with Standing Stones and Shaft](../places/location-prominent-barrow-with-standing-stones-and-shaft).

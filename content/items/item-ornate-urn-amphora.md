@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Ornate urn / amphora
 
-This entry has been consolidated into [Third Vakish Mound](../places/location-third-vakish-mound).
+This entry is now presented within [Third Vakish Mound](../places/location-third-vakish-mound).

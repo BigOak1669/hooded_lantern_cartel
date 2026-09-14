@@ -1,29 +1,11 @@
 ---
 title: "Meaning of the bovine shrine"
-description: "The shrine clearly follows ritual logic, but the party does not understand the figure's identity or the rules governing offerings and rewards."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Meaning of the bovine shrine
+<meta http-equiv="refresh" content="0; url=../places/location-dungeon-underworld-complex">
 
-## Summary
+# Moved: Meaning of the bovine shrine
 
-- The shrine clearly follows ritual logic, but the party does not understand the figure's identity or the rules governing offerings and rewards.
-
-## Why It Matters
-
-- This remains an unresolved hook: The shrine clearly follows ritual logic, but the party does not understand the figure's identity or the rules governing offerings and rewards.
-
-## Current State
-
-## Campaign History
-
-- 2025-11-16 [[2025_1116 Session 02]] — The shrine clearly follows ritual logic, but the party does not understand the figure's identity or the rules governing offerings and rewards.
-
-## Open Questions
-
-- How should this hook be interpreted in later sessions: The shrine clearly follows ritual logic, but the party does not understand the figure's identity or the rules governing offerings and rewards?
-
-## Next Likely Touchpoints
-
-## Notes / Uncertainty
+This entry is now presented within [Dungeon / underworld complex](../places/location-dungeon-underworld-complex).

@@ -1,42 +1,13 @@
 ---
 title: "Fair Church"
-description: "Helix church faction pulled into the Mort investigation by Gant's warning, the half-mask beneath Mort's bed, and the missing corpse. Mort's exact allegiance remains unconfirmed."
+description: "The Fair Church is a practical Helix refuge that feeds and shelters people in need. Bartholomew and Gant helped restore Oogie and have remained reliable contacts for the party."
 tags: [campaign, factions]
 ---
 
-# Faction: Fair Church
+# Fair Church
 
-## Summary
+The Fair Church is a practical Helix refuge that feeds and shelters people in need. Bartholomew and Gant helped restore Oogie and have remained reliable contacts for the party.
 
-- Helix church faction pulled into the Mort investigation by Gant's warning, the half-mask beneath Mort's bed, and the missing corpse. Mort's exact allegiance remains unconfirmed.
+Mort's conduct drew the church into the marked-mound investigation after Gant found a Steel Bone half-mask beneath his bed and a corpse disappeared with him. The party later learned that the corpse was Mort's wife, Mara, and that grief—not a proven Brotherhood allegiance—led him to Tornar.
 
-## Current Status
-
-- Active but unconfirmed in the current lead. A church worker / Mort is very likely involved in suspicious Barrow Mounds activity, but no direct church scene occurred in Session 12.
-
-## Goals / Pressure
-
-- Unknown from Session 12.
-
-## Known Facts
-
-- A prior hook involved a half-orc church worker / Mort and possible Steel Bone Brotherhood mask/connection.
-- In Session 12, the party linked a large figure entering a marked mound to that prior hook; Session 14 strengthened but did not prove the identification.
-
-## What The Players Know
-
-- The Fair Church may be connected through Mort / the suspicious half-orc worker, but this is not proven in-world.
-
-## Related Entities / Locations
-
-- [[thread-investigate-the-half-orc-church-worker|Investigate the half-orc church worker]]
-- [[location-serpent-skull-marked-mound|Serpent-skull marked mound]]
-- [[faction-steel-bone-brotherhood|Steel Bone Brotherhood]]
-
-## Session History
-
-- 2026-05-17 [[2026_0517 Session 12]] - The Fair Church was not visited, but the party connected the large figure entering the mound to the earlier half-orc church-worker concern.
-
-## Notes / Uncertainty
-
-- Do not treat the Fair Church itself as compromised unless later evidence confirms broader institutional involvement.
+In Session 17, Sab reported the outcome to Bartholomew. He said the church would still welcome Mort and accepted Sab's donation. Mort has not yet returned. Nothing establishes that the Fair Church itself is compromised.

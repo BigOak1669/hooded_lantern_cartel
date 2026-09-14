@@ -16,7 +16,7 @@ Orlin is a shapechanging adventurer whose bear-form strength, healing, bow work,
 
 ## Current Situation
 
-Orlin is active and arriving safely in Helix. In Session 16 he opened the eastern crypt, destroyed a ravenous zombie in bear form, interposed himself between Gradrick and the main clockwork cobra, and salvaged the construct's two ruby eyes and mechanical snake heart. Sab restored him to full health before the party left.
+Orlin is active at [[location-quasqueton|Quasqueton's]] exterior. Mazzah identified his blue cloud weightlessness substance, Talisman of the Beastmaster, Tongue of the Beast, and Scroll of Spectacle. Near the Three Cairns, Orlin transformed into a wolf and used a ration plus warning posture to drive two starving wolves away without combat.
 
 ## Defining History
 
@@ -27,6 +27,14 @@ Orlin is active and arriving safely in Helix. In Session 16 he opened the easter
 - Drew out Mouse's delivery story while the party investigated the marked mound.
 - Killed Tornar in bear form after the ritualist's animation attempt failed.
 - Tore apart a ravenous zombie, held off the main clockwork cobra, and recovered its ruby eyes and unfamiliar mechanical heart.
+- Used wolf form to resolve the Three Cairns encounter peacefully.
+
+## Notable Possessions
+
+- [[item-blue-cloud-potion|Blue cloud weightlessness substance]]
+- [[item-claw-and-bone-talisman|Talisman of the Beastmaster]]
+- [[item-wooden-tongue-carving|Tongue of the Beast]]
+- [[item-session-15-spell-scroll-tube|Scroll of Spectacle]]
 
 ## Relationships
 
@@ -45,7 +53,6 @@ Orlin's class has been described indirectly through abilities and table talk. Sh
 - [Gradrick](../party/pc-gradrick)
 - [Grond](../party/pc-grond)
 - [Dern](../party/pc-dern)
-- [Mouse](../people/npc-mouse)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
 - [Tornar](../people/npc-tornar)
-- [Blue cloud potion](../items/item-blue-cloud-potion)
+- [Blue Cloud Weightlessness Substance](../items/item-blue-cloud-potion)

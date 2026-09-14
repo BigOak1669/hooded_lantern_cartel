@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Tablet of Chaos
 
-This entry has been consolidated into [What was the chaotic tablet?](../active-leads/thread-what-was-the-chaotic-tablet).
+This entry is now presented within [What was the chaotic tablet?](../active-leads/thread-what-was-the-chaotic-tablet).

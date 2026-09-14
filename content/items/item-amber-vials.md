@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Amber vials
 
-This entry has been consolidated into [Four ornate amber vials](../items/item-four-ornate-amber-vials).
+This entry is now presented within [Four ornate amber vials](../items/item-four-ornate-amber-vials).

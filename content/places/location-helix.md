@@ -22,7 +22,7 @@ Helix is the party's present home base: a small settlement near the Barrow Mound
 
 ## Why It Matters Now
 
-The entire Session 14 investigation unfolded in Helix. The party used Gradrick's owl, Mazzah's expertise, Gant's church knowledge, Bolo's help, and Mouse's delivery route to prepare a return to the serpent-and-skull marked mound.
+In Session 17 the party used Helix to turn the marked-mound expedition into a new direction. Mazzah identified its magic and interpreted the Quasqueton papers, Vakish bought the ordinary haul, Sab briefed the Fair Church, and the Brazen Strumpet supplied Katherine Guy as the next expedition's helper.
 
 ## Campaign History
 
@@ -30,6 +30,9 @@ The entire Session 14 investigation unfolded in Helix. The party used Gradrick's
 - Sessions 05–07 proved it could absorb an expedition's fallout: the party regrouped here, restored Oogie, and sold recovered treasure.
 - Session 08's town-wide feast deepened the party's local relationships before raiders struck the Rose Quartz and Billsworth's cart.
 - Sessions 09–14 repeatedly returned here between barrow expeditions for appraisal, resupply, surveillance, and planning.
+- Session 17 began here, resolved the party's identification and sales work, and launched the Quasqueton expedition.
+
+Minor scenes such as Billsworth's damaged cart, the camp where Werner died, and one-off local doors remain part of Helix's history without requiring separate entries in the town's player-facing index.
 
 ## Geography
 
@@ -43,6 +46,3 @@ The town's social map is clearer than its street plan. Helix lies close enough t
 - [Mazzah's Tower](../places/location-mazahs-tower)
 - [The Rose Quartz](../places/location-rose-quartz)
 - [Steel Bone Brotherhood](../factions/faction-steel-bone-brotherhood)
-- [Mouse](../people/npc-mouse)
-- [Hooded Lantern supply door](../places/location-hooded-lantern-supply-door)
-- [camp outside Helix](../places/location-camp-outside-helix)

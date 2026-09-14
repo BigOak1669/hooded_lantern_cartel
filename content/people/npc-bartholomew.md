@@ -21,6 +21,7 @@ tags: [campaign, people]
 - He accepted donations during the church-side intake and restoration scene.
 - He offered the party basic shelter and helped establish the church as a place for food, rest, and practical aid.
 - He appears to work closely with [[npc-gant|Gant]] and to tolerate or manage disruptions from [[npc-mort|Mort]].
+- In Session 17, Sab privately told him that Mort had followed Tornar in hope of restoring Mara and had been left alive and remorseful. Bartholomew said the Fair Church would still welcome Mort and accepted Sab's five-gold donation.
 
 ## What The Players Know
 
@@ -37,6 +38,7 @@ tags: [campaign, people]
 ## Session History
 
 - 2026-03-08 [[2026_0308 Session 07]] — Received the party at the Fair Church, directed Oogie's restoration setup, accepted donations, and offered basic shelter.
+- 2026-09-13 [[2026_0913 Session 17]] — Received Sab's report about Mort and left the church's door open for his return.
 
 ## Notes / Uncertainty
 

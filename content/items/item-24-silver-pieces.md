@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: 24 silver pieces
 
-This entry has been consolidated into [Swampy campsite off the road](../places/location-swampy-campsite-off-the-road).
+This entry is now presented within [Swampy campsite off the road](../places/location-swampy-campsite-off-the-road).

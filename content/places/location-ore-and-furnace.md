@@ -58,4 +58,3 @@ tags: [campaign, places]
 - [Parent: World Overview](../places/location-world-overview)
 - [Dungeon / underworld complex](../places/location-dungeon-underworld-complex)
 - [Locked and Loaded Tower](../places/location-locked-and-loaded-tower)
-- [Temple District / temple settlement](../places/location-temple-district-temple-settlement)

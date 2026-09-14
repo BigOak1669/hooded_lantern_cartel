@@ -16,7 +16,7 @@ Gradrick is the party's witch, a back-line spellcaster whose Eye Bite and practi
 
 ## Current Situation
 
-Gradrick is active and arriving safely in Helix. The party recovered his [[item-crystal-owl|Owl of Magnus]] when it left the marked mound. He holds Tornar's unidentified finger-bone wand and the ritualist's journals and scraps. In Session 16 he destroyed the main clockwork cobra with Eye Bite and recovered Eldran Vey's ornate coat and papers.
+Gradrick is active at [[location-quasqueton|Quasqueton's]] exterior. In Helix he left Tornar's journals with Mazzah for study and received a [[item-plant-speaking-draught|plant-speaking draught]] in exchange. At White Falls he cast the magic-carpet scroll that carried the full expedition across; the scroll was consumed when the spell expired.
 
 ## Defining History
 
@@ -33,6 +33,7 @@ Gradrick is active and arriving safely in Helix. The party recovered his [[item-
 - [[item-crystal-owl|Owl of Magnus]], recovered after the marked-mound expedition
 - Charm Person spell scroll
 - Hypnotize spellbook
+- [[item-plant-speaking-draught|Plant-speaking draught]]
 
 ## Relationships
 
@@ -52,7 +53,5 @@ Transcript spellings of Gradrick's name are unusually unstable; the aliases abov
 - [Grond](../party/pc-grond)
 - [Dern](../party/pc-dern)
 - [Mazzah](../people/npc-mazzah)
-- [Mouse](../people/npc-mouse)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
 - [Tornar](../people/npc-tornar)
-- [Finger-bone wand](../items/item-finger-bone-wand)

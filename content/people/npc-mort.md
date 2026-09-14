@@ -16,19 +16,18 @@ Tornar had promised Mort that he could bring Mara back. Mort was drunk from the 
 
 The party confirmed that Mort was the large occupant of the mound. He was found beside Mara's wrapped body while Tornar performed an animation rite. Sab's Turn Undead ended the undead activity, and Orlin killed Tornar.
 
-In Session 16, Mort named Mara and repeated that he had only wanted his wife back. Sab offered a funeral observance, and Grond helped Mort into a bed. Sab placed Mara's recovered wedding cord in his hand before he fell asleep. The party later traveled safely toward Helix, where the next session will open with its arrival, but whether Mort accompanied them remains unresolved. His last explicit location is asleep inside the mound.
+In Session 16, Mort named Mara and repeated that he had only wanted his wife back. Sab offered a funeral observance, and Grond helped Mort into a bed. Sab placed Mara's recovered wedding cord in his hand before he fell asleep. The party then left him there and traveled safely toward Helix.
+
+In Session 17, Sab reported those events to Bartholomew. The Fair Church remains willing to receive Mort, but Mort has not yet returned. His last played location remains the bed inside the marked mound.
 
 ## Steel Bone Suspicion
 
-Gant previously found a Brotherhood-style half-mask beneath Mort's bed. That evidence remains serious, but the mound sessions did not establish that Mort belonged to the Steel Bone Brotherhood or that the Brotherhood controlled Tornar's older serpent-and-death symbolism. Mort's motive in the mound was grief and the hope of restoring Mara, though his choices remain consequential. His eventual return—or failure to return—to the Fair Church remains unresolved.
+Gant previously found a Brotherhood-style half-mask beneath Mort's bed. That evidence remains serious, but the mound sessions did not establish that Mort belonged to the Steel Bone Brotherhood or that the Brotherhood controlled Tornar's older serpent-and-death symbolism. Mort's motive in the mound was grief and the hope of restoring Mara, though his choices remain consequential. The church's willingness to receive him is established; whether and when he returns is not.
 
 ## Garden Connections
 
 - [Parent: The Fair Church](../places/location-fair-church)
 - [Gant](../people/npc-gant)
-- [Mouse](../people/npc-mouse)
-- [Mara](../people/npc-mara)
 - [Tornar](../people/npc-tornar)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
 - [Steel Bone Brotherhood](../factions/faction-steel-bone-brotherhood)
-- [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound)

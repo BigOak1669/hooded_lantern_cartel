@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Sealed burial mound
 
-This entry has been consolidated into [Sealed Mound on Torn Map](../places/location-sealed-mound-on-torn-map).
+This entry is now presented within [Sealed Mound on Torn Map](../places/location-sealed-mound-on-torn-map).

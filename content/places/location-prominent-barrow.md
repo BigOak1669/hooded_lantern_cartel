@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Prominent barrow
 
-This entry has been consolidated into [Prominent Barrow with Standing Stones and Shaft](../places/location-prominent-barrow-with-standing-stones-and-shaft).
+This entry is now presented within [Prominent Barrow with Standing Stones and Shaft](../places/location-prominent-barrow-with-standing-stones-and-shaft).

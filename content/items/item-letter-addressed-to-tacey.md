@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Letter addressed to Tacey
 
-This entry has been consolidated into [Letter to Tacey](../items/item-letter-to-tacey).
+This entry is now presented within [Letter to Tacey](../items/item-letter-to-tacey).

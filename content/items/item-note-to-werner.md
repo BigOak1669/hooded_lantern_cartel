@@ -1,25 +1,11 @@
 ---
 title: "note to Werner"
-description: "Short written message ordering the chalice brought to the mound north of the obelisk."
 tags: [campaign, items]
+unlisted: true
 ---
 
-# Item: note to Werner
+<meta http-equiv="refresh" content="0; url=../people/npc-werner">
 
-## Summary
+# Moved: note to Werner
 
-- Short written message ordering the chalice brought to the mound north of the obelisk.
-
-## Current Status
-
-## Known Facts
-
-## What The Players Know
-
-## Owner / Holder
-
-## Session History
-
-- 2026-02-08 [[2026_0208 Session 05]] — Short written message ordering the chalice brought to the mound north of the obelisk.
-
-## Notes / Uncertainty
+This entry is now presented within [Werner](../people/npc-werner).

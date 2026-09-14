@@ -1,33 +1,11 @@
 ---
 title: "Mara"
-description: "Mara was Mort's dead wife and the corpse missing from the Fair Church. Mort brought her to Tornar in the hope that the ritualist could restore her."
 tags: [campaign, people]
+unlisted: true
 ---
 
-# Mara
+<meta http-equiv="refresh" content="0; url=../people/npc-mort">
 
-Mara was Mort's dead wife and the corpse missing from the Fair Church. Mort brought her to Tornar in the hope that the ritualist could restore her.
+# Moved: Mara
 
-## Current Status
-
-Tornar animated Mara's body during the Session 15 rite. Sab's Turn Undead ended the undead activity before Mara returned as a living or speaking person.
-
-In Session 16, Sab gathered Mara's remaining grave cloth and ash out of sight, spoke a funeral observance, and found a silver wedding cord among the remains. Sab placed the cord in Mort's hand before he fell asleep.
-
-## Relationships
-
-- **Mort:** husband; acted from grief and desperation to recover her.
-- **Tornar:** ritualist who promised Mort that he could bring her back.
-- **Fair Church:** source of the body Mort took.
-
-## Notes / Uncertainty
-
-The party learned nothing reliable about Mara's life, death, personality, or prior relationship with Mort beyond Mort's grief and his insistence that she mattered to him. The rite did not establish whether her mind or soul was present.
-
-## Garden Connections
-
-- [Mort](../people/npc-mort)
-- [Tornar](../people/npc-tornar)
-- [The Fair Church](../places/location-fair-church)
-- [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
-- [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound)
+This entry is now presented within [Mort](../people/npc-mort).

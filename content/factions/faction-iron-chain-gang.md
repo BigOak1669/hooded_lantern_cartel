@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Iron Chain gang
 
-This entry has been consolidated into [Iron Chain](../factions/faction-iron-chain).
+This entry is now presented within [Iron Chain](../factions/faction-iron-chain).

@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Maza's Tower
 
-This entry has been consolidated into [Mazzah's Tower](../places/location-mazahs-tower).
+This entry is now presented within [Mazzah's Tower](../places/location-mazahs-tower).

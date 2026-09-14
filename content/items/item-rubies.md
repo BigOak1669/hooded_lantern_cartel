@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: rubies
 
-This entry has been consolidated into [Broken-Sigil Mound](../places/location-broken-sigil-mound).
+This entry is now presented within [Broken-Sigil Mound](../places/location-broken-sigil-mound).

@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Maza as magical contact
 
-This entry has been consolidated into [Mazzah](../people/npc-mazzah).
+This entry is now presented within [Mazzah](../people/npc-mazzah).

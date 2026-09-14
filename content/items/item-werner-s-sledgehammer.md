@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Werner’s sledgehammer
 
-This entry has been consolidated into [Werner's lucky sledgehammer](../items/item-werner-s-lucky-sledgehammer).
+This entry is now presented within [Werner's lucky sledgehammer](../items/item-werner-s-lucky-sledgehammer).

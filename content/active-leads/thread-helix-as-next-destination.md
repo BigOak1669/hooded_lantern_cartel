@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Helix as next destination
 
-This entry has been consolidated into [Helix](../places/location-helix).
+This entry is now presented within [Helix](../places/location-helix).

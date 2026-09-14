@@ -1,30 +1,11 @@
 ---
 title: "Celestia's merchant interest"
-description: "Commercial side represented by Celestia, positioned as preferable to Osric."
 tags: [campaign, factions]
+unlisted: true
 ---
 
-# Faction: Celestia's merchant interest
+<meta http-equiv="refresh" content="0; url=../people/npc-celestia">
 
-## Summary
+# Moved: Celestia's merchant interest
 
-- Commercial side represented by Celestia, positioned as preferable to Osric.
-
-## Current Status
-
-## Goals / Pressure
-
-## Known Facts
-
-## What The Players Know
-
-## Related Entities / Locations
-
-- Celestia
-- Silver Goblet thread
-
-## Session History
-
-- 2025-11-16 [[2025_1116 Session 02]] — Commercial side represented by Celestia, positioned as preferable to Osric.
-
-## Notes / Uncertainty
+This entry is now presented within [Celestia](../people/npc-celestia).

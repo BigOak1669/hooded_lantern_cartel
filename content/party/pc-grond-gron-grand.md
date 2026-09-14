@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Grond / Gron / Grand
 
-This entry has been consolidated into [Grond](../party/pc-grond).
+This entry is now presented within [Grond](../party/pc-grond).

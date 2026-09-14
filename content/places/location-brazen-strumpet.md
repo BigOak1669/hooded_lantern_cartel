@@ -18,6 +18,7 @@ The Brazen Strumpet is Helix's busiest inn and tavern and the party's usual surf
 - The party's extravagant Session 08 carouse became a town-wide Blackbark gin and starshine eel feast before a predawn raid struck the tavern's orbit and the Rose Quartz.
 - The party hired Mox here before entering the Broken-Sigil Mound.
 - In Session 14, Bolo identified Mouse and agreed to strengthen the ale intended for the marked mound's occupant.
+- In Session 17, the party rested, resupplied, and hired [[npc-katherine-guy|Katherine Guy]] here before leaving for Quasqueton.
 
 The tavern remains useful because it is both home ground and an information network—not because every conversation here becomes a separate lead.
 
@@ -26,5 +27,5 @@ The tavern remains useful because it is both home ground and an information netw
 - [Parent: Helix](../places/location-helix)
 - [Bolo](../people/npc-bolo)
 - [Tacey](../people/npc-tacey)
-- [Mouse](../people/npc-mouse)
 - [The Rose Quartz](../places/location-rose-quartz)
+- [Katherine Guy](../people/npc-katherine-guy)

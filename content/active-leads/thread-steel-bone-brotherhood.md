@@ -33,5 +33,3 @@ The serpent-and-skull marked mound may connect Mort to the Brotherhood, but that
 - [Steel Bone Brotherhood](../factions/faction-steel-bone-brotherhood)
 - [The Barrow Mounds](../places/location-barrow-mounds)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
-- [Steel Bone cultist](../people/npc-steel-bone-cultist)
-- [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound)

@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Mort hook
 
-This entry has been consolidated into [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound).
+This entry is now presented within [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound).

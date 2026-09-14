@@ -22,9 +22,7 @@ At the camp, Nabo killed Ikram during a hostage demand. Werner then killed Nabo,
 ## Garden Connections
 
 - [Northern Barrow](../places/location-northern-barrow)
-- [Ikram](../people/npc-ikram)
 - [Tiramel](../people/npc-tiramel)
-- [Nabo](../people/npc-nabo)
 - [Werner](../people/npc-werner)
 - [Iron Chain](../factions/faction-iron-chain)
 - [Werner's lucky sledgehammer](../items/item-werner-s-lucky-sledgehammer)

@@ -7,7 +7,7 @@ tags: [campaign, home]
 <section class="campaign-hero">
 <div class="eyebrow">A Shadowdark Campaign Archive</div>
 <h2>Hooded Lantern Cartel</h2>
-<p>The Hooded Lantern Cartel has used Helix as its base while exploring the Barrow Mounds, recovering strange grave goods and following signs of organized activity among the tombs. The investigation of the serpent-and-skull marked mound led…</p>
+<p>The Hooded Lantern Cartel used Helix as its base while exploring the Barrow Mounds. Its pursuit of a stolen corpse led through Mouse's deliveries to Mort, Mara, and Tornar in the serpent-and-skull marked mound, while Eldran Vey's coat and…</p>
 </section>
 
 ## Campaign Now
@@ -27,11 +27,11 @@ tags: [campaign, home]
 
 ## Latest Session
 
-**Session 16 · 2026-07-26**
+**Session 17 · 2026-09-13**
 
-The party finished searching the serpent-and-skull marked mound. Sab gave Mara's remains dignity and returned her wedding cord to Mort, whom Grond helped into a bed to sleep off the fortified ale. The party then opened the eastern crypt,…
+The party returned to Helix, identified the marked-mound finds, sold its ordinary valuables, reported Mort's fate to the Fair Church, and hired Katherine Guy as an expedition helper. Mazzah identified several useful objects and interpreted…
 
-[Quick recap and detailed record →](sessions/2026_0726%20Session%2016)
+[Quick recap and detailed record →](sessions/2026_0913%20Session%2017)
 
 ## Threads in Motion
 
@@ -39,16 +39,16 @@ The party finished searching the serpent-and-skull marked mound. Sab gave Mara's
 - **[Archie ticket](items/item-archie-ticket)** — A death-return ticket tied to Archie, used to restore a dead companion through a still only partly understood ritual or contract.
 - **[Beyond the Fog](active-leads/thread-beyond-the-fog)** — The party's world is beginning to widen beyond Helix and the western Barrow Mounds. Oogie's fading tablet map showed more mounds and a castle beyond them. Vakish identified the castle as Castle Zentolin and described the fog as the reason…
 - **[Castle Zentolin](places/location-castle-zentolin)** — Legendary castle seen in Oogie's fading tablet-map vision and later named by Vakish. It sits on a crystal-clear lake beyond/east of the Barrow Mounds and has been cut off from contact by the fog.
+- **[Fair Church](factions/faction-fair-church)** — The Fair Church is a practical Helix refuge that feeds and shelters people in need. Bartholomew and Gant helped restore Oogie and have remained reliable contacts for the party.
 - **[How Archie tickets really work](active-leads/thread-how-archie-tickets-really-work)** — The party now has stronger live evidence that Archie tickets can reverse or bypass death, but the full mechanic, limits, and governing logic remain unresolved.
 - **[Steel Bone Brotherhood](factions/faction-steel-bone-brotherhood)** — The Steel Bone Brotherhood is an ominous tomb-delving faction active around Helix and the Barrow Mounds. Its lowest visible operatives wear red robes and steel or bone-like masks, recruit expendable hirelings, and watch other delvers from…
-- **[Steel Bone cultist](people/npc-steel-bone-cultist)** — Lowest visible field operatives of the Steel Bone Brotherhood, appearing as red-robed, steel-bone-masked cultists who shadowed the party around the Barrow Mounds and the Helix retreat route.
 - **[The Barrow Mounds](places/location-barrow-mounds)** — The Barrow Mounds are a fog-bound field of ancient burial sites outside Helix. They are not one dungeon but a landscape of sealed tombs, looted chambers, active hideouts, and deeper structures whose dangers and histories often overlap.
 
 ## Recent Sessions
 
+- **[Session 17 · 2026-09-13](sessions/2026_0913%20Session%2017)** — The party returned to Helix, identified the marked-mound finds, sold its ordinary valuables, reported Mort's fate to the Fair Church, and hired Katherine Guy as an expedition helper. Mazzah identified several useful objects and interpreted…
 - **[Session 16 · 2026-07-26](sessions/2026_0726%20Session%2016)** — The party finished searching the serpent-and-skull marked mound. Sab gave Mara's remains dignity and returned her wedding cord to Mort, whom Grond helped into a bed to sleep off the fortified ale. The party then opened the eastern crypt,…
 - **[Session 15 · 2026-07-12](sessions/2026_0712%20Session%2015)** — The party used the fortified ale delivery to enter the serpent-and-skull marked mound. Oogie's Staff of the Cobra bypassed the painted serpent ward, and the party met Nara, an undead maid, in the entrance hall. They investigated a warm,…
-- **[Session 14 · 2026-06-28](sessions/2026_0628%20Session%2014)** — The party spent the session in Helix following the serpent-and-skull marked mound lead. Through the planted owl, Gradrick watched a courier called Mouse deliver a sack to a large half-orc-like figure inside the mound. Mazzah identified…
 
 ## The Valley of Ruin
 

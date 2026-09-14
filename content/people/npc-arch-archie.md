@@ -22,4 +22,3 @@ Arch's relationship to the tablet, and the rules or costs governing the tickets,
 - [Dern](../party/pc-dern)
 - [Archie ticket](../items/item-archie-ticket)
 - [How Archie tickets really work](../active-leads/thread-how-archie-tickets-really-work)
-- [What was the chaotic tablet?](../active-leads/thread-what-was-the-chaotic-tablet)

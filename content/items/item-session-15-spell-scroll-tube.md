@@ -1,12 +1,12 @@
 ---
-title: "Unidentified spell-scroll tube"
-description: "A metallic tube consistent with the party's earlier spell-scroll containers, recovered from a drawer in Tornar's rooms. The scroll inside was not opened or identified during the session."
+title: "Scroll of Spectacle"
+description: "A spell scroll recovered from Tornar's rooms and held by Orlin. It creates a clearly unreal illusion, up to the size of a building, with full motion and sound for at least a day. The illusion remains visibly false, but its scale and…"
 tags: [campaign, items]
 ---
 
-# Item: Unidentified spell-scroll tube
+# Scroll of Spectacle
 
-A metallic tube consistent with the party's earlier spell-scroll containers, recovered from a drawer in Tornar's rooms. The scroll inside was not opened or identified during the session.
+A spell scroll recovered from Tornar's rooms and held by Orlin. It creates a clearly unreal illusion, up to the size of a building, with full motion and sound for at least a day. The illusion remains visibly false, but its scale and duration permit elaborate distractions, screens, or displays.
 
 ## Garden Connections
 

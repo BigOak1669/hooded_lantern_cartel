@@ -1,29 +1,11 @@
 ---
 title: "Revisiting prominent barrow"
-description: "The party's next move, possibly revisiting the prominent barrow or exploring the mound north of the obelisk."
 tags: [campaign, active-leads]
+unlisted: true
 ---
 
-# Thread: Revisiting prominent barrow
+<meta http-equiv="refresh" content="0; url=../places/location-prominent-barrow-with-standing-stones-and-shaft">
 
-## Summary
+# Moved: Revisiting prominent barrow
 
-- The party's next move, possibly revisiting the prominent barrow or exploring the mound north of the obelisk.
-
-## Why It Matters
-
-- This remains an unresolved hook: The party's next move, possibly revisiting the prominent barrow or exploring the mound north of the obelisk.
-
-## Current State
-
-## Campaign History
-
-- 2026-03-08 [[2026_0308 Session 07]] — The party's next move, possibly revisiting the prominent barrow or exploring the mound north of the obelisk.
-
-## Open Questions
-
-- How should this hook be interpreted in later sessions: The party's next move, possibly revisiting the prominent barrow or exploring the mound north of the obelisk?
-
-## Next Likely Touchpoints
-
-## Notes / Uncertainty
+This entry is now presented within [Prominent Barrow with Standing Stones and Shaft](../places/location-prominent-barrow-with-standing-stones-and-shaft).

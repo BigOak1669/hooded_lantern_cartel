@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Prominent barrow lower level
 
-This entry has been consolidated into [Revisiting prominent barrow](../active-leads/thread-revisiting-prominent-barrow).
+This entry is now presented within [Revisiting prominent barrow](../active-leads/thread-revisiting-prominent-barrow).

@@ -29,5 +29,3 @@ tags: [campaign, places]
 ## Garden Connections
 
 - [Parent: Ore and Furnace](../places/location-ore-and-furnace)
-- [Portal chamber](../places/location-portal-chamber)
-- [Shrine room with bovine deity figure](../places/location-shrine-room-with-bovine-deity-figure)

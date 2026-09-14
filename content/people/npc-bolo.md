@@ -28,6 +28,4 @@ Tacey works with him. Werner was a debtor. Mouse is a recognizable customer. The
 
 - [Parent: The Brazen Strumpet](../places/location-brazen-strumpet)
 - [Tacey](../people/npc-tacey)
-- [Mouse](../people/npc-mouse)
 - [Helix](../places/location-helix)
-- [Mort and the Marked Mound](../active-leads/thread-mort-and-marked-mound)

@@ -1,25 +1,11 @@
 ---
 title: "Chunk of silver"
-description: "Piece of silver recovered in the dungeon and later discussed as potentially useful crafting material."
 tags: [campaign, items]
+unlisted: true
 ---
 
-# Item: Chunk of silver
+<meta http-equiv="refresh" content="0; url=../places/location-dungeon-underworld-complex">
 
-## Summary
+# Moved: Chunk of silver
 
-- Piece of silver recovered in the dungeon and later discussed as potentially useful crafting material.
-
-## Current Status
-
-## Known Facts
-
-## What The Players Know
-
-## Owner / Holder
-
-## Session History
-
-- 2025-11-16 [[2025_1116 Session 02]] — Piece of silver recovered in the dungeon and later discussed as potentially useful crafting material.
-
-## Notes / Uncertainty
+This entry is now presented within [Dungeon / underworld complex](../places/location-dungeon-underworld-complex).

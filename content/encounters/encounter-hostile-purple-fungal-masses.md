@@ -1,27 +1,11 @@
 ---
 title: "Encounter: hostile purple fungal masses"
-description: "The party fought and defeated hostile purple fungal masses in the inner chamber of the mound."
 tags: [campaign, encounters]
+unlisted: true
 ---
 
-# Encounter: hostile purple fungal masses
+<meta http-equiv="refresh" content="0; url=../places/location-dungeon-underworld-complex">
 
-## Summary
+# Moved: Encounter: hostile purple fungal masses
 
-- The party fought and defeated hostile purple fungal masses in the inner chamber of the mound.
-
-## Current Status
-
-- Recorded in session output: The party fought and defeated hostile purple fungal masses in the inner chamber of the mound.
-
-## Participants
-
-## Location
-
-## Session History
-
-- 2026-04-05 [[2026_0405 Session 09]] — The party fought and defeated hostile purple fungal masses in the inner chamber of the mound.
-
-## Outcomes / Consequences
-
-## Notes / Uncertainty
+This entry is now presented within [Dungeon / underworld complex](../places/location-dungeon-underworld-complex).

@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Barrow Mounds exterior near the obelisk
 
-This entry has been consolidated into [Obelisk area](../places/location-obelisk-area).
+This entry is now presented within [Obelisk area](../places/location-obelisk-area).

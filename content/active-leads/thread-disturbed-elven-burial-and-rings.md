@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Disturbed Elven Burial And Rings
 
-This entry has been consolidated into [Finish Exploring Third Vakish Mound](../active-leads/thread-finish-exploring-third-vakish-mound).
+This entry is now presented within [Finish Exploring Third Vakish Mound](../active-leads/thread-finish-exploring-third-vakish-mound).

@@ -1,18 +1,23 @@
 ---
-title: "Adamantine bar"
-description: "Valuable metal bar recovered near the portal room."
+title: "Adamantine Door-Bar"
+description: "An adamantine bar recovered from a door near the early portal room. Its face depicts a wizard holding back a demon."
 tags: [campaign, items]
 ---
 
-# Item: Adamantine bar
+# Adamantine Door-Bar
 
 ## Summary
 
-- Valuable metal bar recovered near the portal room.
+- An adamantine bar recovered from a door near the early portal room. Its face depicts a wizard holding back a demon.
 
 ## Current Status
 
+Retained by the party.
+
 ## Known Facts
+
+- When placed across a door, the bar magically holds or seals that door shut.
+- Its effect was clarified in Session 17 after the party had carried it for some time.
 
 ## What The Players Know
 

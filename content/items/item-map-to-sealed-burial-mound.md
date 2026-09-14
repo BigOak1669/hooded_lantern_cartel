@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Map to sealed burial mound
 
-This entry has been consolidated into [Scrap barrow map](../items/item-scrap-barrow-map).
+This entry is now presented within [Scrap barrow map](../items/item-scrap-barrow-map).

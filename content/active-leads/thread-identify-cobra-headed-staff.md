@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Identify the Cobra-Headed Staff
 
-This entry has been consolidated into [Finish Exploring the Broken-Sigil Mound](../active-leads/thread-finish-exploring-broken-sigil-mound).
+This entry is now presented within [Finish Exploring the Broken-Sigil Mound](../active-leads/thread-finish-exploring-broken-sigil-mound).

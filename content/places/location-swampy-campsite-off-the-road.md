@@ -1,31 +1,11 @@
 ---
 title: "Swampy campsite off the road"
-description: "Small campsite where Harlan was killed and the corpse-eating creature was found feeding."
 tags: [campaign, places]
+unlisted: true
 ---
 
-# Location: Swampy campsite off the road
+<meta http-equiv="refresh" content="0; url=../places/location-world-overview">
 
-## Summary
+# Moved: Swampy campsite off the road
 
-- Small campsite where Harlan was killed and the corpse-eating creature was found feeding.
-
-## Description
-
-## Current Relevance
-
-## What The Players Know
-
-## Important NPCs / Factions
-
-- Harlan
-
-## Session History
-
-- 2026-01-11 [[2026_0111 Session 03]] — Small campsite where Harlan was killed and the corpse-eating creature was found feeding.
-
-## Notes / Uncertainty
-
-## Garden Connections
-
-- [Parent: Road from Ore and Furnace to Helix](../places/location-road-ore-and-furnace-to-helix)
+This entry is now presented within [World Overview](../places/location-world-overview).

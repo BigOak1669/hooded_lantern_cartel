@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Undead plague rats
 
-This entry has been consolidated into [Encounter: Plague rats](../encounters/encounter-plague-rats).
+This entry is now presented within [Encounter: Plague rats](../encounters/encounter-plague-rats).

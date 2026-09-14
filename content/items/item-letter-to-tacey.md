@@ -1,25 +1,11 @@
 ---
 title: "Letter to Tacey"
-description: "Sealed letter recovered from Harlan's body and delivered to Tacey."
 tags: [campaign, items]
+unlisted: true
 ---
 
-# Item: Letter to Tacey
+<meta http-equiv="refresh" content="0; url=../people/npc-tacey">
 
-## Summary
+# Moved: Letter to Tacey
 
-- Sealed letter recovered from Harlan's body and delivered to Tacey.
-
-## Current Status
-
-## Known Facts
-
-## What The Players Know
-
-## Owner / Holder
-
-## Session History
-
-- 2026-01-11 [[2026_0111 Session 03]] — Sealed letter recovered from Harlan's body and delivered to Tacey.
-
-## Notes / Uncertainty
+This entry is now presented within [Tacey](../people/npc-tacey).

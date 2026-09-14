@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Spent but still contested chalice
 
-This entry has been consolidated into [Silver Goblet commission](../active-leads/thread-silver-goblet-commission).
+This entry is now presented within [Silver Goblet commission](../active-leads/thread-silver-goblet-commission).

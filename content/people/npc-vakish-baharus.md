@@ -14,6 +14,7 @@ Vakish Baharus owns the [[location-rose-quartz|Rose Quartz]], where he appraises
 - Supplied the three-mound lead that produced two gold jackals and the Belt of the Thornswild.
 - Bought the diamond rings and ornate urn recovered from the third mound.
 - Let Grond keep the Belt of the Thornswild in exchange for the return of Vakish's protective cloak.
+- Bought the party's Session 17 chest, ordinary valuables, clockwork cobra heart, precision spring, and other offered components for 200 gold. Oogie retained the venom reservoir.
 
 ## Regional Knowledge
 

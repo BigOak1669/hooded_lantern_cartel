@@ -55,4 +55,3 @@ tags: [campaign, places]
 ## Garden Connections
 
 - [Parent: The Barrow Mounds](../places/location-barrow-mounds)
-- [Lower chamber beneath the prominent barrow](../places/location-lower-chamber-beneath-the-prominent-barrow)

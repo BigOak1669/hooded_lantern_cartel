@@ -8,4 +8,4 @@ unlisted: true
 
 # Moved: Fog around the Barrow Mounds
 
-This entry has been consolidated into [Beyond the Fog](../active-leads/thread-beyond-the-fog).
+This entry is now presented within [Beyond the Fog](../active-leads/thread-beyond-the-fog).

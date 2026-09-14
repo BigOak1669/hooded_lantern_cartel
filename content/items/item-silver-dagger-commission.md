@@ -1,25 +1,11 @@
 ---
 title: "Silver dagger commission"
-description: "Planned conversion of carried silver into a silver dagger by a smith in Ore and Furnace."
 tags: [campaign, items]
+unlisted: true
 ---
 
-# Item: Silver dagger commission
+<meta http-equiv="refresh" content="0; url=../places/location-ore-and-furnace">
 
-## Summary
+# Moved: Silver dagger commission
 
-- Planned conversion of carried silver into a silver dagger by a smith in Ore and Furnace.
-
-## Current Status
-
-## Known Facts
-
-## What The Players Know
-
-## Owner / Holder
-
-## Session History
-
-- 2026-01-11 [[2026_0111 Session 03]] — Planned conversion of carried silver into a silver dagger by a smith in Ore and Furnace.
-
-## Notes / Uncertainty
+This entry is now presented within [Ore and Furnace](../places/location-ore-and-furnace).
