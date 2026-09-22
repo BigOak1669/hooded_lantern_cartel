@@ -1,12 +1,12 @@
 ---
 title: "Quasqueton / Hollow Gate"
-description: "Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current destination. In Session 17 the group followed the northeastern road beyond White Falls and reached the cold green lake below the…"
+description: "Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. In Session 18 the group entered the outer watch rooms and chose an inner guardroom for shelter. They have not…"
 tags: [campaign, places]
 ---
 
 # Quasqueton / Hollow Gate
 
-Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current destination. In Session 17 the group followed the northeastern road beyond White Falls and reached the cold green lake below the cliff-built stronghold. Play ended before anyone entered.
+Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. In Session 18 the group entered the outer watch rooms and chose an inner guardroom for shelter. They have not completed a rest or explored deeper.
 
 ## What the Party Has Seen
 
@@ -18,13 +18,23 @@ Mazzah said Rogahn and Zelligar built the unfinished stronghold with magic, paid
 
 The approach follows the road past the Three Cairns and the ruined bridge at White Falls. The stronghold's pale walls, narrow roofs and windows, and waterfalls appear built directly into limestone cliffs above a cold green lake.
 
+![Party-shared view of Quasqueton's exterior](../assets/quasqueton-exterior-player.png)
+
+The following engraving was shared as visual inspiration for Quasqueton. It is not a literal depiction of the stronghold or a map of its features.
+
+![Visual inspiration for Quasqueton; not a literal depiction](../assets/quasqueton-visual-inspiration.jpg)
+
+In Session 18 the party found edible berries and mushrooms on the approach. A fox told Orlin that winged hunters made fishing at the lake dangerous. The waterfall spray broke oddly at one point, suggesting a possible hollow behind it; no one checked. A haunting song compelled Sab until Grond restrained her. Two harpies attacked and were killed, but singing continued from an unseen source above.
+
+The abandoned upper camp yielded a collapsible fishing pole and a small jar of damp-hardened salt, both taken by Sab. The outer doors stood partly open. At the inner threshold a disembodied voice challenged entrants to speak their names in the house of Rogahn and Zelligar; it did not answer Sab's claim of ownership. A skeleton had been pinned to a door with a crude sword, covering writing in blood that appeared to be Orcish. No party member read it. Beyond were watch rooms overlooking the bridge and trail. The party closed doors behind itself and chose a small guardroom with rusted shutter mechanisms as a campsite.
+
 ## Current Relevance
 
-The party explicitly chose Quasqueton over the road to Castle Zentolin and is now at its exterior. Quasqueton is a distinct stronghold from Castle Zentolin.
+The party explicitly chose Quasqueton over the road to Castle Zentolin and is now inside its entrance guardroom, preparing to rest under watch. Quasqueton is a distinct stronghold from Castle Zentolin.
 
 ## Uncertainty
 
-The writ's legal force, the meaning of “lawful bearer,” the current occupants, and the truth behind Mazzah's rumors remain unresolved.
+The writ's legal force, the meaning of “lawful bearer,” the occupants beyond the entrance, the voice's source, the continuing singer, the Orcish message, and the truth behind Mazzah's rumors remain unresolved.
 
 ## Garden Connections
 

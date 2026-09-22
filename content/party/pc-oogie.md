@@ -16,7 +16,7 @@ Oogie is a fungal seer whose trances, omens, and unusual perspective make him th
 
 ## Current Situation
 
-Oogie is active at [[location-quasqueton|Quasqueton's]] exterior. He carries the [[item-cobra-headed-staff|Staff of the Cobra]], the returning dagger, the party's rough tablet map, and the clockwork venom reservoir he chose not to sell. At the Three Cairns he used Trance to show Sab several possible outcomes before Orlin peacefully drove off the starving wolves.
+Oogie is with the party in [[location-quasqueton|Quasqueton's]] entrance guardroom, preparing to rest. His omen on the approach showed possible winged singers above and a wet, web-filled route below; the lower route was not explored. He warned the others about Sab's likely enchantment and supported Grond with Rage and restored luck. He carries the [[item-cobra-headed-staff|Staff of the Cobra]], the returning dagger, the party's rough tablet map, and the clockwork venom reservoir.
 
 ## Defining History
 

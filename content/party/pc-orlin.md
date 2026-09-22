@@ -16,7 +16,7 @@ Orlin is a shapechanging adventurer whose bear-form strength, healing, bow work,
 
 ## Current Situation
 
-Orlin is active at [[location-quasqueton|Quasqueton's]] exterior. Mazzah identified his blue cloud weightlessness substance, Talisman of the Beastmaster, Tongue of the Beast, and Scroll of Spectacle. Near the Three Cairns, Orlin transformed into a wolf and used a ration plus warning posture to drive two starving wolves away without combat.
+Orlin is with the party in [[location-quasqueton|Quasqueton's]] entrance guardroom, preparing to rest. He used the [[item-wooden-tongue-carving|Tongue of the Beast]] to speak with a fox that feared winged hunters, plugged his ears against the harpy song, and killed the second attacking harpy with his bow. He exposed writing in blood behind a skeleton pinned to an inner door, but could not read it.
 
 ## Defining History
 

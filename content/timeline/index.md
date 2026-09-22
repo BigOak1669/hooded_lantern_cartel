@@ -39,3 +39,4 @@ This timeline tracks the campaign's major changes, not every room, purchase, or 
 ## The Road to Quasqueton
 
 - **2026-09-13 — [[2026_0913 Session 17|Session 17]]:** The party identified and sold its marked-mound haul, destroyed the Wand of Unlife, reported Mort's fate to the Fair Church, hired Katherine Guy, crossed the Three Cairns and White Falls without combat, and reached Quasqueton's exterior.
+- **2026-09-20 — [[2026_0920 Session 18|Session 18]]:** The party killed two harpies on Quasqueton's approach, entered its entrance watch rooms, and prepared to rest under watch after hearing an unseen voice and finding an unread Orcish blood message.

@@ -16,7 +16,7 @@ Sab is the party's halfling priest: an Old Gods devotee, healer, anti-undead spe
 
 ## Current Situation
 
-Sab is active at [[location-quasqueton|Quasqueton's]] exterior. In Session 17 she destroyed the Wand of Unlife, privately reported Mort's fate to Bartholomew, donated five gold to the Fair Church, detected the starving wolves near the Three Cairns, tested the old well, and tied off the White Falls crossing rope.
+Sab is in [[location-quasqueton|Quasqueton's]] entrance guardroom with the party, preparing to rest. On the approach in Session 18, a harpy song briefly drew her uphill until Grond restrained her. She blinded and killed one attacking harpy, then cast Protection from Evil on Oogie. She took a collapsible fishing pole and a small jar of hardened salt from the abandoned upper camp. Entering invisibly, she told a disembodied voice her name and claimed ownership while holding the recovered papers; it gave no reply.
 
 ## Defining History
 

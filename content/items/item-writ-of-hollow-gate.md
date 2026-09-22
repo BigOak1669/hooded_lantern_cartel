@@ -16,6 +16,8 @@ Party-held. Sab opened and resealed the tube during the search. In Session 16, t
 
 In Session 17, Mazzah examined the coat and papers and interpreted them as a possible ownership claim. He also supplied a route, and the party reached Quasqueton's exterior. The documents' current legal force, the identity of any competing claimant, and the stronghold's occupants remain unresolved.
 
+In Session 18, Sab held up the writ and declared herself a new owner when an unseen entrance voice asked intruders to name themselves. The voice did not reply, so the party's claim remains unrecognized.
+
 ## Garden Connections
 
 - [Quasqueton / Hollow Gate](../places/location-quasqueton)

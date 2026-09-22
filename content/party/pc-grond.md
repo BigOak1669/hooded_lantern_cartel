@@ -16,7 +16,7 @@ Grond is a kobold pit fighter and the party's most direct front-line bruiser. He
 
 ## Current Situation
 
-Grond is active at [[location-quasqueton|Quasqueton's]] exterior. He wears the [[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]] and carries [[item-werner-s-lucky-sledgehammer|Werner's sledgehammer]]. At the Three Cairns he found ten gold and divided it evenly; at White Falls he used the sledgehammer to set the crossing's piton securely.
+Grond is with the party in [[location-quasqueton|Quasqueton's]] entrance guardroom, preparing to rest. He resisted the harpy song, tackled Sab to free her from its hold, wounded both attacking harpies with his bow, and forced the swollen entrance doors quietly. He wears the [[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]] and carries [[item-werner-s-lucky-sledgehammer|Werner's sledgehammer]].
 
 ## Defining History
 

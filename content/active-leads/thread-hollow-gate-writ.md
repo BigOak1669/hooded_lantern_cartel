@@ -10,7 +10,7 @@ tags: [campaign, active-leads]
 
 The party recovered a damaged legal-looking writ from Tornar's rooms. It names the Hollow Gate of Quasqueton and grants a lawful bearer custody of its road-house, outer wall, spring, cave-mouth, stable court, and surrounding grounds, subject to Rogahn the Fearless, Zelligar the Unknown, or a lawful heir.
 
-In Session 16, the party found the body of Eldran Vey in the mound's eastern crypt. His brass plate identifies him as steward of Quasqueton and keeper of its road, spring, and outer wall. In Session 17, Mazzah examined the coat and papers, interpreted them as a possible ownership claim, and supplied the route. The party chose that road and reached Quasqueton's exterior.
+In Session 16, the party found the body of Eldran Vey in the mound's eastern crypt. His brass plate identifies him as steward of Quasqueton and keeper of its road, spring, and outer wall. In Session 17, Mazzah examined the coat and papers, interpreted them as a possible ownership claim, and supplied the route. In Session 18, the party entered Quasqueton. Sab held up the Hollow Gate writ and declared herself a new owner when an unseen entrance voice demanded names; no response followed.
 
 ## Why It Matters
 
@@ -19,7 +19,7 @@ The writ is now the basis for the party's current expedition and its interest in
 ## What Remains Uncertain
 
 - The writ's legal force and the identity of its lawful bearer.
-- Quasqueton's present occupants and condition beyond its visible exterior.
+- Quasqueton's present occupants and condition beyond its entrance rooms.
 - Whether Rogahn, Zelligar, or an heir still has a claim.
 - Whether the party can safely enter, clear, or use the stronghold.
 

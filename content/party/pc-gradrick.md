@@ -16,7 +16,7 @@ Gradrick is the party's witch, a back-line spellcaster whose Eye Bite and practi
 
 ## Current Situation
 
-Gradrick is active at [[location-quasqueton|Quasqueton's]] exterior. In Helix he left Tornar's journals with Mazzah for study and received a [[item-plant-speaking-draught|plant-speaking draught]] in exchange. At White Falls he cast the magic-carpet scroll that carried the full expedition across; the scroll was consumed when the spell expired.
+Gradrick is back in his normal form with the party at [[location-quasqueton|Quasqueton's]] entrance guardroom. On the approach he noticed an odd break in the waterfall spray, possibly indicating a hollow. He cast fog during the harpy attack. A failed attempt to maintain Eye Bite caused a magical mishap that turned him into a newt for three rounds; Sab carried him toward the entrance while it lasted. He still holds the [[item-plant-speaking-draught|plant-speaking draught]] from Mazzah.
 
 ## Defining History
 
