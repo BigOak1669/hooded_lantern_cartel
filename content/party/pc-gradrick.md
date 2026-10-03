@@ -16,7 +16,7 @@ Gradrick is the party's witch, a back-line spellcaster whose Eye Bite and practi
 
 ## Current Situation
 
-Gradrick is back in his normal form with the party at [[location-quasqueton|Quasqueton's]] entrance guardroom. On the approach he noticed an odd break in the waterfall spray, possibly indicating a hollow. He cast fog during the harpy attack. A failed attempt to maintain Eye Bite caused a magical mishap that turned him into a newt for three rounds; Sab carried him toward the entrance while it lasted. He still holds the [[item-plant-speaking-draught|plant-speaking draught]] from Mazzah.
+Gradrick is in normal form with the party in [[location-quasqueton|Quasqueton's]] cleared upper tower. During the [[2026_0927 Session 19|Session 19]] guardroom rest he used the [[item-crystal-owl|Owl of Magnus]] to watch the hallway and retrieved it before moving on. He lit his lantern, sent his flying bat-winged frog familiar toward the harpy nest, and collected 42 gold in total before the party divided it; his share was 10. He reported that the familiar can carry spells; his level-three talent lets him teleport to it once per day. He still holds Mazzah's [[item-plant-speaking-draught|plant-speaking draught]].
 
 ## Defining History
 
@@ -47,6 +47,7 @@ Transcript spellings of Gradrick's name are unusually unstable; the aliases abov
 
 ## Garden Connections
 
+- [Quasqueton / Hollow Gate](../places/location-quasqueton)
 - [Sab](../party/pc-sab)
 - [Oogie](../party/pc-oogie)
 - [Orlin](../party/pc-orlin)

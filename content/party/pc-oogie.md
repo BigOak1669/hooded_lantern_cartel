@@ -16,7 +16,7 @@ Oogie is a fungal seer whose trances, omens, and unusual perspective make him th
 
 ## Current Situation
 
-Oogie is with the party in [[location-quasqueton|Quasqueton's]] entrance guardroom, preparing to rest. His omen on the approach showed possible winged singers above and a wet, web-filled route below; the lower route was not explored. He warned the others about Sab's likely enchantment and supported Grond with Rage and restored luck. He carries the [[item-cobra-headed-staff|Staff of the Cobra]], the returning dagger, the party's rough tablet map, and the clockwork venom reservoir.
+Oogie is with the party in [[location-quasqueton|Quasqueton's]] cleared upper tower. In [[2026_0927 Session 19|Session 19]] he detected a faint bitter incense smell from deeper inside, noticed oversized rodent tracks, foresaw the door opening, and cast Rage on Grond. His summoned cobra finished the harpy that Grond critically wounded. He took 10 gold and a nonmagical gold or gold-plated sword-and-star buckle estimated at 30–40 gold. He carries the [[item-cobra-headed-staff|Staff of the Cobra]], returning dagger, rough tablet map, and clockwork venom reservoir; whether the cobra returned to staff form before the session ended is unconfirmed.
 
 ## Defining History
 
@@ -50,6 +50,7 @@ The copied tablet map is explicitly imperfect. Its larger geography should be tr
 
 ## Garden Connections
 
+- [Quasqueton / Hollow Gate](../places/location-quasqueton)
 - [Sab](../party/pc-sab)
 - [Orlin](../party/pc-orlin)
 - [Gradrick](../party/pc-gradrick)

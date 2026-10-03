@@ -1,12 +1,12 @@
 ---
 title: "Quasqueton / Hollow Gate"
-description: "Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. In Session 18 the group entered the outer watch rooms and chose an inner guardroom for shelter. They have not…"
+description: "Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. The party completed its guardroom rest and cleared the upper harpy nest in Session 19. Play ended in the upper…"
 tags: [campaign, places]
 ---
 
 # Quasqueton / Hollow Gate
 
-Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. In Session 18 the group entered the outer watch rooms and chose an inner guardroom for shelter. They have not completed a rest or explored deeper.
+Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. The party completed its guardroom rest and cleared the upper harpy nest in [[2026_0927 Session 19|Session 19]]. Play ended in the upper tower; the rest of the stronghold remains unexplored.
 
 ## What the Party Has Seen
 
@@ -28,16 +28,22 @@ In Session 18 the party found edible berries and mushrooms on the approach. A fo
 
 The abandoned upper camp yielded a collapsible fishing pole and a small jar of damp-hardened salt, both taken by Sab. The outer doors stood partly open. At the inner threshold a disembodied voice challenged entrants to speak their names in the house of Rogahn and Zelligar; it did not answer Sab's claim of ownership. A skeleton had been pinned to a door with a crude sword, covering writing in blood that appeared to be Orcish. No party member read it. Beyond were watch rooms overlooking the bridge and trail. The party closed doors behind itself and chose a small guardroom with rusted shutter mechanisms as a campsite.
 
+In Session 19 the guardroom rest completed without an attack. Sab plugged an old rat hole with fresh seed husks beside it; Gradrick heard distant laughter from above, and Grond found a faded sword-and-star mark. Oogie detected faint bitter incense, later independently confirmed by Grond, coming from deeper inside. Beyond the double doors lay a vaulted hall with a shallow fountain basin bearing the builders' emblem and an apparently plugged drain. Oversized rodent tracks led down the interior hallway and up and down an ascending stair.
+
+The party went upstairs to secure outside provisioning. The upper circular tower contained a raised nest of bones, fur, feathers, glass scraps, and valuables. Grond critically wounded its lone visible harpy, and Oogie's summoned cobra killed it. No other harpies or eggs were found nearby, and Wade described the nest as fully cleared. Three harpies have been killed across Sessions 18 and 19. The nest contained animal, oversized rodent, and humanoid bones, 42 gold, Sab's silver-finished mirror, and Oogie's nonmagical sword-and-star buckle. Clearing this immediate threat does not establish that the entire stronghold is safe.
+
 ## Current Relevance
 
-The party explicitly chose Quasqueton over the road to Castle Zentolin and is now inside its entrance guardroom, preparing to rest under watch. Quasqueton is a distinct stronghold from Castle Zentolin.
+The party chose Quasqueton over the road to Castle Zentolin and is now in the cleared upper tower with Katherine Guy. Its immediate aim was safer access to outside supplies. The deeper hallway, incense source, and oversized rodent signs remain available for exploration. Quasqueton is a distinct stronghold from Castle Zentolin.
 
 ## Uncertainty
 
-The writ's legal force, the meaning of “lawful bearer,” the occupants beyond the entrance, the voice's source, the continuing singer, the Orcish message, and the truth behind Mazzah's rumors remain unresolved.
+The writ's legal force, the meaning of “lawful bearer,” the wider stronghold's occupants, the incense source, the living makers of the rodent tracks, the entrance voice, the Orcish blood message, the possible waterfall hollow, and Mazzah's rumors remain unresolved.
 
 ## Garden Connections
 
+- [Katherine Guy](../people/npc-katherine-guy)
+- [Staff of the Cobra](../items/item-cobra-headed-staff)
 - [Writ of the Hollow Gate](../items/item-writ-of-hollow-gate)
 - [Castle Zentolin](../places/location-castle-zentolin)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)

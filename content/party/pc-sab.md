@@ -16,7 +16,7 @@ Sab is the party's halfling priest: an Old Gods devotee, healer, anti-undead spe
 
 ## Current Situation
 
-Sab is in [[location-quasqueton|Quasqueton's]] entrance guardroom with the party, preparing to rest. On the approach in Session 18, a harpy song briefly drew her uphill until Grond restrained her. She blinded and killed one attacking harpy, then cast Protection from Evil on Oogie. She took a collapsible fishing pole and a small jar of hardened salt from the abandoned upper camp. Entering invisibly, she told a disembodied voice her name and claimed ownership while holding the recovered papers; it gave no reply.
+Sab is with the party in [[location-quasqueton|Quasqueton's]] cleared upper tower after a completed guardroom rest. In [[2026_0927 Session 19|Session 19]] she proposed clearing the harpy nest to secure access to outside provisions, protected Gradrick and Oogie under an encounter-specific allowance, and took an ornate silver-finished hand mirror and 10 gold. The mirror's closing estimate was 15–20 gold, without a sale. She reached level four after Session 18's four XP was confirmed, reported a delayed level-three talent granting +2 Strength, and selected Cleansing Weapon. She retains the fishing pole, hardened salt, and recovered Hollow Gate papers from the approach.
 
 ## Defining History
 
@@ -54,6 +54,7 @@ The exact name of Sab's Old Gods tradition varies in table talk. Her devotion is
 
 ## Garden Connections
 
+- [Quasqueton / Hollow Gate](../places/location-quasqueton)
 - [Oogie](../party/pc-oogie)
 - [Orlin](../party/pc-orlin)
 - [Gradrick](../party/pc-gradrick)

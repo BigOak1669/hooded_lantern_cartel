@@ -16,7 +16,7 @@ Orlin is a shapechanging adventurer whose bear-form strength, healing, bow work,
 
 ## Current Situation
 
-Orlin is with the party in [[location-quasqueton|Quasqueton's]] entrance guardroom, preparing to rest. He used the [[item-wooden-tongue-carving|Tongue of the Beast]] to speak with a fox that feared winged hunters, plugged his ears against the harpy song, and killed the second attacking harpy with his bow. He exposed writing in blood behind a skeleton pinned to an inner door, but could not read it.
+Orlin was last described in [[location-quasqueton|Quasqueton's]] entrance guardroom at the end of Session 18. He had no played actions in [[2026_0927 Session 19|Session 19]]; no in-world departure or new location was established. He used the [[item-wooden-tongue-carving|Tongue of the Beast]] to speak with a fox that feared winged hunters, plugged his ears against the harpy song, and killed the second attacking harpy with his bow. He exposed writing in blood behind a skeleton pinned to an inner door, but could not read it.
 
 ## Defining History
 

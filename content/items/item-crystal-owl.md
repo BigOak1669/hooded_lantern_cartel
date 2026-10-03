@@ -12,6 +12,8 @@ The Owl of Magnus is a magical crystal owl recovered from one of Vakish's barrow
 
 Gradrick placed the owl opposite the serpent-and-skull marked mound. Through it, he identified Mouse's delivery routine, the concealed knock, and the large gray-green recipient inside. The party recovered the owl when it left the mound in Session 16, and it is again in Gradrick's possession.
 
+In [[2026_0927 Session 19|Session 19]] Gradrick placed it outside Quasqueton's entrance guardroom to watch the hallway during his overnight watch, then retrieved it before the party explored farther. It remains in his possession.
+
 “Texas” has been used jokingly as a possible name; the Owl of Magnus remains the established item name.
 
 ## Garden Connections
@@ -19,3 +21,4 @@ Gradrick placed the owl opposite the serpent-and-skull marked mound. Through it,
 - [Gradrick](../party/pc-gradrick)
 - [Mazzah](../people/npc-mazzah)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
+- [Quasqueton / Hollow Gate](../places/location-quasqueton)
