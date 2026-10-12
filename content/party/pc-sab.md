@@ -16,7 +16,7 @@ Sab is the party's halfling priest: an Old Gods devotee, healer, anti-undead spe
 
 ## Current Situation
 
-Sab is with the party in [[location-quasqueton|Quasqueton's]] cleared upper tower after a completed guardroom rest. In [[2026_0927 Session 19|Session 19]] she proposed clearing the harpy nest to secure access to outside provisions, protected Gradrick and Oogie under an encounter-specific allowance, and took an ornate silver-finished hand mirror and 10 gold. The mirror's closing estimate was 15–20 gold, without a sale. She reached level four after Session 18's four XP was confirmed, reported a delayed level-three talent granting +2 Strength, and selected Cleansing Weapon. She retains the fishing pole, hardened salt, and recovered Hollow Gate papers from the approach.
+Sab is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]]. In [[2026_1011 Session 20|Session 20]] she lit her shield, killed a centipede with Smite, then covered the shield to avoid frightening the rats. She drank the draught Mazzah had given Gradrick, interpreted Greenheart, and conditionally agreed to try to recover its children or secure peace. She introduced herself as a devotee of Odin, Skyfather. She remains level four with 0/40 XP reported at the opening; no XP was awarded. She retains the Hollow Gate papers, her silver-finished mirror, and the approach's fishing pole and salt.
 
 ## Defining History
 
@@ -50,10 +50,11 @@ Sab passed Tiramel's returning dagger to Oogie in Session 12.
 
 ## Uncertainty
 
-The exact name of Sab's Old Gods tradition varies in table talk. Her devotion is established; a narrower doctrinal label is not.
+Sab explicitly introduced herself to Greenheart as a devotee of Odin, Skyfather, in Session 20. Earlier records use broader Old Gods language; no narrower doctrinal structure is established.
 
 ## Garden Connections
 
+- [Greenheart](../people/npc-greenheart)
 - [Quasqueton / Hollow Gate](../places/location-quasqueton)
 - [Oogie](../party/pc-oogie)
 - [Orlin](../party/pc-orlin)

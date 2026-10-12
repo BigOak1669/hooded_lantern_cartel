@@ -1,12 +1,12 @@
 ---
 title: "Quasqueton / Hollow Gate"
-description: "Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. The party completed its guardroom rest and cleared the upper harpy nest in Session 19. Play ended in the upper…"
+description: "Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. After clearing the upper harpy nest, the party explored branching upper corridors in Session 20 and made peaceful…"
 tags: [campaign, places]
 ---
 
 # Quasqueton / Hollow Gate
 
-Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. The party completed its guardroom rest and cleared the upper harpy nest in [[2026_0927 Session 19|Session 19]]. Play ended in the upper tower; the rest of the stronghold remains unexplored.
+Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. After clearing the upper harpy nest, the party explored branching upper corridors in [[2026_1011 Session 20|Session 20]] and made peaceful contact with [[npc-greenheart|Greenheart]]. Play ended in its altered-rat nursery; areas below and many interior branches remain unexplored.
 
 ## What the Party Has Seen
 
@@ -32,16 +32,23 @@ In Session 19 the guardroom rest completed without an attack. Sab plugged an old
 
 The party went upstairs to secure outside provisioning. The upper circular tower contained a raised nest of bones, fur, feathers, glass scraps, and valuables. Grond critically wounded its lone visible harpy, and Oogie's summoned cobra killed it. No other harpies or eggs were found nearby, and Wade described the nest as fully cleared. Three harpies have been killed across Sessions 18 and 19. The nest contained animal, oversized rodent, and humanoid bones, 42 gold, Sab's silver-finished mirror, and Oogie's nonmagical sword-and-star buckle. Clearing this immediate threat does not establish that the entire stronghold is safe.
 
+In Session 20 a passage off the upper tower was blocked by dense vegetation. A moss-furred, leaf-eared rat led the party through dark branching corridors after Orlin spoke with it. Two venomous centipedes were killed on the way; Gradrick took one damage without poisoning. Behind an old mold-covered door lay [[npc-greenheart|Greenheart's nursery]], with deep vegetation, glowing fungi, raised rat nests, and the pulsing three-chambered plant. The party entered peacefully and accepted a conditional [[thread-greenheart-captives|rescue or peace request]] concerning web-using captors below.
+
+A contrasting pristine door opened onto [[npc-lumpy|Lumpy's]] familiar, warm equipment room. Oogie bought rope, returned to the corridor, and the door closed behind him. The mechanism and permanence of the connection remain unknown.
+
 ## Current Relevance
 
-The party chose Quasqueton over the road to Castle Zentolin and is now in the cleared upper tower with Katherine Guy. Its immediate aim was safer access to outside supplies. The deeper hallway, incense source, and oversized rodent signs remain available for exploration. Quasqueton is a distinct stronghold from Castle Zentolin.
+The party is in Greenheart's nursery with Katherine Guy. It intends to try to recover Greenheart's children or secure peace with the reported many-eyed ones below, then potentially return a heart seed north. The upper rat inhabitants now provide a possible explanation for some earlier rodent signs, without proving they made every track. The incense source and wider interior remain unexplored. Quasqueton is distinct from Castle Zentolin.
 
 ## Uncertainty
 
-The writ's legal force, the meaning of “lawful bearer,” the wider stronghold's occupants, the incense source, the living makers of the rodent tracks, the entrance voice, the Orcish blood message, the possible waterfall hollow, and Mazzah's rumors remain unresolved.
+The writ's legal force, the meaning of “lawful bearer,” the wider stronghold's occupants, the incense source, whether the nursery's rats made all earlier rodent tracks, the entrance voice, the Orcish blood message, the possible waterfall hollow, and Mazzah's rumors remain unresolved.
 
 ## Garden Connections
 
+- [Greenheart](../people/npc-greenheart)
+- [Lumpy](../people/npc-lumpy)
+- [Greenheart's Captives and Heart Seed](../active-leads/thread-greenheart-captives)
 - [Katherine Guy](../people/npc-katherine-guy)
 - [Staff of the Cobra](../items/item-cobra-headed-staff)
 - [Writ of the Hollow Gate](../items/item-writ-of-hollow-gate)

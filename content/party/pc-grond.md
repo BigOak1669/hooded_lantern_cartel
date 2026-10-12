@@ -16,7 +16,7 @@ Grond is a kobold pit fighter and the party's most direct front-line bruiser. He
 
 ## Current Situation
 
-Grond is with the party in [[location-quasqueton|Quasqueton's]] cleared upper tower. In [[2026_0927 Session 19|Session 19]] he confirmed the faint interior incense, opened the swollen double doors quietly, scouted the harpy nest under Oogie's Rage, and critically shot its occupant for 13 damage before Oogie's cobra finished it. He reached level four after Session 18's four XP was confirmed and received 12 gold from the nest. He wears the [[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]] and carries [[item-werner-s-lucky-sledgehammer|Werner's sledgehammer]].
+Grond is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]]. In [[2026_1011 Session 20|Session 20]] he found the blocked upper passage, wounded a centipede with his bow, forced the nursery door, and stowed his weapons before entering peacefully. He reported level four with 0/40 XP at the opening; no XP was awarded. He still wears the [[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]] and carries [[item-werner-s-lucky-sledgehammer|Werner's sledgehammer]].
 
 ## Defining History
 
@@ -47,6 +47,7 @@ The sledgehammer is sometimes called a warhammer in noisy transcripts. The campa
 
 ## Garden Connections
 
+- [Greenheart](../people/npc-greenheart)
 - [Quasqueton / Hollow Gate](../places/location-quasqueton)
 - [Sab](../party/pc-sab)
 - [Oogie](../party/pc-oogie)

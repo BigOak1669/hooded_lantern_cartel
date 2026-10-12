@@ -16,7 +16,7 @@ Oogie is a fungal seer whose trances, omens, and unusual perspective make him th
 
 ## Current Situation
 
-Oogie is with the party in [[location-quasqueton|Quasqueton's]] cleared upper tower. In [[2026_0927 Session 19|Session 19]] he detected a faint bitter incense smell from deeper inside, noticed oversized rodent tracks, foresaw the door opening, and cast Rage on Grond. His summoned cobra finished the harpy that Grond critically wounded. He took 10 gold and a nonmagical gold or gold-plated sword-and-star buckle estimated at 30–40 gold. He carries the [[item-cobra-headed-staff|Staff of the Cobra]], returning dagger, rough tablet map, and clockwork venom reservoir; whether the cobra returned to staff form before the session ended is unconfirmed.
+Oogie is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]]. In [[2026_1011 Session 20|Session 20]] his mycelial contact revealed a nursery of altered rats without general aggression, and he urged the group to treat them peacefully. A pristine doorway led him to [[npc-lumpy|Lumpy's]] familiar equipment room, where he bought 60 feet of rope for one gold before returning. He corrected his missing talent by raising Wisdom to 16 and selected Fate as his tier-two spell. He reported level three with 14/30 XP; no XP was awarded. He retains the Staff of the Cobra and his nonmagical sword-and-star buckle; the staff's final form was not newly established.
 
 ## Defining History
 
@@ -50,6 +50,7 @@ The copied tablet map is explicitly imperfect. Its larger geography should be tr
 
 ## Garden Connections
 
+- [Greenheart](../people/npc-greenheart)
 - [Quasqueton / Hollow Gate](../places/location-quasqueton)
 - [Sab](../party/pc-sab)
 - [Orlin](../party/pc-orlin)

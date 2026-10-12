@@ -1,6 +1,6 @@
 ---
 title: "Orlin"
-description: "Orlin is a shapechanging adventurer whose bear-form strength, healing, bow work, and alertness make him a flexible explorer. The table has described him as a beastmaster-in-training; a more exact class label has not been established in the…"
+description: "Orlin is a Beastmaster whose shapechanging, bear-form strength, healing, bow work, and alertness make him a flexible explorer. His bear and wolf forms complement his growing rapport with animals."
 tags: [campaign, party]
 ---
 
@@ -12,11 +12,11 @@ tags: [campaign, party]
 
 ## At a Glance
 
-Orlin is a shapechanging adventurer whose bear-form strength, healing, bow work, and alertness make him a flexible explorer. The table has described him as a beastmaster-in-training; a more exact class label has not been established in the campaign record.
+Orlin is a Beastmaster whose shapechanging, bear-form strength, healing, bow work, and alertness make him a flexible explorer. His bear and wolf forms complement his growing rapport with animals.
 
 ## Current Situation
 
-Orlin was last described in [[location-quasqueton|Quasqueton's]] entrance guardroom at the end of Session 18. He had no played actions in [[2026_0927 Session 19|Session 19]]; no in-world departure or new location was established. He used the [[item-wooden-tongue-carving|Tongue of the Beast]] to speak with a fox that feared winged hunters, plugged his ears against the harpy song, and killed the second attacking harpy with his bow. He exposed writing in blood behind a skeleton pinned to an inner door, but could not read it.
+Orlin is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]]. In [[2026_1011 Session 20|Session 20]] he began rested, used the [[item-wooden-tongue-carving|Tongue of the Beast]] to speak with a light-sensitive rat guide and the nursery's inhabitants, and killed a centipede with bear claws. He activated the [[item-claw-and-bone-talisman|Talisman of the Beastmaster]] to attract a nearby ordinary animal; the rat returned, but a causal connection was not established. He encouraged peaceful entry and reassured the rats. He and the group drank sap and shared Greenheart's vision.
 
 ## Defining History
 
@@ -44,10 +44,11 @@ Orlin was last described in [[location-quasqueton|Quasqueton's]] entrance guardr
 
 ## Uncertainty
 
-Orlin's class has been described indirectly through abilities and table talk. Shapechanging and a developing beastmaster identity are supported; a narrower label is not.
+Earlier records described Orlin as a beastmaster-in-training. The Session 20 class and talent discussion explicitly identified him as a Beastmaster, with bear and wolf forms.
 
 ## Garden Connections
 
+- [Greenheart](../people/npc-greenheart)
 - [Sab](../party/pc-sab)
 - [Oogie](../party/pc-oogie)
 - [Gradrick](../party/pc-gradrick)

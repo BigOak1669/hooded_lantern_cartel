@@ -16,7 +16,7 @@ Gradrick is the party's witch, a back-line spellcaster whose Eye Bite and practi
 
 ## Current Situation
 
-Gradrick is in normal form with the party in [[location-quasqueton|Quasqueton's]] cleared upper tower. During the [[2026_0927 Session 19|Session 19]] guardroom rest he used the [[item-crystal-owl|Owl of Magnus]] to watch the hallway and retrieved it before moving on. He lit his lantern, sent his flying bat-winged frog familiar toward the harpy nest, and collected 42 gold in total before the party divided it; his share was 10. He reported that the familiar can carry spells; his level-three talent lets him teleport to it once per day. He still holds Mazzah's [[item-plant-speaking-draught|plant-speaking draught]].
+Gradrick is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]], accompanied by Splat, his flying frog familiar. In [[2026_1011 Session 20|Session 20]] a centipede bit him for one damage, but he resisted its poison. He considered sending Splat under the nursery door and did not do so. Sab consumed the draught Mazzah had given him to speak with Greenheart; he no longer holds that draught. His once-daily talent to teleport to his familiar was reaffirmed during the opening sheet check.
 
 ## Defining History
 
@@ -33,7 +33,6 @@ Gradrick is in normal form with the party in [[location-quasqueton|Quasqueton's]
 - [[item-crystal-owl|Owl of Magnus]], recovered after the marked-mound expedition
 - Charm Person spell scroll
 - Hypnotize spellbook
-- [[item-plant-speaking-draught|Plant-speaking draught]]
 
 ## Relationships
 
@@ -47,6 +46,7 @@ Transcript spellings of Gradrick's name are unusually unstable; the aliases abov
 
 ## Garden Connections
 
+- [Greenheart](../people/npc-greenheart)
 - [Quasqueton / Hollow Gate](../places/location-quasqueton)
 - [Sab](../party/pc-sab)
 - [Oogie](../party/pc-oogie)

@@ -28,6 +28,7 @@ nav_order: 9
 - **Encounter: Sculptural Battle Chamber Statues** <small>(Encounters)</small> — Combat in the third Vakish mound after removing the hero belt from the elven warrior statue animated three stone lizardfolk and coincided with a half-formed skeleton threat.
 - **Encounter: Water zombie ambush** <small>(Encounters)</small> — Multiple water zombies attacked the party inside a flooded Barrow Mounds tomb.
 - **Cloak of the Traveler** <small>(Items)</small> — Earlier protective cloak from Vakish Baharus that guarded against fire and cold. The party returned it in Session 12 when choosing to keep the Belt of the Thornswild.
+- **Plant-Speaking Draught** <small>(Items)</small> — Mazzah gave this root-choked concoction to Gradrick after accepting Tornar's journals for study. He said it would allow the drinker to speak with plants; Sab's use in Session 20 demonstrated that effect.
 - **Wand of Unlife** <small>(Items)</small> — A wand shaped like an oversized finger bone, held by Tornar during the attempted animation of Mara and other prepared dead.
 - **Shag Hag** <small>(Party)</small> — Shag Hag was Spencer's character and appeared in the Session 09 party record. The surviving campaign material does not establish a class, history, or later activity, and Shag Hag is not on the current roster.
 - **Finn** <small>(People)</small> — Lantern-bearer and guide hired by the party for Barrow Mounds expeditions, useful under pressure but transactional enough to make his cut and head for town once the job was done.

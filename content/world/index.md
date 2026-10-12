@@ -19,12 +19,12 @@ nav_order: 5
 ### People
 
 - [Arch / Archie](../people/npc-arch-archie)
-- [Bartholomew](../people/npc-bartholomew)
 - [Bolo](../people/npc-bolo)
 - [Gant](../people/npc-gant)
+- [Greenheart](../people/npc-greenheart)
 - [Katherine Guy](../people/npc-katherine-guy)
+- [Lumpy](../people/npc-lumpy)
 - [Mazzah](../people/npc-mazzah)
-- [Mort](../people/npc-mort)
 - [Vakish Baharus](../people/npc-vakish-baharus)
 
 ### Places
@@ -33,7 +33,6 @@ nav_order: 5
 - [Helix](../places/location-helix)
 - [Mazzah's Tower](../places/location-mazahs-tower)
 - [Quasqueton / Hollow Gate](../places/location-quasqueton)
-- [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
 - [The Barrow Mounds](../places/location-barrow-mounds)
 - [The Brazen Strumpet](../places/location-brazen-strumpet)
 - [The Fair Church](../places/location-fair-church)
@@ -54,7 +53,6 @@ nav_order: 5
 - [Blue Cloud Weightlessness Substance](../items/item-blue-cloud-potion)
 - [Charm Person Spell Scroll](../items/item-charm-person-spell-scroll)
 - [Owl of Magnus](../items/item-crystal-owl)
-- [Plant-Speaking Draught](../items/item-plant-speaking-draught)
 - [Potion of Invisibility](../items/item-potion-of-invisibility)
 - [Returning Dagger](../items/item-returning-dagger)
 - [Scroll of Spectacle](../items/item-session-15-spell-scroll-tube)
