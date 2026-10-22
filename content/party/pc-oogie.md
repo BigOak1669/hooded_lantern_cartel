@@ -1,6 +1,6 @@
 ---
 title: "Oogie"
-description: "Oogie is a fungal seer whose trances, omens, and unusual perspective make him the party's occult support and intuitive investigator. His mycelial nature became materially important when the Fair Church restored him in its cemetery compost…"
+description: "Oogie is a Mycellan seer whose trances, omens, and unusual perspective make him the party's occult support and intuitive investigator. His mycelial nature became materially important when the Fair Church restored him in its cemetery…"
 tags: [campaign, party]
 ---
 
@@ -12,11 +12,32 @@ tags: [campaign, party]
 
 ## At a Glance
 
-Oogie is a fungal seer whose trances, omens, and unusual perspective make him the party's occult support and intuitive investigator. His mycelial nature became materially important when the Fair Church restored him in its cemetery compost after a fatal barrow expedition.
+Oogie is a Mycellan seer whose trances, omens, and unusual perspective make him the party's occult support and intuitive investigator. His mycelial nature became materially important when the Fair Church restored him in its cemetery compost after a fatal barrow expedition.
+
+## Identity
+
+- **Ancestry:** Mycellan.
+- **Class:** Seer.
 
 ## Current Situation
 
 Oogie is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]]. In [[2026_1011 Session 20|Session 20]] his mycelial contact revealed a nursery of altered rats without general aggression, and he urged the group to treat them peacefully. A pristine doorway led him to [[npc-lumpy|Lumpy's]] familiar equipment room, where he bought 60 feet of rope for one gold before returning. He corrected his missing talent by raising Wisdom to 16 and selected Fate as his tier-two spell. He reported level three with 14/30 XP; no XP was awarded. He retains the Staff of the Cobra and his nonmagical sword-and-star buckle; the staff's final form was not newly established.
+
+## Documented Spells and Abilities
+
+This is a record of confirmed choices and demonstrated abilities, not a complete character sheet.
+
+- **Trance:** grants another creature a luck token and has accompanied shared glimpses of possible futures, including the tablet chamber and the Three Cairns encounter.
+- **Evoke Rage:** usually called Rage in play; empowers a companion's strength and damage. Its normal duration requires the target to keep attacking; the extended stealth use in Session 19 was a temporary allowance.
+- **Fate:** selected as his tier-two spell in Session 20; damages a target and removes its luck tokens. No casting has yet been recorded.
+- **Foresight and luck support:** uses called Omen in play have revealed possible dangers and restored companions' luck. The record does not establish Omen as a separate learned spell.
+- **Rapport spores:** used to enable direct communication with Nara and the party in the marked mound.
+- **Mycelial contact:** connected to Quasqueton's growth and perceived Greenheart's nursery and its altered rats. The wider limits of this ability remain unstated.
+- **Wisdom talent:** added +2 Wisdom during the Session 20 sheet check, bringing Wisdom to 16.
+
+## Item-Granted Powers
+
+- **[[item-cobra-headed-staff|Staff of the Cobra]]:** +1 staff with a once-daily transformation into a serpent servant; snakes regard Oogie as friendly. The cobra returns to staff form if killed. Session 19's once-per-game allowance did not replace the daily limit.
 
 ## Defining History
 

@@ -14,9 +14,36 @@ tags: [campaign, party]
 
 Sab is the party's halfling priest: an Old Gods devotee, healer, anti-undead specialist, and frequent voice of caution. Her divine magic, crossbow, and halfling invisibility let her move between support, scouting, and precise violence.
 
+## Identity
+
+- **Ancestry:** Halfling.
+- **Class:** Priest.
+- **Devotion:** Odin, Skyfather, also addressed as the Allfather.
+
 ## Current Situation
 
 Sab is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]]. In [[2026_1011 Session 20|Session 20]] she lit her shield, killed a centipede with Smite, then covered the shield to avoid frightening the rats. She drank the draught Mazzah had given Gradrick, interpreted Greenheart, and conditionally agreed to try to recover its children or secure peace. She introduced herself as a devotee of Odin, Skyfather. She remains level four with 0/40 XP reported at the opening; no XP was awarded. She retains the Hollow Gate papers, her silver-finished mirror, and the approach's fishing pole and salt.
+
+## Documented Spells and Abilities
+
+This is a record of confirmed choices and demonstrated abilities, not a complete character sheet.
+
+- **Cure Wounds:** used to heal Grond after the Thornswild tomb's spike pit, among other healing scenes.
+- **Holy Weapon:** used to bless Grond's hammer before entering the marked mound.
+- **Turn Undead:** used during barrow retreats and Tornar's rite, where it ended the undead activity and destroyed Nara.
+- **Smite:** used against ravenous zombies and a Quasqueton centipede.
+- **Blind/Deafen:** the spellbook came from Mazzah; her later blinding of a harpy confirms she could cast it.
+- **Protection from Evil:** used to protect companions during the harpy encounters. Session 19's simultaneous protection of two targets was a temporary allowance, not an ongoing expansion of the spell.
+- **Light:** cast on her shield in Session 20.
+- **Cleansing Weapon:** selected as a tier-two spell in Session 19; no casting has yet been recorded.
+- **Halfling invisibility:** used for scouting, including entry into Quasqueton. This ancestry ability is distinct from her cloak.
+- **Talents:** +1 to ranged attack rolls at level one and +2 Strength from her level-three talent, both confirmed in the Session 20 sheet check.
+
+## Item-Granted Powers
+
+- **[[item-cloak-of-elvenkind|Cloak of Elvenkind]]:** helps the wearer hide and has described stealth/invisibility properties; separate from halfling invisibility.
+
+The plant speech used with Greenheart came from a consumed draught, not a learned spell or permanent ability.
 
 ## Defining History
 

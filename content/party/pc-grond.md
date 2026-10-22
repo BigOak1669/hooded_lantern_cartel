@@ -14,9 +14,27 @@ tags: [campaign, party]
 
 Grond is a kobold pit fighter and the party's most direct front-line bruiser. He favors practical force, shields companions in a retreat, and has also shown a surprisingly warm rapport with the people of Helix.
 
+## Identity
+
+- **Ancestry:** Kobold.
+- **Class:** Pit Fighter.
+
 ## Current Situation
 
 Grond is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]]. In [[2026_1011 Session 20|Session 20]] he found the blocked upper passage, wounded a centipede with his bow, forced the nursery door, and stowed his weapons before entering peacefully. He reported level four with 0/40 XP at the opening; no XP was awarded. He still wears the [[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]] and carries [[item-werner-s-lucky-sledgehammer|Werner's sledgehammer]].
+
+## Documented Spells and Abilities
+
+These abilities were explicitly reported during the Session 20 sheet check; this is not a complete character sheet.
+
+- **Walk It Off:** once per day, ignores all damage and effects from one attack.
+- **Flourish:** reported as three uses per day; regains 1d6 hit points when he hits someone with a melee attack.
+
+## Item-Granted Powers
+
+- **[[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]]:** grants +4 Strength while worn. This bonus comes from the belt, not an ancestry or class talent.
+
+The Rage effects Grond has received are temporary spells cast by Oogie, not an ability Grond has been shown to activate himself.
 
 ## Defining History
 

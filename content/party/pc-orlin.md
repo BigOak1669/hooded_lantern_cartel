@@ -1,6 +1,6 @@
 ---
 title: "Orlin"
-description: "Orlin is a Beastmaster whose shapechanging, bear-form strength, healing, bow work, and alertness make him a flexible explorer. His bear and wolf forms complement his growing rapport with animals."
+description: "Orlin is a Shadow Elf Beastmaster whose shapechanging, bear-form strength, healing, bow work, and alertness make him a flexible explorer. His bear and wolf forms complement his growing rapport with animals."
 tags: [campaign, party]
 ---
 
@@ -12,11 +12,32 @@ tags: [campaign, party]
 
 ## At a Glance
 
-Orlin is a Beastmaster whose shapechanging, bear-form strength, healing, bow work, and alertness make him a flexible explorer. His bear and wolf forms complement his growing rapport with animals.
+Orlin is a Shadow Elf Beastmaster whose shapechanging, bear-form strength, healing, bow work, and alertness make him a flexible explorer. His bear and wolf forms complement his growing rapport with animals.
+
+## Identity
+
+- **Ancestry:** Shadow Elf.
+- **Class:** Beastmaster.
+- **Reported languages:** Bear, Canine, Common, Drow, and Elvish.
 
 ## Current Situation
 
 Orlin is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]]. In [[2026_1011 Session 20|Session 20]] he began rested, used the [[item-wooden-tongue-carving|Tongue of the Beast]] to speak with a light-sensitive rat guide and the nursery's inhabitants, and killed a centipede with bear claws. He activated the [[item-claw-and-bone-talisman|Talisman of the Beastmaster]] to attract a nearby ordinary animal; the rat returned, but a causal connection was not established. He encouraged peaceful entry and reassured the rats. He and the group drank sap and shared Greenheart's vision.
+
+## Documented Spells and Abilities
+
+This is a record of confirmed choices and demonstrated abilities, not a complete character sheet.
+
+- **Bear and wolf forms:** bear claws and strength have supported combat and forced entrances; wolf form helped resolve the Three Cairns encounter peacefully.
+- **Additional beast form:** his first talent granted a second Beastmaster form, accounting for access to both bear and wolf forms.
+- **Friend of the Shadows:** when Orlin is in darkness, monsters attack allies first.
+
+## Item-Granted Powers
+
+- **[[item-wooden-tongue-carving|Tongue of the Beast]]:** after a turn focusing on one kind of animal, permits communication with that animal type. Orlin has used it with a fox and the altered rats; it did not let him speak directly with Greenheart.
+- **[[item-claw-and-bone-talisman|Talisman of the Beastmaster]]:** grants +1 to natural attacks. Once daily, a successful claw wound can attract a nearby ordinary animal, curious but uncontrollable. Orlin activated this power in Session 20; whether it caused the rat guide's return remains uncertain.
+- **[[item-session-15-spell-scroll-tube|Scroll of Spectacle]]:** a held scroll, not evidence of a learned spell.
+- **[[item-blue-cloud-potion|Blue cloud substance]]:** produces weightlessness, with flight or levitation depending on its use; it is a consumable rather than an innate ability.
 
 ## Defining History
 
@@ -45,6 +66,8 @@ Orlin is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location
 ## Uncertainty
 
 Earlier records described Orlin as a beastmaster-in-training. The Session 20 class and talent discussion explicitly identified him as a Beastmaster, with bear and wolf forms.
+
+His second talent remains unidentified: Danny remembered a possible Strength, Constitution, or unarmored-AC increase but did not establish which. Earlier play records healing and magical support without establishing a complete spell list.
 
 ## Garden Connections
 

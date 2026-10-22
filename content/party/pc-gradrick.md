@@ -1,6 +1,6 @@
 ---
 title: "Gradrick"
-description: "Gradrick is the party's witch, a back-line spellcaster whose Eye Bite and practical magical knowledge have supported the group since its earliest recorded delves."
+description: "Gradrick is the party's goblin witch, a back-line spellcaster whose Eyebite and practical magical knowledge have supported the group since its earliest recorded delves."
 tags: [campaign, party]
 ---
 
@@ -12,11 +12,33 @@ tags: [campaign, party]
 
 ## At a Glance
 
-Gradrick is the party's witch, a back-line spellcaster whose Eye Bite and practical magical knowledge have supported the group since its earliest recorded delves.
+Gradrick is the party's goblin witch, a back-line spellcaster whose Eyebite and practical magical knowledge have supported the group since its earliest recorded delves.
+
+## Identity
+
+- **Ancestry:** Goblin.
+- **Class:** Witch.
+- **Reported languages:** Common, Diabolic, Goblin, Primordial, and Sylvan.
 
 ## Current Situation
 
 Gradrick is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]], accompanied by Splat, his flying frog familiar. In [[2026_1011 Session 20|Session 20]] a centipede bit him for one damage, but he resisted its poison. He considered sending Splat under the nursery door and did not do so. Sab consumed the draught Mazzah had given him to speak with Greenheart; he no longer holds that draught. His once-daily talent to teleport to his familiar was reaffirmed during the opening sheet check.
+
+## Documented Spells and Abilities
+
+This is a record of confirmed choices and demonstrated abilities, not a complete character sheet.
+
+- **Eyebite:** repeatedly used in combat, including the killing blow against the main clockwork cobra. Earlier records often spell it Eye Bite.
+- **Fog:** creates a cloud that moves with him and makes attacks against creatures inside it harder; used during the Quasqueton approach.
+- **Keen Senses:** cannot be surprised, as explicitly reported for his goblin ancestry.
+- **Splat:** his flying frog familiar has bat wings. Gradrick reported that he can cast spells through it.
+- **Familiar teleport:** his level-three talent lets him teleport to his familiar once per day; reported in Session 19 and reaffirmed in Session 20.
+
+His Hypnotize spellbook is documented as a possession; learning or casting that spell has not been established. The Charm Person scroll likewise does not establish a permanently learned spell. His magic-carpet casting at White Falls used a scroll that was consumed.
+
+## Item-Granted Powers
+
+- **[[item-crystal-owl|Owl of Magnus]]:** lets its bound user see through the owl's eyes at a distance. Gradrick used it to watch both the marked mound and Quasqueton's hallway; it is distinct from Splat.
 
 ## Defining History
 
@@ -43,6 +65,8 @@ Gradrick is with the party in [[npc-greenheart|Greenheart's]] nursery in [[locat
 ## Uncertainty
 
 Transcript spellings of Gradrick's name are unusually unstable; the aliases above refer to the same PC.
+
+In Session 20 he reported Charisma 16 and recalled that his first talent had increased his primary stat, but was uncertain about that talent's exact origin or wording. His temporary newt form in Session 18 was a spell mishap, not an acquired shapechanging ability.
 
 ## Garden Connections
 

@@ -10,6 +10,11 @@ tags: [campaign, party]
 
 Dern is a dwarf Sea Wolf: a Viking-styled martial adventurer introduced during the same strange death-return sequence that restored Oogie.
 
+## Identity
+
+- **Ancestry:** Dwarf.
+- **Class:** Sea Wolf.
+
 ## Current Situation
 
 Dern remains on the official party roster, although he has not appeared in the recorded sessions since his arrival in Session 07.
@@ -27,6 +32,8 @@ Dern is a front-line dwarf raider. His recorded gear includes a shield, greataxe
 ## Uncertainty
 
 Dern's shipwreck background and devil-mediated arrival have not yet been developed in later play. They remain part of his introduction, not a complete biography.
+
+No individual spell choices, talents, or special ability uses are established by the surviving character record.
 
 ## Garden Connections
 
