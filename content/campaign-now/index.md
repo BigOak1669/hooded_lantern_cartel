@@ -13,7 +13,9 @@ The Hooded Lantern Cartel used Helix as its base while exploring the Barrow Moun
 
 ## Where Things Stand
 
-The party is peacefully inside [[npc-greenheart|Greenheart's]] altered-rat nursery in [[location-quasqueton|Quasqueton]], with [[npc-katherine-guy|Katherine Guy]]. Orlin's animal speech and Sab's use of Mazzah's plant-speaking draught established communication. Greenheart says many-eyed beings below trap and steal its children with webs. The group agreed to try to return the captives or secure peace, without promising success or a timetable. Greenheart would then provide a heart seed and asks that it be returned to its northern home; no seed has been received.
+The party is regrouping at a newly opened exercise room in [[location-quasqueton|Quasqueton]], with [[npc-katherine-guy|Katherine Guy]]. The upper harpy nest is cleared, but the stronghold remains inhabited and unsafe. [[npc-greenheart|Greenheart's]] request to recover its children or secure peace is still incomplete. The party killed one many-eyed hunter and peacefully contacted another nursery of mothers and young; those inhabitants were not identified as rescued captives. No heart seed has been received.
+
+Oogie's rapport spores let him, Sab, and Orlin perceive a great spiderlike female controlling altered orcish hunters in a cavernous space. The encountered hunter's duty involved catching rats for food. It surrendered, was bound, then spat corrosive-looking liquid at Orlin; he dodged and Oogie killed it with Fate. The controller's location, the hunters' origins, and whether killing her would free them remain unknown. Oogie also perceived a greenkin dying after drinking gray liquid from a stone pool, but neither the pool's location nor its contents are verified.
 
 The shared sap vision showed a purple-robed wizard stealing a seed from an elven forest city and later experimenting on it. The party suspects Zelligar, but his identity and the forest's present state remain unconfirmed. A pristine door also gave Oogie access to [[npc-lumpy|Lumpy's]] familiar equipment room; he bought rope and returned before the door shut. Its mechanism and permanence are unknown.
 
@@ -23,10 +25,11 @@ The marked-mound expedition has been reported to the Fair Church. Mort remains a
 
 ## Threads in Motion
 
-- **[[thread-greenheart-captives|Greenheart's captives and heart seed]]:** Find the reported web-using captors below and attempt rescue or peace. The seed's destination and transport requirements remain unknown; a waterfall-cave route is only a suggestion.
+- **[[thread-greenheart-captives|Greenheart's captives and heart seed]]:** One hunter is dead, and psychic contact points to a spiderlike controller. Find the actual captives and attempt rescue or peace. A route below, the seed's destination, and its transport requirements remain unknown; the waterfall-cave route is still only a suggestion.
 - **Quasqueton and the Hollow Gate writ:** Meeting living occupants gives the party more to consider as it seeks a usable stronghold. Ownership has not been recognized or tested.
-- **Activity deeper inside:** The nursery reveals living altered rats, offering a possible explanation for earlier tracks without identifying every track-maker. The incense source and further corridors remain unexplored.
-- **Lumpy's doorway:** A working equipment shop was accessible through a new-looking door in the ruins. Whether access persists is unknown.
+- **Activity deeper inside:** A concealed food storeroom houses greenkin mothers and young, with an entrance that heals shut and a second small exit. An old exercise room is newly opened; the incense source and further corridors remain unexplored.
+- **Gray stone pool:** Oogie's mushroom vision showed a greenkin stiffen and die after drinking. Locate it and establish the danger without assuming poison has been identified.
+- **Lumpy's doorway and supplies:** A working equipment shop was accessible through a new-looking door in the ruins. The party passed it without reopening it and now wants to assess light supplies before getting too far away. Continued access is untested.
 - **Unresolved entrance clues:** The voice's source and the Orcish blood message remain unknown. The possible waterfall hollow is unexamined.
 - **Mort and the marked mound:** Mort remains asleep in the mound. The Fair Church knows what happened and remains willing to receive him; the north altar is still unexplored.
 - **The Steel Bone Brotherhood:** A recurring pressure; the mound sessions did not prove Tornar's membership or Brotherhood ownership of his serpent-and-death practice.
@@ -36,6 +39,9 @@ The marked-mound expedition has been reported to the Fair Church. Mort remains a
 ## Recent Discoveries
 
 - Greenheart's nursery contains deep vegetation, glowing fungi, raised rat nests, and leaf-eared, mossy, fungal, or thorn-bearing inhabitants. They dislike strong light and fear fire and the webbed ones; peaceful contact was successful.
+- Four mothers and roughly thirty young shelter in a separate concealed storeroom. Orlin reassured them, gave a ration, and recovered a sepia gemstone estimated at 30 gold. No sale or captive rescue occurred.
+- A many-eyed hunter carried a hooked spear and web-like net and spat purple liquid that fizzed against stone. The Tongue of the Beast could not establish animal speech with it; rapport spores enabled psychic contact.
+- Detached nursery moss loses its glow. The hidden entrance begins repairing itself after being enlarged. Neither finding establishes a portable light source or a fully understood mechanism.
 - The sap vision depicts an unnamed northern elven city and theft of a three-chambered seed. Its connection to earlier elven lore remains uncertain.
 - Oogie bought 60 feet of rope from Lumpy for one gold. Sab consumed the plant-speaking draught previously held by Gradrick.
 - Two feathery centipedes died in the upper corridors. Gradrick took one bite damage and resisted poison.
@@ -44,7 +50,7 @@ The marked-mound expedition has been reported to the Fair Church. Mort remains a
 
 ## Current Regions and Destinations
 
-- **Quasqueton** is the current expedition site; the party is in Greenheart's upper nursery. The reported captors live below, but no route was chosen or explored.
+- **Quasqueton** is the current expedition site; play resumes at the upper exercise room. The reported captors live below, but no descent or route to their controller was played.
 - **An unnamed northern forest city** is Greenheart's reported home and the seed's requested destination. It was seen in a vision, not visited or precisely located.
 - **Helix** remains the expedition base and home of Mazzah, Vakish, the Fair Church, and the Brazen Strumpet.
 - **Barrow Mounds** remain a recurring region. The marked mound's north altar and the Broken-Sigil Mound's remaining chambers are dormant return hooks.
@@ -52,4 +58,4 @@ The marked-mound expedition has been reported to the Fair Church. Mort remains a
 
 ## Party Intent
 
-The group intends to try to return Greenheart's captive children or secure peace. Investigation below is strongly implied, but no route or immediate departure was played. Returning a heart seed north is conditional. Play resumes in the nursery, and no XP was awarded for Session 20.
+The group chose to inspect the eastern exercise room and is regrouping there. It discussed seeking and possibly killing the spiderlike controller, but whether that would resolve the predation remains unknown. Greenheart's conditional rescue-or-peace agreement and the later seed journey remain open. Before moving much farther from the shop, Sab urged a check of light supplies. No XP was awarded for Session 21.

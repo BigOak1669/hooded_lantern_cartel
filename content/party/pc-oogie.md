@@ -21,7 +21,7 @@ Oogie is a Mycellan seer whose trances, omens, and unusual perspective make him 
 
 ## Current Situation
 
-Oogie is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]]. In [[2026_1011 Session 20|Session 20]] his mycelial contact revealed a nursery of altered rats without general aggression, and he urged the group to treat them peacefully. A pristine doorway led him to [[npc-lumpy|Lumpy's]] familiar equipment room, where he bought 60 feet of rope for one gold before returning. He corrected his missing talent by raising Wisdom to 16 and selected Fate as his tier-two spell. He reported level three with 14/30 XP; no XP was awarded. He retains the Staff of the Cobra and his nonmagical sword-and-star buckle; the staff's final form was not newly established.
+Oogie is regrouping from the south at the party's newly opened exercise room in [[location-quasqueton|Quasqueton]]. In [[2026_1101 Session 21|Session 21]] he cast Fate twice, dealing ten and eight damage and killing the many-eyed hunter after it spat at Orlin. His rapport spores linked him, Sab, Orlin, and the hunter, revealing a spiderlike controller and a duty to catch rats for food. He restored Gradrick's luck with Trance. Contact with storeroom mushrooms showed a greenkin drinking gray liquid from a stone pool, stiffening, and dying; he reported this as a poison-pool vision, not a visited location. He reported two torches and no rations; whether he needs rations was left unresolved. His last confirmed level/XP report was level three, 14/30; Sessions 20 and 21 awarded no XP.
 
 ## Documented Spells and Abilities
 
@@ -29,9 +29,9 @@ This is a record of confirmed choices and demonstrated abilities, not a complete
 
 - **Trance:** grants another creature a luck token and has accompanied shared glimpses of possible futures, including the tablet chamber and the Three Cairns encounter.
 - **Evoke Rage:** usually called Rage in play; empowers a companion's strength and damage. Its normal duration requires the target to keep attacking; the extended stealth use in Session 19 was a temporary allowance.
-- **Fate:** selected as his tier-two spell in Session 20; damages a target and removes its luck tokens. No casting has yet been recorded.
+- **Fate:** selected as his tier-two spell in Session 20; damages a target and removes its luck tokens. Cast twice against the many-eyed hunter in Session 21, dealing ten and eight damage.
 - **Foresight and luck support:** uses called Omen in play have revealed possible dangers and restored companions' luck. The record does not establish Omen as a separate learned spell.
-- **Rapport spores:** used to enable direct communication with Nara and the party in the marked mound.
+- **Rapport spores:** used to enable direct communication with Nara and the party in the marked mound, and with the many-eyed hunter, Sab, and Orlin in Session 21. The latter use was described as ten rounds of psychic understanding without a shared language.
 - **Mycelial contact:** connected to Quasqueton's growth and perceived Greenheart's nursery and its altered rats. The wider limits of this ability remain unstated.
 - **Wisdom talent:** added +2 Wisdom during the Session 20 sheet check, bringing Wisdom to 16.
 

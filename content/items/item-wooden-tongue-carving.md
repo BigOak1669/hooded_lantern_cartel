@@ -12,6 +12,8 @@ Orlin used it on the Quasqueton approach to speak with a fox. The fox said winge
 
 In [[2026_1011 Session 20|Session 20]], Orlin focused it on the altered rat guide and then spoke with the rats in Greenheart's nursery. He learned that strong light hurt the guide's eyes and that Greenheart would judge the strangers' friendship. This use did not allow him to speak directly with Greenheart, which was a plant.
 
+In [[2026_1101 Session 21|Session 21]], the tongue failed to establish speech with the mostly humanoid arachnid-orc hunter. Refocusing on greenkin succeeded: Orlin reassured the mothers in the hidden storeroom. The table clarified that the tongue uses a gear slot when carried and can be kept in the mouth for use; focusing still takes a turn. The hunter's psychic communication instead came from Oogie's rapport spores.
+
 ## Garden Connections
 
 - [Orlin](../party/pc-orlin)

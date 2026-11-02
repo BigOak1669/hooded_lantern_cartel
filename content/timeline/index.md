@@ -44,3 +44,5 @@ This timeline tracks the campaign's major changes, not every room, purchase, or 
 - **2026-09-27 — [[2026_0927 Session 19|Session 19]]:** The party completed its Quasqueton guardroom rest, discovered incense and oversized rodent tracks inside, and cleared the upper harpy nest with Grond's critical arrow and Oogie's summoned cobra. It divided 42 gold and retained a mirror and nonmagical sword-and-star buckle, ending in the upper tower.
 
 - **2026-10-11 — [[2026_1011 Session 20|Session 20]]:** The party met Greenheart and its altered-rat nursery, shared a vision of a stolen heart seed, and conditionally agreed to seek captives or peace below Quasqueton.
+
+- **2026-11-01 — [[2026_1101 Session 21|Session 21]]:** The party killed a many-eyed hunter after a psychic vision of its spiderlike controller, peacefully entered a second greenkin nursery, recovered a sepia gem, and reached an old exercise room. Oogie also perceived a greenkin dying after drinking from an unlocated gray pool. Greenheart's rescue-or-peace task remains incomplete.

@@ -1,12 +1,12 @@
 ---
 title: "Quasqueton / Hollow Gate"
-description: "Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. After clearing the upper harpy nest, the party explored branching upper corridors in Session 20 and made peaceful…"
+description: "Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. After clearing the upper harpy nest and meeting Greenheart, the party continued through the upper corridors in…"
 tags: [campaign, places]
 ---
 
 # Quasqueton / Hollow Gate
 
-Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. After clearing the upper harpy nest, the party explored branching upper corridors in [[2026_1011 Session 20|Session 20]] and made peaceful contact with [[npc-greenheart|Greenheart]]. Play ended in its altered-rat nursery; areas below and many interior branches remain unexplored.
+Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. After clearing the upper harpy nest and meeting [[npc-greenheart|Greenheart]], the party continued through the upper corridors in [[2026_1101 Session 21|Session 21]]. It killed a many-eyed hunter, found a hidden greenkin nursery, and ended at a newly opened exercise room. Areas below and many interior branches remain unexplored.
 
 ## What the Party Has Seen
 
@@ -36,9 +36,15 @@ In Session 20 a passage off the upper tower was blocked by dense vegetation. A m
 
 A contrasting pristine door opened onto [[npc-lumpy|Lumpy's]] familiar, warm equipment room. Oogie bought rope, returned to the corridor, and the door closed behind him. The mechanism and permanence of the connection remain unknown.
 
+In [[2026_1101 Session 21|Session 21]], the party passed Lumpy's door without reopening it and encountered a many-eyed arachnid-orc hunter with a hooked spear and web-like net. Oogie's rapport spores conveyed a vision of a spiderlike female controlling similar hunters and a rat-catching duty. After being bound, the hunter spat purple liquid that fizzed on stone; Orlin dodged, and Oogie killed it with Fate. Its descent from the builders' captive orcs remains party speculation.
+
+The concealed entrance it had been investigating led into an abandoned food storeroom with composting barrels, four greenkin mothers, and roughly thirty young. Grond enlarged the entrance; Sab found that it was healing shut again. A second small exit led to the adjacent corridor. Orlin reassured the mothers, gave a ration, and recovered a sepia gem estimated at 30 gold. These inhabitants were not established to be Greenheart's missing captives. Oogie's fungal contact showed a gray stone pool whose drink killed a greenkin; the pool was neither visited nor located.
+
+Grond then forced an eastern door with rusty fittings. Gradrick's lantern revealed weapon holders, weighted bars, a bench, and brittle mats: an apparent exercise room or dojo. Play stopped at this initial view, with the group regrouping and discussing remaining light supplies.
+
 ## Current Relevance
 
-The party is in Greenheart's nursery with Katherine Guy. It intends to try to recover Greenheart's children or secure peace with the reported many-eyed ones below, then potentially return a heart seed north. The upper rat inhabitants now provide a possible explanation for some earlier rodent signs, without proving they made every track. The incense source and wider interior remain unexplored. Quasqueton is distinct from Castle Zentolin.
+The party is regrouping at an old exercise room with Katherine Guy. Greenheart's rescue-or-peace request remains incomplete: no actual captives or heart seed were recovered. A psychic link showed a spiderlike female controlling altered orcish hunters; her location and origins remain unknown. Oogie's mushroom contact also showed a greenkin dying after drinking gray liquid from a stone pool, whose location and nature remain unverified. Light supplies are an immediate concern, and Lumpy's door has not been retested. The incense source and wider interior remain unexplored. Quasqueton is distinct from Castle Zentolin.
 
 ## Uncertainty
 

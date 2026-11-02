@@ -22,7 +22,7 @@ Gradrick is the party's goblin witch, a back-line spellcaster whose Eyebite and 
 
 ## Current Situation
 
-Gradrick is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]], accompanied by Splat, his flying frog familiar. In [[2026_1011 Session 20|Session 20]] a centipede bit him for one damage, but he resisted its poison. He considered sending Splat under the nursery door and did not do so. Sab consumed the draught Mazzah had given him to speak with Greenheart; he no longer holds that draught. His once-daily talent to teleport to his familiar was reaffirmed during the opening sheet check.
+Gradrick is illuminating the newly opened exercise room in [[location-quasqueton|Quasqueton]] with his lantern, accompanied by Splat. In [[2026_1101 Session 21|Session 21]] he successfully cast Hypnotize on the many-eyed hunter, lost focus despite a luck reroll, then bound its hands and feet with Splat's help. Oogie later restored his luck with Trance. He was outside the direct rapport-spore link; the others were expected to relay the vision. He reported two rations and two oil remaining. No new injury or XP award was recorded. His earlier plant-speaking draught remains consumed.
 
 ## Documented Spells and Abilities
 
@@ -34,7 +34,7 @@ This is a record of confirmed choices and demonstrated abilities, not a complete
 - **Splat:** his flying frog familiar has bat wings. Gradrick reported that he can cast spells through it.
 - **Familiar teleport:** his level-three talent lets him teleport to his familiar once per day; reported in Session 19 and reaffirmed in Session 20.
 
-His Hypnotize spellbook is documented as a possession; learning or casting that spell has not been established. The Charm Person scroll likewise does not establish a permanently learned spell. His magic-carpet casting at White Falls used a scroll that was consumed.
+Hypnotize was successfully cast in Session 21; the hunter was stupefied until Gradrick failed to maintain focus. The spellbook is now supported by a demonstrated casting. The Charm Person scroll likewise does not establish a permanently learned spell. His magic-carpet casting at White Falls used a scroll that was consumed.
 
 ## Item-Granted Powers
 

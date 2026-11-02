@@ -6,7 +6,7 @@ tags: [campaign, people]
 
 # Greenheart
 
-Greenheart is a sentient plant in Quasqueton's upper nursery, with three main chambers that glow and pulse like a slow heartbeat. It presides over rats altered by moss, leaves, fungi, or thorns. The party made peaceful contact in [[2026_1011 Session 20|Session 20]] and remains in its chamber.
+Greenheart is a sentient plant in Quasqueton's upper nursery, with three main chambers that glow and pulse like a slow heartbeat. It presides over rats altered by moss, leaves, fungi, or thorns. The party made peaceful contact in [[2026_1011 Session 20|Session 20]] before leaving to explore more upper passages in Session 21. Greenheart remains in the original nursery; its last direct negotiation was in Session 20.
 
 ![Greenheart illustration shared during Session 20](../assets/session-20-greenheart-engraving.png)
 
@@ -29,6 +29,10 @@ After Sab drank Mazzah's plant-speaking draught, Greenheart told her that many-e
 The party drank Greenheart's sap and shared a fragmentary vision of an elven forest city, a purple-robed wizard bargaining with a high elf, the wizard stealing a three-chambered seed, darkness descending over the forest, and later laboratory experiments. Greenheart called this its home. The party associated the wizard with Zelligar the Unknown, but his identity was not confirmed. The vision is Greenheart's presented account; the forest's current state and location are unknown.
 
 The rats would prefer a more open, safe environment. Neither their relocation nor the seed's transport procedure has been established.
+
+## Session 21 Progress
+
+In [[2026_1101 Session 21|Session 21]], the party killed one many-eyed hunter after psychic contact connected it to a spiderlike controller and rat-catching for food. A separate hidden storeroom sheltered four greenkin mothers and roughly thirty young; Orlin reassured them and gave a ration. Its concealed entrance began repairing itself. These inhabitants were not identified as the missing captives. No captives were returned, no peace was secured, and no heart seed was received. The party ended at an old exercise room rather than in Greenheart's chamber.
 
 ## Garden Connections
 

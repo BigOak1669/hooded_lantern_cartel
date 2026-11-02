@@ -22,7 +22,7 @@ Orlin is a Shadow Elf Beastmaster whose shapechanging, bear-form strength, heali
 
 ## Current Situation
 
-Orlin is with the party in [[npc-greenheart|Greenheart's]] nursery in [[location-quasqueton|Quasqueton]]. In [[2026_1011 Session 20|Session 20]] he began rested, used the [[item-wooden-tongue-carving|Tongue of the Beast]] to speak with a light-sensitive rat guide and the nursery's inhabitants, and killed a centipede with bear claws. He activated the [[item-claw-and-bone-talisman|Talisman of the Beastmaster]] to attract a nearby ordinary animal; the rat returned, but a causal connection was not established. He encouraged peaceful entry and reassured the rats. He and the group drank sap and shared Greenheart's vision.
+Orlin is regrouping at an old exercise room in [[location-quasqueton|Quasqueton]] after [[2026_1101 Session 21|Session 21]]. The [[item-wooden-tongue-carving|Tongue of the Beast]] failed on the mostly humanoid hunter, but Oogie's rapport spores let him share its vision of a spiderlike controller. He dodged its purple corrosive-looking spit. He then used the tongue to reassure four greenkin mothers and their young, gave one ration, and took a sepia gemstone estimated at 30 gold. He and Oogie left through the nursery's second small exit. Recovering an outdated sheet, he reported level three, 17 maximum HP, and two daily Beast Shape uses; his second talent remains unidentified. Closing supplies: three torches and five rations. No XP was awarded.
 
 ## Documented Spells and Abilities
 

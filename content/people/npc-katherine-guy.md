@@ -12,7 +12,9 @@ She described herself as good with animals and camp work but poor with weapons. 
 
 In [[2026_0927 Session 19|Session 19]] she camped with the party, carried Sab's torch into the fountain hall, and expressed concern about confronting the remaining harpies. She waited quietly near the upper stairs as instructed, then joined the group after the fight. She remained with the expedition after the fight.
 
-In [[2026_1011 Session 20|Session 20]], she carried and shielded light in the upper corridors, noticed the returning plant-rat, followed Oogie toward Lumpy's doorway, and extinguished her torch upon entering the nursery. She was delighted by the altered rats and is alive with the group in Greenheart's chamber.
+In [[2026_1011 Session 20|Session 20]], she carried and shielded light in the upper corridors, noticed the returning plant-rat, followed Oogie toward Lumpy's doorway, and extinguished her torch upon entering the nursery. She was delighted by the altered rats and remained with the group in Greenheart's chamber at that session's end.
+
+In [[2026_1101 Session 21|Session 21]], she tended torches, stayed near Grond during the many-eyed hunter encounter, and followed the party through the concealed nursery. Frightened by the hunter, she nevertheless chose to remain rather than return to town alone. She is alive at the exercise-room approach. Wade's closing inventory gave her four torches, three rations, and two oil remaining.
 
 ## Garden Connections
 
