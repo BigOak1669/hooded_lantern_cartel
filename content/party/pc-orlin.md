@@ -22,7 +22,7 @@ Orlin is a Shadow Elf Beastmaster whose shapechanging, bear-form strength, heali
 
 ## Current Situation
 
-Orlin is regrouping at an old exercise room in [[location-quasqueton|Quasqueton]] after [[2026_1101 Session 21|Session 21]]. The [[item-wooden-tongue-carving|Tongue of the Beast]] failed on the mostly humanoid hunter, but Oogie's rapport spores let him share its vision of a spiderlike controller. He dodged its purple corrosive-looking spit. He then used the tongue to reassure four greenkin mothers and their young, gave one ration, and took a sepia gemstone estimated at 30 gold. He and Oogie left through the nursery's second small exit. Recovering an outdated sheet, he reported level three, 17 maximum HP, and two daily Beast Shape uses; his second talent remains unidentified. Closing supplies: three torches and five rations. No XP was awarded.
+Orlin is with the party at the pool chamber in [[location-quasqueton|Quasqueton]] after [[2026_1108 Session 22|Session 22]]. Orlin spoke with thorn-bearing greenkin, fought centipedes and an ochre jelly, noticed a breeze and opened the rotating hidden wall. Sab healed his injuries. The group opened a hidden wall to an unexplored room. Everyone was awarded five XP.
 
 ## Documented Spells and Abilities
 

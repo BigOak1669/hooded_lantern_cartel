@@ -21,7 +21,7 @@ Grond is a kobold pit fighter and the party's most direct front-line bruiser. He
 
 ## Current Situation
 
-Grond is at the newly opened exercise room in [[location-quasqueton|Quasqueton]]. In [[2026_1101 Session 21|Session 21]] he guarded the rear during the hunter encounter, found and enlarged a concealed entrance into the greenkin mothers' storeroom, and located a second small exit. He left through the first entrance as it healed shut, then forced the swollen exercise-room door. No rear attacker or new injury was established. He reported three torches and two rations. His last confirmed level/XP report was level four, 0/40; Sessions 20 and 21 awarded no XP. He retains the [[item-hero-belt-gold-and-unicorn-horn-buckle|Belt of the Thornswild]] and [[item-werner-s-lucky-sledgehammer|Werner's sledgehammer]].
+Grond is with the party at the pool chamber in [[location-quasqueton|Quasqueton]] after [[2026_1108 Session 22|Session 22]]. Grond crushed centipedes, opened a door, shared torches, destroyed part of the ochre jelly and briefly felt lightheaded after tasting the green pool. The group opened a hidden wall to an unexplored room. Everyone was awarded five XP.
 
 ## Documented Spells and Abilities
 

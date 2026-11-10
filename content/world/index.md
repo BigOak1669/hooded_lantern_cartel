@@ -52,6 +52,7 @@ nav_order: 5
 - [Bag of holding](../items/item-bag-of-holding)
 - [Blue Cloud Weightlessness Substance](../items/item-blue-cloud-potion)
 - [Charm Person Spell Scroll](../items/item-charm-person-spell-scroll)
+- [Lion-Faced Shield](../items/item-lion-faced-shield)
 - [Owl of Magnus](../items/item-crystal-owl)
 - [Potion of Invisibility](../items/item-potion-of-invisibility)
 - [Returning Dagger](../items/item-returning-dagger)

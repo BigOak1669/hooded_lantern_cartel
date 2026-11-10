@@ -6,7 +6,7 @@ tags: [campaign, places]
 
 # Quasqueton / Hollow Gate
 
-Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. After clearing the upper harpy nest and meeting [[npc-greenheart|Greenheart]], the party continued through the upper corridors in [[2026_1101 Session 21|Session 21]]. It killed a many-eyed hunter, found a hidden greenkin nursery, and ended at a newly opened exercise room. Areas below and many interior branches remain unexplored.
+Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. After clearing the upper harpy nest and meeting [[npc-greenheart|Greenheart]], the party continued through the upper corridors in [[2026_1101 Session 21|Session 21]]. It killed a many-eyed hunter, found a hidden greenkin nursery, and went on to explore an exercise room and a chamber of strange pools. Areas below and many interior branches remain unexplored.
 
 ## What the Party Has Seen
 
@@ -42,9 +42,11 @@ The concealed entrance it had been investigating led into an abandoned food stor
 
 Grond then forced an eastern door with rusty fittings. Gradrick's lantern revealed weapon holders, weighted bars, a bench, and brittle mats: an apparent exercise room or dojo. Play stopped at this initial view, with the group regrouping and discussing remaining light supplies.
 
+In [[2026_1108 Session 22|Session 22]], the party killed giant red centipedes in the exercise room and Sab recovered a magical lion-faced +1 shield. Thorn-bearing greenkin in an old carpenter’s room reported two web takers arriving from eastern stairs, one going north and one west. A dead silkbound lay beside a corrosive basin; Sab used its mace to recover a brass key. The group defeated an ochre jelly and investigated numerous pools with varied liquids and effects. Near illusory treasure Orlin felt a breeze, Gradrick found a rotating wall, and Orlin opened it to an unexplored room. A broad staircase descends beyond the party’s light. See the session record for pool observations and uncertainties.
+
 ## Current Relevance
 
-The party is regrouping at an old exercise room with Katherine Guy. Greenheart's rescue-or-peace request remains incomplete: no actual captives or heart seed were recovered. A psychic link showed a spiderlike female controlling altered orcish hunters; her location and origins remain unknown. Oogie's mushroom contact also showed a greenkin dying after drinking gray liquid from a stone pool, whose location and nature remain unverified. Light supplies are an immediate concern, and Lumpy's door has not been retested. The incense source and wider interior remain unexplored. Quasqueton is distinct from Castle Zentolin.
+The party is at the pool chamber with Katherine Guy, beside an opened rotating wall leading to an unexplored room. Greenheart's rescue-or-peace request remains incomplete: no actual captives or heart seed were recovered. A psychic link showed a spiderlike female controlling altered orcish hunters; her location and origins remain unknown. Oogie's mushroom contact also showed a greenkin dying after drinking gray liquid from a stone pool, whose identification and nature remain unverified. A gray syrupy pool was found, but has not been linked conclusively to the vision. Light supplies are an immediate concern, and Lumpy's door has not been retested. The incense source and wider interior remain unexplored. Quasqueton is distinct from Castle Zentolin.
 
 ## Uncertainty
 

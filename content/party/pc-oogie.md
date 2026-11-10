@@ -21,7 +21,7 @@ Oogie is a Mycellan seer whose trances, omens, and unusual perspective make him 
 
 ## Current Situation
 
-Oogie is regrouping from the south at the party's newly opened exercise room in [[location-quasqueton|Quasqueton]]. In [[2026_1101 Session 21|Session 21]] he cast Fate twice, dealing ten and eight damage and killing the many-eyed hunter after it spat at Orlin. His rapport spores linked him, Sab, Orlin, and the hunter, revealing a spiderlike controller and a duty to catch rats for food. He restored Gradrick's luck with Trance. Contact with storeroom mushrooms showed a greenkin drinking gray liquid from a stone pool, stiffening, and dying; he reported this as a poison-pool vision, not a visited location. He reported two torches and no rations; whether he needs rations was left unresolved. His last confirmed level/XP report was level three, 14/30; Sessions 20 and 21 awarded no XP.
+Oogie is with the party at the pool chamber in [[location-quasqueton|Quasqueton]] after [[2026_1108 Session 22|Session 22]]. Oogie used Omen on two pools, drank cool water and a liquid that briefly gave him an orange aura, restored Gradrick’s luck and split an ochre jelly with Fate. Some of his rope dissolved in a corrosive pool; 40 feet remained by the table ruling. The group opened a hidden wall to an unexplored room. Everyone was awarded five XP.
 
 ## Documented Spells and Abilities
 

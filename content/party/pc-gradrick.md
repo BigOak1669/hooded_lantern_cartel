@@ -22,7 +22,7 @@ Gradrick is the party's goblin witch, a back-line spellcaster whose Eyebite and 
 
 ## Current Situation
 
-Gradrick is illuminating the newly opened exercise room in [[location-quasqueton|Quasqueton]] with his lantern, accompanied by Splat. In [[2026_1101 Session 21|Session 21]] he successfully cast Hypnotize on the many-eyed hunter, lost focus despite a luck reroll, then bound its hands and feet with Splat's help. Oogie later restored his luck with Trance. He was outside the direct rapport-spore link; the others were expected to relay the vision. He reported two rations and two oil remaining. No new injury or XP award was recorded. His earlier plant-speaking draught remains consumed.
+Gradrick is with the party at the pool chamber in [[location-quasqueton|Quasqueton]] after [[2026_1108 Session 22|Session 22]]. Gradrick hypnotized a centipede, tested the pools, lit his lantern and identified a rotating false wall. Oogie restored his spent luck. The group opened a hidden wall to an unexplored room. Everyone was awarded five XP.
 
 ## Documented Spells and Abilities
 

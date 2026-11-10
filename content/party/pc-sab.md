@@ -22,7 +22,7 @@ Sab is the party's halfling priest: an Old Gods devotee, healer, anti-undead spe
 
 ## Current Situation
 
-Sab is regrouping with the party at an old exercise room in [[location-quasqueton|Quasqueton]] after [[2026_1101 Session 21|Session 21]]. She cast Light on her shield, threatened the many-eyed hunter into dropping its weapons, and joined Oogie's psychic link. She found that the hidden greenkin nursery's enlarged entrance was healing shut and warned the others. The plant-speaking draught's effect has ended. She urged a check of light supplies before moving too far from Lumpy's doorway. Greenheart's rescue-or-peace agreement remains incomplete. Her last confirmed level/XP report was level four, 0/40; Sessions 20 and 21 awarded no XP.
+Sab is with the party at the pool chamber in [[location-quasqueton|Quasqueton]] after [[2026_1108 Session 22|Session 22]]. Sab equipped the [[item-lion-faced-shield|lion-faced +1 shield]], retrieved a brass key from a corrosive pool, healed herself and Orlin, and fought centipedes and an ochre jelly. The group opened a hidden wall to an unexplored room. Everyone was awarded five XP.
 
 ## Documented Spells and Abilities
 

@@ -10,7 +10,7 @@ tags: [campaign, active-leads]
 
 [[npc-greenheart|Greenheart]] told the party that many-eyed beings below [[location-quasqueton|Quasqueton]] trap and steal its children with webs. The group agreed to try its best to return the captives or otherwise secure peace. Sab made the commitment conditional on what the party could accomplish and did not promise a timetable.
 
-If successful, Greenheart will provide a heart seed and asks that it be returned to its northern home. No seed has changed hands. In [[2026_1101 Session 21|Session 21]], the party killed one many-eyed hunter in the upper corridors and found a separate nursery of mothers and young. Those greenkin were not established as rescued captives. No rescue or peace agreement was completed; the party ended at an old exercise room without descending.
+If successful, Greenheart will provide a heart seed and asks that it be returned to its northern home. No seed has changed hands. In [[2026_1101 Session 21|Session 21]], the party killed one many-eyed hunter in the upper corridors and found a separate nursery of mothers and young. Those greenkin were not established as rescued captives. No rescue or peace agreement was completed; the party later reached a pool chamber without descending.
 
 ## Why It Matters
 
@@ -39,6 +39,10 @@ The encountered hunter carried a hooked spear and web-like net. After surrenderi
 The hidden storeroom held four mothers and roughly thirty young. Orlin reassured them through the Tongue of the Beast and gave a ration. Its enlarged concealed entrance began healing shut, and a second small exit connected to the neighboring corridor. They remained in place.
 
 Oogie's contact with mushrooms showed a greenkin drinking gray liquid from a gray stone pool, stiffening, and dying. He described it as poison; the liquid's nature, pool's location, and timing remain unverified. This is a separate danger clue, not proof that the captives died there.
+
+## Session 22 Update
+
+In [[2026_1108 Session 22|Session 22]], thorn-bearing greenkin in an old carpenter’s room reported two web takers coming up the eastern stairs, one going north and one west. The party found a dead silkbound beside a corrosive pool; its identity relative to the reported pair is unconfirmed. A broad stair descends beyond the light, but the party did not descend. The rescue-or-peace task and seed remain unresolved. A gray syrupy pool was found, but it was not established as the deadly pool from Oogie’s earlier vision.
 
 ## Garden Connections
 

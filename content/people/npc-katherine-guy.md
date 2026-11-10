@@ -16,6 +16,8 @@ In [[2026_1011 Session 20|Session 20]], she carried and shielded light in the up
 
 In [[2026_1101 Session 21|Session 21]], she tended torches, stayed near Grond during the many-eyed hunter encounter, and followed the party through the concealed nursery. Frightened by the hunter, she nevertheless chose to remain rather than return to town alone. She is alive at the exercise-room approach. Wade's closing inventory gave her four torches, three rations, and two oil remaining.
 
+In [[2026_1108 Session 22|Session 22]], Katherine tended torches and followed the party through the exercise room and pool chamber. She remained with the group at the hidden wall.
+
 ## Garden Connections
 
 - [Parent: The Brazen Strumpet](../places/location-brazen-strumpet)
