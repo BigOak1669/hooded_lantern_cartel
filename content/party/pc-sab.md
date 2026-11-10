@@ -22,7 +22,7 @@ Sab is the party's halfling priest: an Old Gods devotee, healer, anti-undead spe
 
 ## Current Situation
 
-Sab is with the party at the pool chamber in [[location-quasqueton|Quasqueton]] after [[2026_1108 Session 22|Session 22]]. Sab equipped the [[item-lion-faced-shield|lion-faced +1 shield]], retrieved a brass key from a corrosive pool, healed herself and Orlin, and fought centipedes and an ochre jelly. The group opened a hidden wall to an unexplored room. Everyone was awarded five XP.
+Sab is with the party at the pool chamber in [[location-quasqueton|Quasqueton]] after [[2026_1108 Session 22|Session 22]]. Sab equipped the [[item-lion-faced-shield|lion-faced +1 shield]], retrieved and carries a brass key from a corrosive pool, healed herself and Orlin, and fought centipedes and an ochre jelly. The group opened a hidden wall to an unexplored room. Everyone was awarded five XP.
 
 ## Documented Spells and Abilities
 
@@ -62,6 +62,9 @@ The plant speech used with Greenheart came from a consumed draught, not a learne
 - Told the Fair Church what happened to Mort and learned that Bartholomew would still welcome him back.
 
 ## Notable Possessions
+
+- Brass key recovered from Quasqueton’s corrosive pool; lock and purpose unknown.
+- [[item-lion-faced-shield|Lion-faced +1 shield]]; additional magic awaits Mazzah’s identification.
 
 - [[item-cloak-of-elvenkind|Cloak of Elvenkind]]
 - Blind/Deafen spellbook
