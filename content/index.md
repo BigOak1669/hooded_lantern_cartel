@@ -7,7 +7,7 @@ tags: [campaign, home]
 <section class="campaign-hero">
 <div class="eyebrow">A Shadowdark Campaign Archive</div>
 <h2>Hooded Lantern Cartel</h2>
-<p>The Hooded Lantern Cartel used Helix as its base while exploring the Barrow Mounds. Its pursuit of a stolen corpse led through Mouse's deliveries to Mort, Mara, and Tornar in the serpent-and-skull marked mound. Eldran Vey's coat and papers…</p>
+<p>The search for a stolen corpse in the Barrow Mounds led the Hooded Lantern Cartel to Mort, Mara, and Tornar. The damaged Hollow Gate writ and papers recovered with Eldran Vey, Quasqueton's former steward, drew the party out from Helix and…</p>
 </section>
 
 ## Campaign Now
@@ -27,28 +27,28 @@ tags: [campaign, home]
 
 ## Latest Session
 
-**Session 22 · 2026-11-08**
+**Session 23 · 2026-11-15**
 
-In Quasqueton, the party cleared giant red centipedes from an exercise room and Sab claimed a magical lion-faced +1 shield. Thorn-bearing greenkin said two “web takers” had come up the eastern stairs, one going north and one west. In a…
+The party explored a hidden study off Quasqueton's pool chamber, recovering papers, journals, 90 gold, two healing potions, and the Jewel of Barbalt. After resupplying at Lumpy's, the group found a smithy, a water shaft, a repairs cache,…
 
-[Quick recap and detailed record →](sessions/2026_1108%20Session%2022)
+[Quick recap and detailed record →](sessions/2026_1115%20Session%2023)
 
 ## Threads in Motion
 
+- **[Bag of holding](items/item-bag-of-holding)** — Magic bag identified as having five slots.
 - **[Greenheart's Captives and Heart Seed](active-leads/thread-greenheart-captives)** — Greenheart told the party that many-eyed beings below Quasqueton trap and steal its children with webs. The group agreed to try its best to return the captives or otherwise secure peace. Sab made the commitment conditional on what the…
+- **[Mazzah](people/npc-mazzah)** — Mazzah is Helix's eccentric wizard and the party's most reliable magical consultant. He is cooperative when approached on his terms, which are advertised by the many increasingly emphatic “do not disturb” signs around his tower.
+- **[Mazzah's Tower](places/location-mazahs-tower)** — Mazzah's tower is the Helix wizard's home, workshop, and the party's principal stop for magical identification. It is larger and more comfortable inside than its exterior suggests, and repeated “do not disturb” signs are backed by a…
 - **[Quasqueton / Hollow Gate](places/location-quasqueton)** — Quasqueton, called the Hollow Gate in a damaged writ recovered from Tornar's rooms, is the party's current expedition site. After clearing the upper harpy nest and meeting Greenheart, the party continued through the upper corridors in…
-- **[Katherine Guy](people/npc-katherine-guy)** — Katherine Guy is the party's current torchbearer and camp helper. The group hired her at the Brazen Strumpet for one gold per day, rising to two on a day involving combat.
-- **[Lion-Faced Shield](items/item-lion-faced-shield)** — Sab recovered this shield from the old exercise room in Quasqueton in Session 22. Its metal face depicts a roaring lion with a flowing mane. It adjusted to fit her and is a **+1 shield** when equipped. It has additional magical properties;…
-- **[Arch / Archie](people/npc-arch-archie)** — Arch is the red devil-like figure associated with the party's strange tickets, deaths, and returns. Whether “Archie” names the figure, the tickets, or a broader system remains unresolved in the players' understanding.
-- **[Archie ticket](items/item-archie-ticket)** — A death-return ticket tied to Archie, used to restore a dead companion through a still only partly understood ritual or contract.
-- **[Beyond the Fog](active-leads/thread-beyond-the-fog)** — The party's world is beginning to widen beyond Helix and the western Barrow Mounds. Oogie's fading tablet map showed more mounds and a castle beyond them. Vakish identified the castle as Castle Zentolin and described the fog as the reason…
-- **[Castle Zentolin](places/location-castle-zentolin)** — Legendary castle seen in Oogie's fading tablet-map vision and later named by Vakish. It sits on a crystal-clear lake beyond/east of the Barrow Mounds and has been cut off from contact by the fog.
+- **[The Hollow Gate Writ](active-leads/thread-hollow-gate-writ)** — The party recovered a damaged legal-looking writ from Tornar's rooms. It names the Hollow Gate of Quasqueton and grants a lawful bearer custody of its road-house, outer wall, spring, cave-mouth, stable court, and surrounding grounds,…
+- **[Beetle Potion of Animal Shifting](items/item-beetle-potion-of-animal-shifting)** — Grond found this opaque, beetle-shaped bottle in the middle drawer of a clothes cabinet in Quasqueton's hidden study.
+- **[Jewel of Barbalt](items/item-jewel-of-barbalt)** — Sab found this coconut-sized cut ruby in a wooden display case inside a trapped desk drawer in Quasqueton's hidden study. In Session 23, Mazzah identified it through the curtained portal.
 
 ## Recent Sessions
 
+- **[Session 23 · 2026-11-15](sessions/2026_1115%20Session%2023)** — The party explored a hidden study off Quasqueton's pool chamber, recovering papers, journals, 90 gold, two healing potions, and the Jewel of Barbalt. After resupplying at Lumpy's, the group found a smithy, a water shaft, a repairs cache,…
 - **[Session 22 · 2026-11-08](sessions/2026_1108%20Session%2022)** — In Quasqueton, the party cleared giant red centipedes from an exercise room and Sab claimed a magical lion-faced +1 shield. Thorn-bearing greenkin said two “web takers” had come up the eastern stairs, one going north and one west. In a…
 - **[Session 21 · 2026-11-01](sessions/2026_1101%20Session%2021)** — The party left Greenheart's nursery and explored more of Quasqueton's upper corridors. They subdued a many-eyed, arachnid-orc hunter and used Oogie's rapport spores to perceive a great spiderlike female controlling similar creatures and…
-- **[Session 20 · 2026-10-11](sessions/2026_1011%20Session%2020)** — The party explored Quasqueton's upper passages, killed two venomous centipedes, and followed a plant-altered rat to Greenheart's nursery. A pristine doorway also opened onto Lumpy's familiar equipment storeroom, where Oogie bought rope.…
 
 ## The Valley of Ruin
 

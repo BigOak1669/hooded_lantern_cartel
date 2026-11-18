@@ -22,7 +22,7 @@ Gradrick is the party's goblin witch, a back-line spellcaster whose Eyebite and 
 
 ## Current Situation
 
-Gradrick is with the party at the pool chamber in [[location-quasqueton|Quasqueton]] after [[2026_1108 Session 22|Session 22]]. Gradrick hypnotized a centipede, tested the pools, lit his lantern and identified a rotating false wall. Oogie restored his spent luck. The group opened a hidden wall to an unexplored room. Everyone was awarded five XP.
+Gradrick is with the party in [[location-quasqueton|Quasqueton’s]] entrance guardroom after [[2026_1115 Session 23|Session 23]]. He brought back journals from the hidden study and plans to read them aloud at camp. He worked out how to open the repair-cache panel and sent Splat through Mazzah’s portal and back.
 
 ## Documented Spells and Abilities
 

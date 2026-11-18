@@ -20,7 +20,7 @@ The request gives the expedition an immediate objective involving Quasqueton's l
 
 - The hunters' species, number, and exact base. One mostly humanoid arachnid-orc was encountered; the psychic link connected it to a spiderlike controller and rat-catching for food. Its descent from Quasqueton's historical captive orcs remains speculation.
 - The captives' number and condition, and whether rescue or negotiation can secure peace.
-- A route below; a waterfall cave was suggested but not verified.
+- A route to the captors. The broad stair leads to the first floor and an untested water shaft continues deeper. The possible waterfall cave is unverified.
 - The northern home's name, destination, current state, and the seed's transport needs.
 - Whether and how the resident rats would relocate; they prefer a more open, safe environment.
 
@@ -43,6 +43,10 @@ Oogie's contact with mushrooms showed a greenkin drinking gray liquid from a gra
 ## Session 22 Update
 
 In [[2026_1108 Session 22|Session 22]], thorn-bearing greenkin in an old carpenter’s room reported two web takers coming up the eastern stairs, one going north and one west. The party found a dead silkbound beside a corrosive pool; its identity relative to the reported pair is unconfirmed. A broad stair descends beyond the light, but the party did not descend. The rescue-or-peace task and seed remain unresolved. A gray syrupy pool was found, but it was not established as the deadly pool from Oogie’s earlier vision.
+
+## Session 23 Update
+
+The opening recap associated the northbound silkbound with the one the party killed and the westbound one with the body by the corrosive pool. In [[2026_1115 Session 23|Session 23]], Gradrick reported that a recovered journal describes root experiments and suggested they were connected to the green life. The party plans to compare the recovered papers and journals during its overnight camp. It is still piecing together whether “IX” refers to the silkbound controller and how the root experiments relate to the stolen-seed vision. The party camped at the first-floor entrance with the rescue-or-peace request still open.
 
 ## Garden Connections
 

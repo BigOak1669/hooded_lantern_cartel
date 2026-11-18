@@ -23,6 +23,10 @@ Mazzah's tower is the Helix wizard's home, workshop, and the party's principal s
 
 Mazzah's expertise is reliable; his conclusions about the serpent-and-skull symbol were cautious rather than a definitive identification of its cult.
 
+## Passage to Quasqueton
+
+In [[2026_1115 Session 23|Session 23]], a purple-curtained doorway on [[location-quasqueton|Quasqueton's]] upper floor opened onto the tower's sitting room. Splat and several items crossed and returned. Mazzah wondered if one of his tapestries was involved. He does not know how the doorway appeared and plans to research it. Once Sab drew the curtain, he could be heard faintly but was unable to find the opening from the tower side. Sab reopened the curtain from Quasqueton. The party is unsure whether the doorway will still be there or work on another visit. A full-party round trip remains untested.
+
 ## Garden Connections
 
 - [Parent: Helix](../places/location-helix)
@@ -30,3 +34,4 @@ Mazzah's expertise is reliable; his conclusions about the serpent-and-skull symb
 - [Celestia](../people/npc-celestia)
 - [Owl of Magnus](../items/item-crystal-owl)
 - [Staff of the Cobra](../items/item-cobra-headed-staff)
+- [Quasqueton / Hollow Gate](../places/location-quasqueton)

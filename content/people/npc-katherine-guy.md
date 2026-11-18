@@ -18,6 +18,8 @@ In [[2026_1101 Session 21|Session 21]], she tended torches, stayed near Grond du
 
 In [[2026_1108 Session 22|Session 22]], Katherine tended torches and followed the party through the exercise room and pool chamber. She remained with the group at the hidden wall.
 
+In [[2026_1115 Session 23|Session 23]], Katherine illuminated the portrait in the hidden study, resisted the drawer gas, and spotted the well-kept door leading to Mazzah’s curtain. She helped carry the new supplies and ended at the entrance guardroom with the party.
+
 ## Garden Connections
 
 - [Parent: The Brazen Strumpet](../places/location-brazen-strumpet)

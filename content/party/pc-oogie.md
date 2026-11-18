@@ -21,7 +21,7 @@ Oogie is a Mycellan seer whose trances, omens, and unusual perspective make him 
 
 ## Current Situation
 
-Oogie is with the party at the pool chamber in [[location-quasqueton|Quasqueton]] after [[2026_1108 Session 22|Session 22]]. Oogie used Omen on two pools, drank cool water and a liquid that briefly gave him an orange aura, restored Gradrick’s luck and split an ochre jelly with Fate. Some of his rope dissolved in a corrosive pool; 40 feet remained by the table ruling. The group opened a hidden wall to an unexplored room. Everyone was awarded five XP.
+Oogie is with the party in [[location-quasqueton|Quasqueton’s]] entrance guardroom after [[2026_1115 Session 23|Session 23]]. He recovered 90 gold and two tactical healing potions from beneath the study bed, restored Sab’s luck, and pulled back the curtain to reveal Mazzah’s sitting room.
 
 ## Documented Spells and Abilities
 

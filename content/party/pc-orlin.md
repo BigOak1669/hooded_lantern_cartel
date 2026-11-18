@@ -22,7 +22,7 @@ Orlin is a Shadow Elf Beastmaster whose shapechanging, bear-form strength, heali
 
 ## Current Situation
 
-Orlin is with the party at the pool chamber in [[location-quasqueton|Quasqueton]] after [[2026_1108 Session 22|Session 22]]. Orlin spoke with thorn-bearing greenkin, fought centipedes and an ochre jelly, noticed a breeze and opened the rotating hidden wall. Sab healed his injuries. The group opened a hidden wall to an unexplored room. Everyone was awarded five XP.
+Orlin is with the party in [[location-quasqueton|Quasqueton’s]] entrance guardroom after [[2026_1115 Session 23|Session 23]]. He read Marevak’s portrait dedication, took the loose study papers, kept an ordinary cloak clasp found in the guest room, and opened the door onto Mazzah’s curtain.
 
 ## Documented Spells and Abilities
 

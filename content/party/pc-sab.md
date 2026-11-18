@@ -22,7 +22,7 @@ Sab is the party's halfling priest: an Old Gods devotee, healer, anti-undead spe
 
 ## Current Situation
 
-Sab is with the party at the pool chamber in [[location-quasqueton|Quasqueton]] after [[2026_1108 Session 22|Session 22]]. Sab equipped the [[item-lion-faced-shield|lion-faced +1 shield]], retrieved and carries a brass key from a corrosive pool, healed herself and Orlin, and fought centipedes and an ochre jelly. The group opened a hidden wall to an unexplored room. Everyone was awarded five XP.
+Sab is with the party in [[location-quasqueton|Quasqueton’s]] entrance guardroom after [[2026_1115 Session 23|Session 23]]. She kept the cased [[item-jewel-of-barbalt|Jewel of Barbalt]] in the bag of holding for safekeeping, used the portal to have her shield identified, and left her old shield at camp. She still carries the brass key recovered at the pools.
 
 ## Documented Spells and Abilities
 
@@ -64,7 +64,8 @@ The plant speech used with Greenheart came from a consumed draught, not a learne
 ## Notable Possessions
 
 - Brass key recovered from Quasqueton’s corrosive pool; lock and purpose unknown.
-- [[item-lion-faced-shield|Lion-faced +1 shield]]; additional magic awaits Mazzah’s identification.
+- [[item-lion-faced-shield|Shield of the Lion]], a +1 shield that roars to intimidate nearby hostile creatures once per day on a command word.
+- [[item-bag-of-holding|Bag of holding]] containing the cased [[item-jewel-of-barbalt|Jewel of Barbalt]].
 
 - [[item-cloak-of-elvenkind|Cloak of Elvenkind]]
 - Blind/Deafen spellbook
@@ -95,3 +96,5 @@ Sab explicitly introduced herself to Greenheart as a devotee of Odin, Skyfather,
 - [The Fair Church](../places/location-fair-church)
 - [Tornar](../people/npc-tornar)
 - [Writ of the Hollow Gate](../items/item-writ-of-hollow-gate)
+- [Jewel of Barbalt](../items/item-jewel-of-barbalt)
+- [Shield of the Lion](../items/item-lion-faced-shield)

@@ -21,11 +21,13 @@ The writ is now the basis for the party's current expedition and its interest in
 ## What Remains Uncertain
 
 - The writ's legal force and the identity of its lawful bearer.
-- Quasqueton's wider occupants and condition beyond the explored guardrooms, fountain hall, and cleared upper tower.
+- Quasqueton’s occupants and condition beyond the explored upper floor and entrance area.
 - Whether Rogahn, Zelligar, or an heir still has a claim.
-- Whether the party can clear and use the wider stronghold; the upper harpy nest is cleared.
+- Whether the party can secure and maintain the stronghold. The explored upper floor has a forge, repair materials, and supply access.
 
 In [[2026_1011 Session 20|Session 20]], the party treated Quasqueton as a prospective home while peacefully meeting Greenheart and its altered rats. It agreed to try to recover stolen children or secure peace with the reported captors below. Play ended in the nursery; neither legal ownership nor the stronghold's wider safety was established.
+
+In [[2026_1115 Session 23|Session 23]], the party finished its upper-floor sweep, found a smithy and repair cache, and returned to camp in the entrance guardroom. The doorway to Mazzah and Lumpy’s shop could make the stronghold easier to provision if they are still accessible on another visit. The portrait dedication records Marevak’s guidance to Rogahn and Zelligar. It gives no indication of any right to inherit or recognize the writ.
 
 ## Garden Connections
 

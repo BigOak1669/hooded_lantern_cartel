@@ -12,7 +12,9 @@ Lumpy is the familiar rock gnome outfitter encountered through a pristine door i
 
 Oogie entered the room and bought 60 feet of rope for one gold. Lumpy set the rope on the desk without looking away from his book. The door closed immediately after Oogie returned to the castle, while continuing to look new.
 
-Wade identified the male gnome as Lumpy and distinguished him from his sister, whom the party recalled meeting elsewhere. The doorway's nature, persistence, and the storeroom's physical location remain unexplained; it has not been established as a permanent shop in the castle.
+Lumpy and the cheerful female shopkeeper at the [[location-hooded-lantern-supply-door|supply door near the Fair Church]] are different people.
+
+In [[2026_1115 Session 23|Session 23]], the group reopened the same door and found Lumpy reading at his desk again. Sab bought 18 torches for 10 gold. The group also bought lamp oil and rations. The party is unsure whether the doorway will still be there or work on another visit.
 
 ## Garden Connections
 

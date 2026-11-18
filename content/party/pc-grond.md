@@ -21,7 +21,7 @@ Grond is a kobold pit fighter and the party's most direct front-line bruiser. He
 
 ## Current Situation
 
-Grond is with the party at the pool chamber in [[location-quasqueton|Quasqueton]] after [[2026_1108 Session 22|Session 22]]. Grond crushed centipedes, opened a door, shared torches, destroyed part of the ochre jelly and briefly felt lightheaded after tasting the green pool. The group opened a hidden wall to an unexplored room. Everyone was awarded five XP.
+Grond is with the party in [[location-quasqueton|Quasqueton’s]] entrance guardroom after [[2026_1115 Session 23|Session 23]]. He found a [[item-beetle-potion-of-animal-shifting|beetle transformation potion]], exposed the guest-room illusion, and opened the hidden repairs cache after Sab and Gradrick located it.
 
 ## Documented Spells and Abilities
 
@@ -78,3 +78,4 @@ The sledgehammer is sometimes called a warhammer in noisy transcripts. The campa
 - [Mort](../people/npc-mort)
 - [Tornar](../people/npc-tornar)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
+- [Beetle Potion of Animal Shifting](../items/item-beetle-potion-of-animal-shifting)

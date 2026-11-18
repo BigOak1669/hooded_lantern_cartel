@@ -44,9 +44,15 @@ Grond then forced an eastern door with rusty fittings. Gradrick's lantern reveal
 
 In [[2026_1108 Session 22|Session 22]], the party killed giant red centipedes in the exercise room and Sab recovered a magical lion-faced +1 shield. Thorn-bearing greenkin in an old carpenter’s room reported two web takers arriving from eastern stairs, one going north and one west. A dead silkbound lay beside a corrosive basin; Sab used its mace to recover a brass key. The group defeated an ochre jelly and investigated numerous pools with varied liquids and effects. Near illusory treasure Orlin felt a breeze, Gradrick found a rotating wall, and Orlin opened it to an unexplored room. A broad staircase descends beyond the party’s light. See the session record for pool observations and uncertainties.
 
+In [[2026_1115 Session 23|Session 23]], the rotating wall led to a dry study and bedroom. A portrait signed by Rogahn and Zelligar credits Marevak with guiding them. Orlin recovered desk papers that mention Zelligar and “IX,” and Gradrick took journals that reportedly mention experiments with roots. A trapped desk drawer yielded the [[item-jewel-of-barbalt|Jewel of Barbalt]]. Oogie found gold and two healing potions under the bed, and Grond found a beetle-shaped potion bottle in a separate cabinet.
+
+Pale luminous roots or vines lit a familiar upper corridor. The party successfully reopened [[npc-lumpy|Lumpy's]] supply doorway, bought supplies, and continued into a guest room with an illusory sleeper. The upper service rooms include a charcoal store with torch-making supplies, a smithy, and a water shaft that drops roughly 30 feet to the first floor and continues down. A passage to the west hid beams, rope, spare doors, and dressed stone behind a sliding wall.
+
+A well-kept upper-floor door opened onto a purple velvet curtain and [[location-mazahs-tower|Mazzah’s sitting room]]. Splat and objects crossed in both directions while the curtain was open. Mazzah was unable to find the opening after Sab drew the curtain. He does not know how the connection appeared and plans to investigate. The party is unsure whether either doorway will still work. A passage past ruined workers' quarters looped back toward the entrance guardroom.
+
 ## Current Relevance
 
-The party is at the pool chamber with Katherine Guy, beside an opened rotating wall leading to an unexplored room. Greenheart's rescue-or-peace request remains incomplete: no actual captives or heart seed were recovered. A psychic link showed a spiderlike female controlling altered orcish hunters; her location and origins remain unknown. Oogie's mushroom contact also showed a greenkin dying after drinking gray liquid from a stone pool, whose identification and nature remain unverified. A gray syrupy pool was found, but has not been linked conclusively to the vision. Light supplies are an immediate concern, and Lumpy's door has not been retested. The incense source and wider interior remain unexplored. Quasqueton is distinct from Castle Zentolin.
+The party and Katherine Guy set up camp in the first-floor entrance guardroom at the end of [[2026_1115 Session 23|Session 23]], following the upper-floor sweep. They intend to read the study documents together before pressing farther in. Greenheart’s rescue-or-peace request remains incomplete. The spiderlike controller is still unlocated, and the party has yet to connect the gray basin to Oogie’s earlier vision.
 
 ## Uncertainty
 
@@ -63,3 +69,6 @@ The writ's legal force, the meaning of “lawful bearer,” the wider stronghold
 - [Castle Zentolin](../places/location-castle-zentolin)
 - [Serpent-and-Skull Marked Mound](../places/location-serpent-skull-marked-mound)
 - [The Hollow Gate Writ](../active-leads/thread-hollow-gate-writ)
+- [Mazzah](../people/npc-mazzah)
+- [Mazzah's Tower](../places/location-mazahs-tower)
+- [Jewel of Barbalt](../items/item-jewel-of-barbalt)

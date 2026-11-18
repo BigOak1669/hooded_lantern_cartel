@@ -12,7 +12,7 @@ tags: [campaign, items]
 
 ## Current Status
 
-Active party equipment, usually carried by Sab.
+Active party equipment, carried by Sab. It currently holds the cased [[item-jewel-of-barbalt|Jewel of Barbalt]] for safekeeping.
 
 ## Known Facts
 
@@ -25,3 +25,8 @@ Active party equipment, usually carried by Sab.
 - 2026-02-22 [[2026_0222 Session 06]] — Magic bag identified as having five slots.
 
 ## Notes / Uncertainty
+
+## Garden Connections
+
+- [Sab](../party/pc-sab)
+- [Jewel of Barbalt](../items/item-jewel-of-barbalt)

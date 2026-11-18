@@ -31,6 +31,12 @@ Mazzah identified the party's marked-mound finds, including Orlin's weightlessne
 
 He interpreted Eldran Vey's papers as a possible claim to [[location-quasqueton|Quasqueton]], distinguished that stronghold from Castle Zentolin, and relayed several unverified rumors about its builders and contents. Gradrick left Tornar's journals with him for study and received a plant-speaking draught in exchange.
 
+## Session 23
+
+Through a velvet-curtained passage from [[location-quasqueton|Quasqueton]], the party found Mazzah taking tea with a spectral pony in his sitting room. The pony vanished when they called out. Mazzah said the passage was new to him. He wondered whether one of his tapestries was involved, and he plans to research it. He could exchange objects and talk through the open threshold. When the curtain was drawn, he could not find the opening from his side.
+
+In [[2026_1115 Session 23|Session 23]] he identified the [[item-jewel-of-barbalt|Jewel of Barbalt]], Sab's [[item-lion-faced-shield|Shield of the Lion]], Grond's [[item-beetle-potion-of-animal-shifting|beetle potion]], and Oogie's two tactical healing potions. He judged Orlin's cloak clasp ordinary and refreshed the party's torches.
+
 ## Garden Connections
 
 - [Parent: Mazzah's Tower](../places/location-mazahs-tower)
@@ -40,3 +46,7 @@ He interpreted Eldran Vey's papers as a possible claim to [[location-quasqueton|
 - [Celestia](../people/npc-celestia)
 - [Staff of the Cobra](../items/item-cobra-headed-staff)
 - [Owl of Magnus](../items/item-crystal-owl)
+- [Quasqueton / Hollow Gate](../places/location-quasqueton)
+- [Jewel of Barbalt](../items/item-jewel-of-barbalt)
+- [Shield of the Lion](../items/item-lion-faced-shield)
+- [Beetle Potion of Animal Shifting](../items/item-beetle-potion-of-animal-shifting)
